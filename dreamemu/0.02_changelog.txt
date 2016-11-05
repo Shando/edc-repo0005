@@ -1,0 +1,23 @@
+SH-4 CPU:
+	 Rewrote CPU Interpreter Core: Increased speed and accuracy
+Graphics: 
+	 2D Framebuffer: RGB565 mode implemented, graphics drawing speed increased, corrected screen update rate (still not accurate)
+Debugger:
+	 Disassembly: The amount of disassembly to process can now be controlled by the user.
+		      The whole memory area does not need to be disassembled, although this is possible
+ 		      too. (Note: not all regions can be disasm'ed yet...have to rewrite the debugger so I didnt bother adding these in yet)
+Emulator:
+ 	 Command Line: -lx command line option added
+ 	 Header Information: Got rid of the error message and correct device information is now shown
+         Support for scrambled boot files added
+
+IMPORTANT NOTE: Unlike the last release, in which you needed 32bit colour to run, in this release
+	        you MUST set your desktop colour to 16bit. Setting it to 32bit wont crash Dreamemu,
+		it will just show the wrong colours. Support for the different desktop colour depths
+		will be added shortly.
+
+New Software working: Stars Demo
+                      640x80 example
+		      argb8888 example (not showing correctly now)
+
+There could be more...I havent tried much...please inform me if there is! 

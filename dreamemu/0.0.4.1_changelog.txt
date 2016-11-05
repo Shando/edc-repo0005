@@ -1,0 +1,17 @@
+  * SH-4:  
+    1. A minor bug in some delay slot instructions is fixed 
+    2. Store queues implemented  
+  * PowerVR:  
+    1. Implemented plugin system 
+    2. Fixed FPS counter (was displaying a higher FPS than it actually was) 
+    3. 3D Graphics Support  
+  * Maple Bus:  
+    1. Revised plugin system 
+    2. polling of controllers much improved  
+  * Other:  
+    1. Fixed a few bugs like the crash on exit. 
+    2. Uses Win32 heap allocation functions for memory for very quick memory allocation. 
+    3. Windows XP Theme support. 
+    4. New user interface. 
+    5. Dosn't crash as much.  
+There are a few more but I can't remember since it was such a long time since the last release :) 
