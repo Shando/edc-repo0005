@@ -1,0 +1,14 @@
+Changes - 4th January 2003
+--------------------------
+
+ 4.1 2003 - I added the ROM module PASCAL and integrate data for disassembler now no longer needed support files. Pascal version released as 1.3p Release
+ 3.12 2002 - I resumed adjustments and corrections from previous beta version and manufactured Release 1.3
+10.20 2002 - Again reworked decoding ports for simulating hardware works properly load and save in versions 1, 2, 3 and Didaktik Alfa
+10.19 2002 - The all-new simulation Cassette interface - now work and other programs, including COPY WELL
+10.12 2002 - The analyzer wav got a new digital filter and read the success of recordings from old cassettes significantly increased
+ 5.9 2002 - Does a test version of the audio output. While not perfect, but it fairly hums :-)
+17.8 2002 - The new version of the analyzer reading wav recordings from tape or from PMD to PC
+ 3.8 2002 - Simulation of keyboard clone Mato completed works emulation clone Mato without simulation deck
+ 1.8 2002 - adding content Mato ROM clone, unfortunately emulation is down due to a different mapping the keys on the keyboard :-(
+
+*** Translated from Czecholslovakian using Google Translate ***
