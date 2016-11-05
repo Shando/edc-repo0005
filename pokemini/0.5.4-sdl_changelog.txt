@@ -1,0 +1,8 @@
+Changes - 19th December 2013
+----------------------------
+
+  -: 0.5.4 Changes :-
+  Fixed savestates load/save
+  Minor changes
+  PSP Only:
+    Timezone is now handled correctly

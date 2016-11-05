@@ -1,0 +1,21 @@
+Changes - 18th April 2010
+-------------------------
+
+
+Version 0.32
+------------
+
+* Fixed sound cracking/buzzing in CD-ROM games.
+
+* Improved BXR/BYR latch timings (hopefully). Fixes sprite corruption in Deep Blue (J).
+
+* Then found out that the above change breaks other games so reverted it back :D.
+
+* Fixed a memory handler related bug which caused some games to crash Turbo Engine.
+
+* Fixed the problem of scanlines looking ugly when Window size multiplier of 3
+  is selected.
+  
+* Slightly improved sound mixing speed.
+
+* Fixed a small localization DLL setting bug.

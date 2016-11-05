@@ -1,0 +1,13 @@
+Changes - 6th February 2015
+---------------------------
+
+v1.5.2
+------
+
+- Clarify the timing vblank
+- Improving audio playback
+- GUI improvements
+- CP / M configuration (no boot disk will fail)
+
+
+*** Translated from Hungarian using Google Translate ***
