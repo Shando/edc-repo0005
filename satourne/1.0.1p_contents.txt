@@ -1,0 +1,37 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-05-19 01:44:00 ....A         6229       306457  plugin_specs.zip
+2003-06-03 17:52:00 ....A       309440               SatourneTC.chm
+2003-06-05 00:10:00 ....A        65536               backup_ram.bin
+2003-06-04 22:53:00 ....A          520               cdblock plugins\CD_block_ISO_plugin_v1.0.1.txt
+2003-06-05 10:33:56 ....A         4632               readme.txt
+2003-06-04 22:24:00 ....A          569               scsp plugins\SCSP_plugin_v1.0.1.txt
+2003-06-05 00:16:00 ....A          477               scu plugins\SCU_no_DSP_plugin_v1.0.1.txt
+2003-05-25 19:12:00 ....A          234               sh2 plugins\SH2_dynarec_plugin_v1.0.txt
+2003-05-25 19:14:00 ....A          249               sh2 plugins\SH2_interpreter_debugger_plugin_v1.0.txt
+2003-05-25 19:10:00 ....A          137               sh2 plugins\SH2_interpreter_plugin_v1.0.txt
+2003-06-05 10:20:46 ....A          440               smpc plugins\SMPC_Dinput_plugin_v1.0.txt
+2003-06-04 22:46:00 ....A         1271               vdp plugins\VDP_opengl_plugin_v1.0.1.txt
+2003-05-25 21:25:00 ....A          556               Consollection.url
+2003-05-25 21:25:00 ....A          152               Satourne.url
+2003-06-04 22:11:00 ....A       430080       491287  Satourne 2003.exe
+2003-06-04 22:58:00 ....A        37888               cdblock plugins\CD_block_ISO_plugin_v1.0.1.dll
+2002-10-06 19:37:00 ....A       487424               MSVCP70.DLL
+2000-11-29 03:07:00 ....A       307200               msvcr70.dll
+2003-06-04 22:56:00 ....A       626688               scsp plugins\SCSP_plugin_v1.0.1.dll
+2003-05-28 00:39:00 ....A        29184               scu plugins\SCU_no_DSP_plugin_v1.0.1.dll
+2003-05-25 18:53:00 ....A       102400               sh2 plugins\SH2_dynarec_plugin_v1.0.dll
+2003-05-25 05:13:00 ....A        77824               sh2 plugins\SH2_interpreter_debugger_plugin_v1.0.dll
+2003-05-25 18:53:00 ....A        40960               sh2 plugins\SH2_interpreter_plugin_v1.0.dll
+2003-06-04 23:57:00 ....A       184320               smpc plugins\SMPC_Dinput_plugin_v1.0.dll
+2003-06-04 22:58:00 ....A        98304               vdp plugins\VDP_opengl_plugin_v1.0.1.dll
+2003-05-19 01:50:00 ....A            0            0  roms\Place your ST-V roms here in a zipped format
+2016-11-06 20:13:14 D....            0            0  vdp plugins
+2016-11-06 20:13:14 D....            0            0  smpc plugins
+2016-11-06 20:13:14 D....            0            0  sh2 plugins
+2016-11-06 20:13:13 D....            0            0  scu plugins
+2016-11-06 20:13:13 D....            0            0  scsp plugins
+2016-11-06 20:13:11 D....            0            0  roms
+2016-11-06 20:13:11 D....            0            0  cdblock plugins
+------------------- ----- ------------ ------------  ------------------------
+2016-11-06 20:13:14            2812714       797744  26 files, 7 folders

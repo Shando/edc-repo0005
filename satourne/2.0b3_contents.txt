@@ -1,0 +1,60 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-19 21:35:20 ....A        65536       107157  backupRamSaturn.bin
+2005-12-19 21:32:28 ....A        65536               backupRamSTV.bin
+2005-11-09 21:45:36 ....A         3941               hacks.ini
+2006-09-01 19:21:50 ....A        16018               language.ini
+2005-05-18 01:06:54 ....A          223               replacement_texture_set\panzer dragoon zwei\panzer dragoon zwei.ini
+2005-05-18 11:42:06 ....A          411               replacement_texture_set\radiant silvergun\radiant silvergun.ini
+2005-05-17 22:59:34 ....A          202               replacement_texture_set\virtua fighter kids\virtua fighter kids.ini
+2005-05-18 01:06:06 ....A        32716               replacement_texture_set\panzer dragoon zwei\aile.tif
+2005-05-18 01:01:46 ....A         2320               replacement_texture_set\panzer dragoon zwei\aile.tif_associated.tif
+2005-05-18 01:06:42 ....A        65866               replacement_texture_set\panzer dragoon zwei\aile2.tif
+2005-05-18 01:04:28 ....A         3102               replacement_texture_set\panzer dragoon zwei\aile2.tif_associated.tif
+2005-05-17 22:45:14 ....A        49510               replacement_texture_set\virtua fighter kids\oeil.tif
+2005-05-17 22:54:04 ....A         1262               replacement_texture_set\virtua fighter kids\oeil.tif_associated.tif
+2005-05-18 11:35:08 ....A         1604               replacement_texture_set\radiant silvergun\rsgun_explode1.tif
+2005-05-18 11:35:22 ....A         1612               replacement_texture_set\radiant silvergun\rsgun_explode1.tif_associated.tif
+2005-05-18 11:39:12 ....A        27568               replacement_texture_set\radiant silvergun\rsgun_homming1.tif
+2005-05-18 11:42:02 ....A          792               replacement_texture_set\radiant silvergun\rsgun_homming1.tif_associated.tif
+2005-05-18 11:41:38 ....A         7868               replacement_texture_set\radiant silvergun\rsgun_shot_homming1.tif
+2005-05-18 11:41:48 ....A          734               replacement_texture_set\radiant silvergun\rsgun_shot_homming1.tif_associated.tif
+2006-08-30 22:17:02 ....A          142               Emu-Compatibility.url
+2006-08-30 22:34:14 ....A          170               Emu-Forum - Satourne.url
+2006-08-30 22:16:38 ....A          152               Satourne.url
+2005-12-19 21:32:26 ....A       946176      2084746  satourne_3_win32.exe
+2005-12-13 21:21:28 ....A        23040               plugins\cdrom_aspi_plugin.dll
+2005-12-19 00:41:06 ....A        94208               plugins\cdrom_aspi_plugin_debug.dll
+2005-12-14 00:47:10 ....A        22528               plugins\cdrom_iso_plugin.dll
+2005-12-19 00:41:04 ....A       110592               plugins\cdrom_iso_plugin_debug.dll
+2005-12-13 21:21:24 ....A         5120               plugins\controller_plugin.dll
+2005-12-19 00:41:02 ....A        36864               plugins\controller_plugin_debug.dll
+2005-12-13 21:21:24 ....A       176128               plugins\controller_plugin_dinput.dll
+2005-12-19 00:41:02 ....A       245760               plugins\controller_plugin_dinput_debug.dll
+2004-05-04 10:53:40 ....A      1645320               gdiplus.dll
+2005-07-04 15:51:26 ....A       128254               jpeg62.dll
+2005-12-14 00:44:18 ....A        13824               libogg.dll
+2005-07-04 15:51:36 ....A       442007               libtiff3.dll
+2005-12-14 00:45:48 ....A      1124352               libvorbis.dll
+2005-12-14 00:46:48 ....A        21504               libvorbisfile.dll
+2003-03-19 02:14:52 ....A       499712               msvcp71.dll
+2003-03-19 01:04:26 ....A       765952               msvcp71d.dll
+2003-02-21 10:42:22 ....A       348160               msvcr71.dll
+2003-03-19 01:03:52 ....A       544768               msvcr71d.dll
+2005-12-13 21:21:22 ....A         6144               plugins\scsp_dsound_fab_plugin.dll
+2005-12-19 00:41:00 ....A        45056               plugins\scsp_dsound_fab_plugin_debug.dll
+2005-12-13 21:21:22 ....A        36864               plugins\scsp_dsound_plugin.dll
+2005-12-19 00:41:00 ....A        98304               plugins\scsp_dsound_plugin_debug.dll
+2005-12-08 03:02:04 ....A       126976               plugins\vdp_plugin.dll
+2005-12-18 20:05:20 ....A       262144               plugins\vdp_plugin2.dll
+2005-12-19 00:40:56 ....A       589824               plugins\vdp_plugin2_debug.dll
+2005-12-08 03:10:08 ....A       352256               plugins\vdp_plugin_debug.dll
+2005-07-04 15:52:44 ....A       160016               WNASPI32.DLL
+2005-07-04 15:52:44 ....A        70656               zlib1.dll
+2016-11-06 19:59:01 D....            0            0  replacement_texture_set\virtua fighter kids
+2016-11-06 19:59:01 D....            0            0  replacement_texture_set\radiant silvergun
+2016-11-06 19:59:01 D....            0            0  replacement_texture_set\panzer dragoon zwei
+2016-11-06 19:59:01 D....            0            0  replacement_texture_set
+2016-11-06 19:59:01 D....            0            0  plugins
+------------------- ----- ------------ ------------  ------------------------
+2016-11-06 19:59:01            9289794      2191903  51 files, 5 folders

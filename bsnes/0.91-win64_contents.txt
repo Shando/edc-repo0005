@@ -1,0 +1,40 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-08-06 22:40:31 ....A      3205079       342348  cheats.xml
+2012-06-25 11:56:25 ....A           73               Famicom.sys\manifest.xml
+2012-07-09 23:54:21 ....A          214               Super Famicom.sys\manifest.xml
+2012-07-10 00:00:26 ....A          208               Game Boy.sys\manifest.xml
+2012-07-10 00:00:53 ....A          215               Game Boy Color.sys\manifest.xml
+2012-07-10 00:08:07 ....A          218               Game Boy Advance.sys\manifest.xml
+2012-07-15 05:47:49 ....A          476               Super Game Boy.sfc\manifest.xml
+2012-07-15 06:15:43 ....A          826               Sufami Turbo.sfc\manifest.xml
+2012-07-15 07:34:18 ....A          545               BS-X Satellaview.sfc\manifest.xml
+2012-07-23 10:41:56 ....A          931               Nintendo DS.sys\manifest.xml
+2012-07-29 14:15:04 ....A         8449               kaijuu.html
+2012-08-10 00:59:25 ....A        11613               input.cfg
+2012-04-18 11:12:51 ....A          256               Game Boy.sys\boot.rom
+2012-04-18 11:25:05 ....A         2048               Game Boy Color.sys\boot.rom
+2012-04-18 12:06:41 ....A          256               Super Game Boy.sfc\boot.rom
+2012-04-18 11:00:33 ....A           64               Super Famicom.sys\spc700.rom
+2011-12-30 06:38:11 ....A          644               Video Shaders\Curvature.OpenGL.shader
+2011-12-30 06:48:50 ....A         2878               Video Shaders\HQ2x.OpenGL.shader
+2011-12-30 06:45:37 ....A         1798               Video Shaders\Pixellate.OpenGL.shader
+2011-12-30 06:51:43 ....A         1786               Video Shaders\Scale2x.OpenGL.shader
+2011-12-30 06:43:16 ....A          876               Video Shaders\Sepia.Direct3D.shader
+2012-08-10 00:46:41 ....A      3057664      1018768  bsnes.exe
+2012-07-29 14:32:05 ....A       380416               kaijuu64.exe
+2012-08-06 22:54:13 ....A      1070518               purify.exe
+2012-07-29 14:32:00 ....A       199168               kaijuu64.dll
+2012-08-10 00:59:29 ....A            0            0  settings.cfg
+2016-10-23 09:06:02 D....            0            0  Video Shaders
+2016-10-23 09:06:02 D....            0            0  Super Game Boy.sfc
+2016-10-23 09:06:02 D....            0            0  Super Famicom.sys
+2016-10-23 09:06:02 D....            0            0  Sufami Turbo.sfc
+2016-10-23 09:06:02 D....            0            0  Nintendo DS.sys
+2016-10-23 09:06:02 D....            0            0  Game Boy.sys
+2016-10-23 09:06:02 D....            0            0  Game Boy Color.sys
+2016-10-23 09:06:02 D....            0            0  Game Boy Advance.sys
+2016-10-23 09:06:02 D....            0            0  Famicom.sys
+2016-10-23 09:06:02 D....            0            0  BS-X Satellaview.sfc
+------------------- ----- ------------ ------------  ------------------------
+2016-10-23 09:06:02            7947219      1361116  26 files, 10 folders
