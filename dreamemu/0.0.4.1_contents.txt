@@ -1,0 +1,17 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-10-28 17:02:26 ....A         9157         6315  readme.htm
+2002-10-28 18:11:30 ....A          278               Plugins\LordCheese_DD7.txt
+2002-10-28 18:04:18 ....A         4077               Plugins\LordCheese_DI8.txt
+2002-10-28 18:13:24 ....A          183               Plugins\LordCheese_OGL.txt
+2002-10-28 17:18:28 ....A         3105               Dreamemu.ini
+2002-10-28 17:29:02 ....A       495616       139373  Dreamemu.exe
+2002-10-28 17:38:46 ....A        40960               Plugins\LordCheese_DirectDraw7.dll
+2002-10-28 18:03:58 ....A        86016               Plugins\LordCheese_DirectInput8.dll
+2002-10-28 17:39:06 ....A        73216               Plugins\LordCheese_OpenGL.dll
+2002-05-27 17:21:40 ....A            0            0  BIOS\putbioshere
+2002-05-27 17:22:02 ....A            0            0  Plugins\putpluginshere
+2016-11-05 09:15:49 D....            0            0  Plugins
+2016-11-05 09:15:49 D....            0            0  BIOS
+------------------- ----- ------------ ------------  ------------------------
+2016-11-05 09:15:49             712608       145688  11 files, 2 folders

@@ -1,0 +1,17 @@
+SH-4:
+          Implemented FPU
+          Fixed some sign problems
+          Implemented basic timers (not done correctly yet)
+          SCIF Faking
+PowerVR:
+          Support for 320x240 mode
+Maple Bus (Control Interface):
+          Implemented controllers (not perfect, but working)
+GD-ROM:
+         Implemented ISO9660 filesystem support (ISO Image support only)
+Other:        
+         Basic Plugin system (Controller Plugin only)
+         Fixed INI file problem
+         Added some new loading and gui options
+Debugger:
+        The program counter can now be set independantly by the user

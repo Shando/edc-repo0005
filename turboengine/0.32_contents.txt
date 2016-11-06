@@ -1,0 +1,25 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-08-05 08:26:50 ....A           92       574916  Languages\Template\stub.cpp
+2009-08-16 16:04:02 ....A      1232896               Encoder\oggenc.dll
+2010-04-17 20:48:54 ....A        47835               Languages\1033\Satellite.dll
+2010-04-17 20:44:10 ....A       388608               TurboEngine.exe
+2009-09-23 12:02:38 ....A        16912               Languages\Template\resource.h
+2009-08-05 08:27:02 ....A          256               Languages\Template\stdafx.h
+2008-08-05 12:23:38 ....A        15094               Languages\Template\icon.ico
+2010-04-17 20:47:56 ....A        33437               Languages\Template\Turbo.rc
+2007-03-07 08:28:42 ....A        24064               Plugins\interpolation.rpi
+2008-03-21 16:41:16 ....A        23552               Plugins\normal2x.rpi
+2009-08-06 10:02:48 ....A          899               Languages\Template\Turbo.sln
+2009-08-06 10:34:14 ....A         2107               Languages\Localization.txt
+2010-04-17 20:50:00 ....A        18144               ReadMe.txt
+2009-08-13 04:34:12 ....A         3778               Languages\Template\Turbo.vcproj
+2004-04-13 01:27:30 ....A          429               Languages\Template\manifest.xml
+2009-08-06 10:31:26 ....A          286               Languages\Template\makefile
+2009-08-06 10:31:26 D....            0            0  Encoder
+2009-08-06 10:31:26 D....            0            0  Plugins
+2009-08-06 10:31:26 D....            0            0  Languages\Template
+2009-08-06 10:31:26 D....            0            0  Languages\1033
+2009-08-06 10:31:26 D....            0            0  Languages
+------------------- ----- ------------ ------------  ------------------------
+2010-04-17 20:50:00            1808389       574916  16 files, 5 folders
