@@ -1,0 +1,48 @@
+Changes - 19th September 2011
+-----------------------------
+
+JPCSP v0.6:
+
+-> Included compilation of several "Allegrex" instructions in dynarec for a
+   much better performance;
+
+-> Performed major code cleanups and reorganization;
+
+-> Fixed and improved module loading:
+	- Corrected import and export's mapping;
+	- Implemented newly discovered loading methods.
+
+-> Updated all modules with the most recent findings;
+
+-> Added all new save/load (savedata) modes;
+
+-> Reviewed and improved all kernel object managers:
+	- Implemented each kernel object manager's attributes;
+	- Added full LwMutex support in a dedicated kernel object manager
+	- Provided corrections for mutex, semaphore and event flag managers;
+	- Properly implemented VPL and FPL handling.
+
+-> Improved graphics' handling:
+	- Splitted rendering into a new RE (rendering engine);
+	- Cleaned up and optimized VideoEngine;
+	- Fully implemented, corrected and organized main GE commands;
+	- Improved shaders' usage and stability;
+	- Introduced a geometry shader for increased speed in rendering;
+	- Fixed display list processing;
+	- Improved the performance of several GE commands.
+	- Implemented the VideoEngine processing in a parallel thread,
+	  to take advantage of dual-core processors and
+	  match the PSP dual-core architecture.
+
+-> Implemented a MediaEngine for video and audio playback (based on FFMPEG):
+	- Added video playback support in sceMpeg and scePsmfPlayer;
+	- Added ATRAC3 audio playback support in sceAtrac3plus;
+	- Improved "UMD Browser" to display images, load videos and play sounds
+	  from the UMD data.
+
+-> Improved main GUI and debug tools:
+	- Added a "Cheats" menu with CWCheat support;
+	- Provided a cleaner organization and display of settings;
+	- Removed "Emulation" menu;
+	- Improved the "Logger" tool;
+	- Added a new "Image Viewer" tool.

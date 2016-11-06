@@ -1,0 +1,17 @@
+Changes - 17th May 2011
+-----------------------
+
+Changes in v2.0.2
+--------------------
+Integrated Pad Plugin! (from SSSPSXPad)
+Cue support
+SPU sound fixes (Such as Seifer's Sword)
+AVI and WAV now split at 2GB 
+Codecs greater than 4K properly load
+Display no longer dark during load screen
+Controls can be configured during gameplay
+Emulator window can be resized during play
+CD Swapping fixed for text based movies
+*Accurate Dual Shock Emulation
+
+*Only use this if digital input stutters during gameplay when using analog controllers.

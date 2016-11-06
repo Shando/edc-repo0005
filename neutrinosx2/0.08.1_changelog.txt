@@ -1,0 +1,10 @@
+Changes - 28th June 2003
+------------------------
+
+ CHANGES v0.08.01 : Bugfix Release
+ - Nasty DMAC ch2 bug (alot of crashes fixed)
+ - Timing issue with monalisa.elf
+ - Not allow to change plugins during emulation
+ - Fixes to translation procedures
+ - Updated CDVD plugin in archive
+ - Updates to translation files

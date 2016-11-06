@@ -1,0 +1,6 @@
+Changes - 2nd July 2016
+-----------------------
+
+hps1x64 v019 - DMA priority fixes
+
+hps2x64 v003 - IPU fixes, fog implemented, MFIFO fixes, GPU fixes

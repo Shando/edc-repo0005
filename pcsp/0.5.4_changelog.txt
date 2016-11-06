@@ -1,0 +1,40 @@
+Changes - 4th October 2011
+--------------------------
+
+2.1 V0.5.4 (last version until rewrite)
+
+General
+-----------
+Experimental Dynamic shaders . A lot faster works in a few demos – use it at your own risk
+Added VEH handler for win32
+New portable fiber implementation for win, linux and macosx 32/64-bit.
+GLEW is now used instead of GLEE
+Better thread behavior for KernelVsync
+Fix a bug with opengl renderer when trying to unbind a shader program never binded
+
+HLE
+----
+Implementation of sceRtcSetDosTime ,sceRtcIsLeapYear ,sceRtcCompareTick
+Implemented adding of ticks. (11 syscalls)
+Fix sceRtcGetCurrentTick()
+Fixed sceKernelLibcTime()
+Implementation for sceKernelPollSema()
+Fixes in KernelEventFlag
+added loading of files after resetting emu. (sceKernelLoadExec case)
+Improved and refactored module management code into sceKernelModule.
+Started implementation of restarting features for PCSP.
+Partially implemented sceKernelLoadExec
+
+GE
+---
+Partial implementation for CMD_SIGNAL
+Fixed pc address and stall address
+Added LogicalOperation, corrected StencilTest
+CMD_TLEVEL was wrong
+Implementation of spline decoding
+fix LOD issues in micromachines
+fix a bug with DXTn compressed textures
+
+Sound
+---------
+sceAtrac3plus: source cleanup
