@@ -1,0 +1,5 @@
+Changes - 25th August 2010
+--------------------------
+
+
+To do S9xSyncSpeed () in HC_HCOUNTER_MAX_EVENT, it changed. Because that synchronization becomes Inaccuracy when a lot of DMA bytes are. It changed so that the interval of the frame timer might become HC_MAX/2 long at the Interlace mode.

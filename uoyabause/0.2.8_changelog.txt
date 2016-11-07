@@ -1,0 +1,8 @@
+Changes - 12th May 2016
+-----------------------
+
+Optimize for Quad-core cpu. RBG0 is drawn in its own thread.
+Fix: Moga controller can't be configured
+Fix: CD driver emulation bugs. Chaos Seed and SAKATUKU may be playable
+Fix #198 [F1 Challenge] Missing circuit
+Fix #128 [Capcom Generation 4]

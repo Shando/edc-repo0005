@@ -1,0 +1,17 @@
+Changes - 2nd May 2016
+----------------------
+
+## What's new
+
+- "Step over" and "step out" buttons in debugger
+- Improved debugger UI with register editing
+- Improved handling of address mirroring for breakpoints (extends to the entire address space, not just RAM)
+- Real-time code and data highlighting in memory editor, with fast searching for known code/data locations and unexplored regions
+- Cartridge ROM and RAM views in memory editor for mapper-agnostic analysis
+- SA-1 disassembly and debugging
+- SA-1 bus and BW-RAM viewing and (partial) usage logging
+- Super FX disassembly and debugging
+- Super FX bus viewing and usage logging
+- SPC file dumping
+- IPS and BPS soft patching
+- Multiple emulation improvements backported from bsnes/higan (mostly via bsnes-classic)

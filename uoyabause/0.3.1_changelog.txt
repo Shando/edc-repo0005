@@ -1,0 +1,9 @@
+Changes - 6th July 2016
+-----------------------
+
+Minor bug fixes
+* SEGA rally background music
+* Character is not shown at Asuka 120% and Golden Axe The Duel.
+* Black Screen at 'Dragon Ball Z - Shinbutohden' and 'Mobile Suit Gundam Gihrens Greed '
+
+Add setting menu for choosing sound engine for low-end android devices.

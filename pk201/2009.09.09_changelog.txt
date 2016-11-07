@@ -1,0 +1,5 @@
+Changes - 9th September 2009
+----------------------------
+
+CPU: 'add pc,reg' in Thumb instruction was fixed.
+

@@ -1,0 +1,4 @@
+Changes - 12th June 2016
+------------------------
+
+The new sound emulation engine implemented by d357.

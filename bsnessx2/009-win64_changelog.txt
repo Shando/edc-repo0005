@@ -1,0 +1,6 @@
+Changes - 5th August 2012
+-------------------------
+
+v009:
+- Debugger removed for faster emulation
+- Proper BS-X Memory Mapping added. (Note: This version isn't tested.)
