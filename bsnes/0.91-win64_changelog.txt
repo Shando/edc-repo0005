@@ -1,0 +1,73 @@
+  * Fix issues with bsnes-purify (Closes: #687034):
+    - Fix segmentation fault when run with less than two arguments.
+    - Purify also files with uppercase suffix.
+  * Add missing epoch to versioned Build-Depends on gcc (Closes: #687197).
+  * Remove workaround for g++ bug PR c++/53821, which is now fixed in wheezy.
+  * Change my email address in debian/control to the debian.org one.
+  * Remove DMUA flag.
+
+  * Add workaround for g++ bug PR c++/53821. (Closes: #684840)
+
+  * Add bsnes-purify to the bsnes package.
+    A command line tool that replaces snespurify and adds:
+    - support for ROMs of other systems than SNES
+    - creates cartridge folders for ROMs (folders for all data
+      belonging to a game - will be mandatory starting from bsnes 0.089)
+  * debian/bsnes-purify.6
+    - Added. Manual page for bsnes-purify.
+  * debian/patches/fix-purify-header-removal-and-input.patch:
+    - Added. Header detection was broken and the tool didn't
+      accept folder names without trailing slash.
+  * debian/changelog:
+    - Remove wrong line "Rename snespurify to bsnes-purify."
+      from 0.088-1 entry.
+
+  * debian/patches/remove-march=native-build-flag.patch:
+    - Added. This build flag causes binaries that don't work on all processors
+      and is not supported on all architectures.
+
+  [Gregor Herrmann]
+  * Fix "FTBFS: ./ruby/audio/alsa.cpp:4:28: fatal error:
+    alsa/asoundlib.h: No such file or directory":
+    build-depend on libasound2-dev (linux) (Closes: #669447)
+
+  [Tobias Hansen]
+  * New upstream release.
+    - Adds Game Boy Advance support.
+    - Removes snespurify sources.
+    - Compiles with gcc 4.7. (Closes: #667122)
+  * snespurify removed from package bsnes.
+  * debian/rules:
+    - Don't use the install targets of the makefiles anymore.
+    - Check DEB_BUILD_OPTIONS for 'testbuild', build only
+      bsnes-compatibility when found to allow for fast test builds.
+  * Install new system folders to /usr/share/games/bsnes and 
+    /usr/share/games/laevateinn.
+    - Copy folders and symlink to files in debian/startscript/bsnes.
+    - Rename laevateinn binary to laevateinn-bin, create wrapper script
+      laevateinn to copy folders and symlink to files also for laevateinn.
+    - Create man page for laevateinn-bin. 
+  * debian/bsnes.6:
+    - Mention Game Boy Advance support.
+    - Mention system folders and bios image required for GBA emulation.
+    - Add note that files with wrong extensions or copier headers can't be
+      opened.
+  * debian/patches/misc-makefile-changes.patch:
+    - Removed. Installation is now done in debian/bsnes.install
+      and debian/rules.
+    - Disabling ALSA is now done in
+      debian/patches/disable-alsa-on-non-linux.patch.
+  * debian/patches/disable-alsa-on-non-linux.patch:
+    - Added. This is what is left of
+      debian/patches/misc-makefile-changes.patch.
+  * debian/patches/build-snespurify-with-newest-g++.patch:
+    - Removed. Obsolete since purify uses a makefile now.
+  * debian/patches/use-dpkg-buildflags.patch:
+    - Changed. Cope with purify using a makefile.
+  * debian/patches/detect-endianness.patch
+    debian/patches/detect-non-linux-archs.patch
+    debian/patches/snespurify-dont-crash-on-bad-zip-files.patch:
+    - Changed. Address upstream changes.
+  * debian/patches/declare-functions-in-smp-hpp.patch:
+    - Removed. FTBFS was fixed upstream.
+  * debian/watch: look for .tar.xz file.

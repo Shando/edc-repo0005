@@ -1,0 +1,41 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-02-13 06:53:40 ....A      3457103       374262  cheats.xml
+2012-04-15 03:02:41 ....A          173               Game Boy Advance.sys\manifest.xml
+2012-04-18 11:10:55 ....A          175               Super Famicom.sys\manifest.xml
+2012-04-18 11:13:13 ....A          172               Game Boy.sys\manifest.xml
+2012-04-18 11:24:16 ....A          173               Game Boy Color.sys\manifest.xml
+2012-04-18 11:58:46 ....A           69               Famicom.sys\manifest.xml
+2012-04-18 12:05:56 ....A          407               Super Game Boy.sfc\manifest.xml
+2012-04-18 12:18:18 ....A          412               BS-X Satellaview.sfc\manifest.xml
+2012-04-18 12:31:33 ....A          858               Sufami Turbo.sfc\manifest.xml
+2012-04-24 11:29:00 ....A        59392               filters\HQ2x.filter
+2012-04-24 11:29:00 ....A         8192               filters\LQ2x.filter
+2012-04-24 11:29:00 ....A         8192               filters\Phosphor3x.filter
+2012-04-24 11:28:59 ....A         7680               filters\Pixellate2x.filter
+2012-04-24 11:29:00 ....A         8192               filters\Scale2x.filter
+2012-04-24 11:28:59 ....A         7680               filters\Scanline-Dark.filter
+2012-04-24 11:28:59 ....A         7680               filters\Scanline-Light.filter
+2012-04-18 11:12:51 ....A          256               Game Boy.sys\boot.rom
+2012-04-18 11:25:05 ....A         2048               Game Boy Color.sys\boot.rom
+2012-04-18 12:06:41 ....A          256               Super Game Boy.sfc\boot.rom
+2012-04-18 11:00:33 ....A           64               Super Famicom.sys\spc700.rom
+2011-12-30 06:38:11 ....A          644               shaders\Curvature.OpenGL.shader
+2011-12-30 06:48:50 ....A         2878               shaders\HQ2x.OpenGL.shader
+2011-12-30 06:45:37 ....A         1798               shaders\Pixellate.OpenGL.shader
+2011-12-30 06:51:43 ....A         1786               shaders\Scale2x.OpenGL.shader
+2011-12-30 06:43:16 ....A          876               shaders\Sepia.Direct3D.shader
+2012-04-24 11:28:00 ....A      1541632       445357  bsnes.exe
+2012-04-24 11:28:29 ....A       275456               purify.exe
+2016-10-23 09:09:12 D....            0            0  Super Game Boy.sfc
+2016-10-23 09:09:12 D....            0            0  Super Famicom.sys
+2016-10-23 09:09:12 D....            0            0  Sufami Turbo.sfc
+2016-10-23 09:09:12 D....            0            0  shaders
+2016-10-23 09:09:12 D....            0            0  Game Boy.sys
+2016-10-23 09:09:14 D....            0            0  Game Boy Color.sys
+2016-10-23 09:09:12 D....            0            0  Game Boy Advance.sys
+2016-10-23 09:09:14 D....            0            0  filters
+2016-10-23 09:09:12 D....            0            0  Famicom.sys
+2016-10-23 09:09:12 D....            0            0  BS-X Satellaview.sfc
+------------------- ----- ------------ ------------  ------------------------
+2016-10-23 09:09:14            5394244       819619  27 files, 10 folders

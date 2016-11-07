@@ -1,0 +1,9 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-03-28 11:00:48 ....A         3186         1980  Lisezmoi.txt
+2003-03-28 11:04:28 ....A         3120               Readme.txt
+2003-04-03 10:35:04 ....A          134               Consollection  Journal d'information sur l'emulation, les ROMs et les Consoles.url
+2003-04-03 10:34:56 ....A          152               Saturnin.url
+2003-04-01 23:17:10 ....A       393283        62141  Saturnin SDE.exe
+------------------- ----- ------------ ------------  ------------------------
+2003-04-03 10:35:04             399875        64121  5 files
