@@ -1,0 +1,2 @@
+V0.31
+	- GUI : corrected some translation problems, everything should be fine now

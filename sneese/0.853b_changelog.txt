@@ -1,0 +1,3 @@
+ 0.853 [TRAC]
+  PPU: Fixed handling of tiles clipped on both sides, thanks to
+   Deathlike for the report

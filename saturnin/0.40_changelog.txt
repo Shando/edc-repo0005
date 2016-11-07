@@ -1,0 +1,29 @@
+V0.40
+	- General : added command line to automatically load multiple binaries
+	- General : added the RAM cart (fixed to 4MB for now)
+	- GUI : little tweaks for some specific languages
+	- Debug : possibility to display cached textures in the VDP1 debug options
+	- Debug : possibility to see the general planes configuration in the VDP2 debug options
+	- ST-V : added Batman Forever
+	- CD-Block : periodic response is now dependant of the SMPC clock
+	- CD-Block : various tweaking
+	- CD-Block : added the drive letter to the drive list
+	- CD-Block : fixed the bug that made the emu loops when selecting a cd drive after any path
+	- CD-Block : added GetSectorInfo command
+	- SCSP : corrected a bug in Stef's code (huge thanks to CyberWarriorX)
+	- SCSP : replaced Turbo68K by Musashi
+	- SCSP : sound is output through a DirectSound interface to the soundcard (multiple soundcard support)
+	- VDPX : added basic priorities
+	- VDPX : auto switch to upper resolution in case of strange display
+	- VDPX : full C++ handling of VDP parts rendering
+	- VDPX : sprites and backgrounds are filled into a list before rendering to ease priority display
+	- VDPX : blending bug fixed
+	- VDP1 : sprites with a width or heigth less than 2 pixel aren't displayed
+	- VDP1 : increased the top number of commands display (fixes the missing sprites in various games)
+	- VDP1 : automatic reload of textures when needed (F9 should be less needed)
+	- VDP1 : texture cache autocleaning
+	- VDP1 : corrected the bug that rendered some sprites in black with only the outline correct
+	- VDP2 : added reduction / expansion functions
+	- VDP2 : added 2048 colors bitmap mode
+	- VDP2 : bitmaps are now displayed as sprites
+	- VDP2 : added bitmap caching
