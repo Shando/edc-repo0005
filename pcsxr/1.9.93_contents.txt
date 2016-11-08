@@ -1,0 +1,42 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-08-26 20:01:20 ....A        14848       632028  plugins\bladesio1.dll
+2013-08-26 20:00:58 ....A        56832               plugins\DFSound.dll
+2013-08-26 20:00:24 ....A       301568               plugins\DFXVideo.dll
+2013-08-26 19:59:18 ....A       420352               plugins\gpuPeopsOpenGL.dll
+2010-08-03 13:28:06 ....A        57344               plugins\netSock.dll
+2013-08-26 20:10:30 ....A        51712               plugins\PadSSSPSX.dll
+2013-08-27 18:24:42 ....A      1042944               pcsxr.exe
+2010-08-03 13:28:38 ....A       131072               memcards\Mcd001.mcr
+2010-08-03 13:28:38 ....A       131072               memcards\Mcd002.mcr
+2013-08-27 18:36:44 ....A        52169               langs\ru_RU\LC_MESSAGES\pcsxr.mo
+2013-08-27 18:35:14 ....A        35184               langs\it\LC_MESSAGES\pcsxr.mo
+2013-08-27 18:35:14 ....A        45301               langs\hu_HU\LC_MESSAGES\pcsxr.mo
+2013-08-27 18:35:14 ....A        36181               langs\fr_FR\LC_MESSAGES\pcsxr.mo
+2013-08-27 18:35:14 ....A        39352               langs\zh_TW\LC_MESSAGES\pcsxr.mo
+2013-08-27 18:35:14 ....A        30798               langs\pt_BR\LC_MESSAGES\pcsxr.mo
+2013-08-27 18:35:14 ....A        45414               langs\zh_CN\LC_MESSAGES\pcsxr.mo
+2013-08-27 18:35:14 D....            0            0  langs\zh_CN\LC_MESSAGES
+2013-08-27 18:35:14 D....            0            0  sstates
+2013-08-27 18:35:14 D....            0            0  bios
+2013-08-27 18:35:14 D....            0            0  langs\it
+2013-08-27 18:35:14 D....            0            0  langs\zh_CN
+2013-08-27 18:35:14 D....            0            0  plugins
+2013-08-27 18:35:14 D....            0            0  langs\ru_RU
+2013-08-27 18:35:14 D....            0            0  langs\hu_HU\LC_MESSAGES
+2013-08-27 18:35:14 D....            0            0  langs\zh_TW\LC_MESSAGES
+2013-08-27 18:35:14 D....            0            0  langs\hu_HU
+2013-08-27 18:35:14 D....            0            0  memcards
+2013-08-27 18:35:14 D....            0            0  langs\fr_FR\LC_MESSAGES
+2013-08-27 18:35:14 D....            0            0  langs\it\LC_MESSAGES
+2013-08-27 18:35:14 D....            0            0  langs\fr_FR
+2013-08-27 18:35:14 D....            0            0  langs\pt_BR\LC_MESSAGES
+2013-08-27 18:35:14 D....            0            0  langs\pt_BR
+2013-08-27 18:35:14 D....            0            0  patches
+2013-08-27 18:35:14 D....            0            0  langs\zh_TW
+2013-08-27 18:35:14 D....            0            0  langs
+2013-08-27 18:35:14 D....            0            0  docs
+2013-08-27 18:35:14 D....            0            0  snap
+2013-08-27 18:35:14 D....            0            0  langs\ru_RU\LC_MESSAGES
+------------------- ----- ------------ ------------  ------------------------
+2013-08-27 18:36:44            2492143       632028  16 files, 22 folders

@@ -1,0 +1,419 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-01-03 04:13:27 ....A           44      1977606  hps2x64\src\hps2x64\DebugOnlyMakefile.bat
+2014-01-03 04:13:27 ....A           44               hps1x64\src\hps1x64\DebugOnlyMakefile.bat
+2014-02-23 23:03:44 ....A           50               hps2x64\src\timer\DebugOnlyMakefile_Timer.bat
+2014-08-02 02:36:00 ....A           44               hps2x64\src\r5900\src\assemble\Makefile_assemble.bat
+2014-01-24 18:54:46 ....A           35               hps2x64\src\databus\Makefile_databus.bat
+2014-02-08 03:52:53 ....A           34               hps2x64\src\r5900\Makefile_encode.bat
+2014-01-13 20:17:12 ....A           35               hps2x64\src\r5900\Makefile_execute.bat
+2014-01-13 02:56:16 ....A           34               hps2x64\src\r5900\Makefile_lookup.bat
+2014-01-13 02:55:56 ....A           33               hps2x64\src\r5900\Makefile_print.bat
+2014-01-25 00:43:10 ....A           33               hps2x64\src\r5900\Makefile_R5900.bat
+2014-01-25 15:26:04 ....A           34               hps2x64\src\system\Makefile_system.bat
+2014-02-22 19:57:33 ....A           35               hps2x64\src\gpu\Makefile_TestGPU.bat
+2014-02-22 19:55:33 ....A           37               hps2x64\src\timer\Makefile_TestTimer.bat
+2014-04-15 21:32:10 ....A           38               MakefilePS1.bat
+2014-05-03 20:02:38 ....A           38               MakefilePS2.bat
+2012-07-17 19:06:42 ....A         1064               common\breakpoint\testBreakpoint.bat
+2012-07-27 00:48:10 ....A          414               common\WindowsAPI\BreakpointWindow\testBreakpointWindow.bat
+2012-03-08 02:48:00 ....A          534               hps1x64\src\cd\testCD.bat
+2012-03-08 02:46:16 ....A          544               hps1x64\src\databus\testDataBus.bat
+2012-07-27 03:47:44 ....A          381               common\WindowsAPI\DebugMemoryViewer\testDebugMemoryViewer.bat
+2012-07-05 04:46:59 ....A          283               common\WindowsAPI\DebugValueList\testDebugValueList.bat
+2012-07-21 05:18:00 ....A          303               common\WindowsAPI\GUIHandler\testDialogs.bat
+2012-07-15 17:56:45 ....A         1174               common\WindowsAPI\DisassemblyViewer\testDisassemblyViewer.bat
+2012-03-08 02:48:45 ....A          536               hps1x64\src\dma\testDMA.bat
+2012-04-22 00:02:00 ....A          641               hps1x64\src\gpu\testGPU.bat
+2012-04-01 18:48:14 ....A          611               hps1x64\src\r3000a\testICache.bat
+2012-07-11 18:29:02 ....A          287               common\WindowsAPI\InfiniteListView\testInfiniteListView.bat
+2012-07-14 07:39:27 ....A          271               common\WindowsAPI\InputBox\testInputBox.bat
+2012-03-08 02:50:39 ....A          538               hps1x64\src\intc\testIntc.bat
+2013-01-19 20:14:01 ....A          227               common\WindowsAPI\Joystick\testJoystick.bat
+2012-03-08 02:51:17 ....A          538               hps1x64\src\mdec\testMDEC.bat
+2012-03-08 02:51:51 ....A          536               hps1x64\src\pio\testPIO.bat
+2012-03-16 02:05:55 ....A          619               hps1x64\src\r3000a\testR3000ACore.bat
+2012-09-01 05:18:28 ....A          196               hps1x64\src\r3000a\testR3000APrint.bat
+2012-03-08 02:52:33 ....A          536               hps1x64\src\sio\testSIO.bat
+2012-03-08 02:53:10 ....A          536               hps1x64\src\spu\testSPU.bat
+2012-07-13 01:32:32 ....A          912               hps1x64\src\system\testSystem.bat
+2012-03-08 02:54:06 ....A          540               hps1x64\src\timer\testTimer.bat
+2013-09-09 05:35:13 ....A           44               hps1x64\src\timer\testTimerMakefile.bat
+2015-12-07 01:56:01 ....A         5990               hps1x64\src\spu\src\adpcm.cpp
+2014-05-25 19:40:34 ....A        15162               common\breakpoint\src\breakpoint.cpp
+2012-08-16 18:49:06 ....A        20323               common\WindowsAPI\BreakpointWindow\src\BreakpointWindow.cpp
+2015-01-11 03:37:31 ....A        48866               common\DiskImage\cd\src\cdimage.cpp
+2016-06-01 03:26:36 ....A        59626               hps1x64\src\cdvd\src\CDvd.cpp
+2015-01-11 05:04:55 ....A         7661               common\config\src\ConfigFile.cpp
+2014-11-30 22:38:13 ....A         1366               common\debug\src\Debug.cpp
+2013-02-11 05:43:12 ....A         9990               common\WindowsAPI\DebugMemoryViewer\src\DebugMemoryViewer.cpp
+2014-05-30 20:51:31 ....A        13471               common\WindowsAPI\DisassemblyViewer\src\DisassemblyViewer.cpp
+2012-08-24 22:53:15 ....A          527               common\DiskImage\dvd\src\dvdimage.cpp
+2013-04-27 14:54:44 ....A        26745               hps1x64\src\spu\src\gx.cpp
+2014-04-28 16:01:41 ....A        26750               hps1x64\src\spu\src\spu2\gx2.cpp
+2016-05-11 03:23:14 ....A        75951               hps1x64\src\hps1x64\src\hps1x64.cpp
+2016-05-14 12:37:40 ....A        94535               hps2x64\src\hps2x64\src\hps2x64.cpp
+2015-05-28 00:06:45 ....A         7203               hps2x64\src\ipu\src\mpeg2lib\Idct.cpp
+2012-08-16 18:55:49 ....A         4146               common\WindowsAPI\InfiniteListView\src\InfiniteListView.cpp
+2012-08-16 18:56:15 ....A         7574               common\WindowsAPI\InputBox\src\InputBox.cpp
+2016-03-20 23:47:06 ....A        27120               hps2x64\src\ipu\src\mpeg2lib\Mpeg.cpp
+2012-08-16 18:52:58 ....A         2367               common\WindowsAPI\GUIHandler\src\MultiThread.cpp
+2013-10-28 10:13:46 ....A       171035               hps1x64\src\cd\src\old\PS1_CD.cpp
+2016-01-10 18:04:08 ....A       180961               hps1x64\src\cd\src\PS1_CD.cpp
+2016-06-29 03:17:16 ....A       136880               hps1x64\src\dma\src\not using\PS1_Dma.cpp
+2016-07-01 00:25:45 ....A       136032               hps1x64\src\dma\src\PS1_Dma.cpp
+2015-12-14 01:38:19 ....A       370052               hps1x64\src\gpu\src\PS1_Gpu.cpp
+2015-10-20 01:29:04 ....A         9683               hps1x64\src\intc\src\PS1_Intc.cpp
+2015-12-20 22:22:38 ....A        44381               hps1x64\src\mdec\src\PS1_MDEC.cpp
+2015-10-11 12:39:39 ....A         3294               hps1x64\src\pio\src\PS1_PIO.cpp
+2016-04-27 01:37:10 ....A       102242               hps1x64\src\sio\src\PS1_SIO.cpp
+2015-12-14 01:22:07 ....A       144171               hps1x64\src\spu\src\PS1_SPU.cpp
+2016-06-29 03:15:51 ....A       207108               hps1x64\src\spu\src\spu2\PS1_SPU2.cpp
+2016-03-27 13:48:16 ....A        20884               hps1x64\src\system\src\ps1_system.cpp
+2016-06-26 18:15:30 ....A        74389               hps1x64\src\timer\src\PS1_Timer.cpp
+2015-10-11 13:15:06 ....A         4424               hps1x64\src\usb\src\PS1_USB.cpp
+2016-04-18 01:46:15 ....A        48041               hps1x64\src\databus\src\PS1DataBus.cpp
+2016-06-27 01:14:02 ....A       115476               hps2x64\src\dma\src\PS2_Dma.cpp
+2016-06-27 00:52:41 ....A       602277               hps2x64\src\gpu\src\PS2_Gpu.cpp
+2015-10-20 23:53:21 ....A         7664               hps2x64\src\intc\src\PS2_Intc.cpp
+2016-05-20 04:30:26 ....A        55517               hps2x64\src\ipu\src\PS2_IPU.cpp
+2016-05-22 14:08:45 ....A        20106               hps2x64\src\sif\src\PS2_SIF.cpp
+2014-04-10 00:34:46 ....A         5835               hps2x64\src\sio\src\PS2_SIO.cpp
+2016-06-26 18:10:30 ....A        19827               hps2x64\src\system\src\ps2_system.cpp
+2016-06-28 03:35:13 ....A        50946               hps2x64\src\timer\src\PS2_Timer.cpp
+2014-02-15 20:16:47 ....A        53968               hps2x64\src\timer\src\old\PS2_Timer_old.cpp
+2015-09-26 00:52:09 ....A        76335               hps2x64\src\databus\src\PS2DataBus.cpp
+2016-04-25 02:50:31 ....A       100210               hps1x64\src\r3000a\src\R3000A.cpp
+2015-05-10 01:55:06 ....A       139087               hps1x64\src\r3000a\src\COP2\R3000A_COP2.cpp
+2015-12-20 18:38:52 ....A       110064               hps1x64\src\r3000a\src\execute\R3000A_Execute.cpp
+2014-05-26 03:08:04 ....A        10398               hps1x64\src\r3000a\src\lookup\R3000A_Lookup.cpp
+2016-04-25 02:23:29 ....A        74837               hps1x64\src\r3000a\src\recompile\R3000A_Recompiler.cpp
+2014-01-25 17:53:52 ....A        41314               hps1x64\src\r3000a\src\print\R3000ADebugPrint.cpp
+2016-06-26 11:06:47 ....A        78169               hps2x64\src\r5900\src\R5900.cpp
+2011-09-24 19:58:52 ....A        36755               hps2x64\src\r5900\src\old\old\R5900.cpp
+2014-04-05 17:38:26 ....A        69530               hps2x64\src\r5900\src\assemble\src\R5900_assembler.cpp
+2014-02-10 03:54:28 ....A        22070               hps2x64\src\r5900\src\encode\R5900_Encoder.cpp
+2016-03-27 19:32:33 ....A       392278               hps2x64\src\r5900\src\execute\R5900_Execute.cpp
+2015-06-25 01:01:36 ....A        41021               hps2x64\src\r5900\src\lookup\R5900_Lookup.cpp
+2014-07-20 19:47:36 ....A        84186               hps2x64\src\r5900\src\print\R5900_Print.cpp
+2016-04-05 01:54:38 ....A       391997               hps2x64\src\r5900\src\recompile\R5900_Recompile.cpp
+2012-08-16 18:31:16 ....A         2248               hps2x64\src\r5900\src\assemble\src\old\R5900Assembler.cpp
+2014-02-08 21:04:00 ....A         2451               hps2x64\src\r5900\src\assemble\R5900Assembler.cpp
+2011-09-25 01:42:01 ....A       144205               hps2x64\src\r5900\src\old\old\R5900Encoder.cpp
+2013-11-29 20:49:21 ....A         7877               common\StringUtilities\StringUtils.cpp
+2014-01-14 02:01:55 ....A         1318               hps2x64\src\system\test_system.cpp
+2012-08-16 18:47:26 ....A         1970               common\breakpoint\testBreakpoint.cpp
+2012-08-16 18:48:58 ....A         3536               common\WindowsAPI\BreakpointWindow\testBreakpointWindow.cpp
+2012-08-16 17:34:59 ....A         1072               hps1x64\src\cd\testCD.cpp
+2012-08-16 18:28:28 ....A         1475               hps1x64\src\databus\testDataBus.cpp
+2014-01-24 19:03:57 ....A          164               hps2x64\src\databus\testDatabus.cpp
+2012-08-16 18:49:25 ....A         1782               common\WindowsAPI\DebugMemoryViewer\testDebugMemoryViewer.cpp
+2012-08-16 18:49:56 ....A         1606               common\WindowsAPI\DebugValueList\testDebugValueList.cpp
+2012-08-16 18:52:40 ....A         5105               common\WindowsAPI\GUIHandler\testDialogs.cpp
+2012-08-16 18:52:11 ....A         1948               common\WindowsAPI\DisassemblyViewer\testDisassemblyViewer.cpp
+2012-08-16 18:28:03 ....A         1073               hps1x64\src\dma\testDMA.cpp
+2014-02-22 21:27:16 ....A          126               hps2x64\src\gpu\TestGPU.cpp
+2012-08-16 18:27:33 ....A         3398               hps1x64\src\gpu\testGPU.cpp
+2012-04-02 00:05:14 ....A         1349               hps1x64\src\r3000a\testICache.cpp
+2012-08-16 18:55:41 ....A         2039               common\WindowsAPI\InfiniteListView\testInfiniteListView.cpp
+2012-08-16 18:56:07 ....A         2136               common\WindowsAPI\InputBox\testInputBox.cpp
+2012-08-16 18:26:57 ....A         1074               hps1x64\src\intc\testIntc.cpp
+2013-01-20 17:28:35 ....A         2020               common\WindowsAPI\Joystick\testJoystick.cpp
+2012-08-16 18:26:28 ....A         1074               hps1x64\src\mdec\testMDEC.cpp
+2012-08-16 18:26:02 ....A         1073               hps1x64\src\pio\testPIO.cpp
+2012-04-15 01:33:52 ....A         2990               hps1x64\src\r3000a\testR3000ACore.cpp
+2012-09-01 05:11:38 ....A          222               hps1x64\src\r3000a\testR3000APrint.cpp
+2014-01-14 02:01:55 ....A         1318               hps2x64\src\r5900\testR5900.cpp
+2014-02-08 03:55:57 ....A          323               hps2x64\src\r5900\testR5900Encode.cpp
+2014-01-14 02:01:55 ....A         1318               hps2x64\src\r5900\testR5900Execute.cpp
+2014-02-08 16:36:35 ....A          127               hps2x64\src\r5900\testR5900Lookup.cpp
+2014-01-13 06:00:18 ....A          678               hps2x64\src\r5900\testR5900Print.cpp
+2012-08-16 17:39:25 ....A         1073               hps1x64\src\sio\testSIO.cpp
+2012-08-16 17:38:39 ....A         1075               hps1x64\src\spu\testSPU.cpp
+2012-08-16 17:38:11 ....A         2054               hps1x64\src\system\testSystem.cpp
+2014-02-24 03:34:59 ....A         1302               hps2x64\src\timer\TestTimer.cpp
+2013-09-11 11:21:56 ....A         6317               hps1x64\src\timer\testTimer.cpp
+2012-08-16 18:23:19 ....A         1891               hps2x64\src\r5900\src\assemble\src\TokenCollection.cpp
+2016-06-27 01:11:32 ....A        91332               hps2x64\src\vu\src\VU.cpp
+2016-06-24 04:59:56 ....A       243903               hps2x64\src\vu\src\execute\VU_Execute.cpp
+2015-03-22 18:07:47 ....A        16914               hps2x64\src\vu\src\lookup\VU_Lookup.cpp
+2014-06-15 18:38:38 ....A        41659               hps2x64\src\vu\src\print\VU_Print.cpp
+2012-08-16 18:32:05 ....A          997               hps2x64\src\vu\src\vu assembler\src\VuAssembler.cpp
+2013-11-08 15:12:43 ....A        35806               hps2x64\src\vu\src\DebugPrint\VuDebugPrint.cpp
+2011-09-11 10:21:30 ....A        65488               hps2x64\src\vu\src\old\VuEncoder.cpp
+2013-11-25 12:40:15 ....A        70898               common\WindowsAPI\GUIHandler\src\WinApiHandler.cpp
+2013-10-11 16:47:32 ....A         4221               common\WindowsAPI\WinFile\src\WinFile.cpp
+2013-01-19 22:22:01 ....A          713               common\WindowsAPI\Joystick\src\WinJoy.cpp
+2016-04-23 13:21:21 ....A       172644               common\x64Encoder\src\x64Encoder.cpp
+2016-07-02 03:56:17 ....A      5790766               hps1x64.exe
+2016-07-02 03:59:00 ....A      4730369               hps2x64.exe
+2015-12-07 02:00:35 ....A         1817               hps1x64\src\spu\src\adpcm.h
+2013-06-14 02:20:03 ....A         3637               common\breakpoint\src\breakpoint.h
+2012-08-16 18:49:12 ....A         4305               common\WindowsAPI\BreakpointWindow\src\BreakpointWindow.h
+2016-05-04 02:39:52 ....A        12166               common\DiskImage\cd\src\cdimage.h
+2016-07-01 00:46:00 ....A        13638               hps1x64\src\cdvd\src\CDvd.h
+2015-01-11 03:22:41 ....A         1672               common\config\src\ConfigFile.h
+2014-11-30 22:56:32 ....A         3400               common\debug\src\Debug.h
+2012-08-16 18:49:39 ....A         3759               common\WindowsAPI\DebugMemoryViewer\src\DebugMemoryViewer.h
+2014-06-16 00:02:55 ....A        15504               common\WindowsAPI\DebugValueList\src\DebugValueList.h
+2014-05-30 20:25:01 ....A         4398               common\WindowsAPI\DisassemblyViewer\src\DisassemblyViewer.h
+2012-08-25 04:00:29 ....A         1226               common\DiskImage\dvd\src\dvdimage.h
+2013-05-04 15:43:04 ....A         2678               common\GeneralEmuDataStructures.h
+2013-06-21 05:05:00 ....A         3844               common\StringUtilities\GeneralUtilities.h
+2012-08-16 17:39:55 ....A         1699               hps1x64\src\r3000a\src\GenericDataPort.h
+2013-12-28 02:20:49 ....A         2903               hps1x64\src\r3000a\src\GNUAsmUtility_x64.h
+2012-08-16 17:40:10 ....A         2339               hps1x64\src\r3000a\src\GNUSignExtend_x64.h
+2012-10-10 21:31:11 ....A         4675               common\WindowsAPI\GUIHandler\src\GNUThreading_x64.h
+2016-05-11 02:37:31 ....A         7901               hps1x64\src\hps1x64\src\hps1x64.h
+2016-05-14 12:01:15 ....A        10256               hps2x64\src\hps2x64\src\hps2x64.h
+2012-08-16 18:55:56 ....A         1943               common\WindowsAPI\InfiniteListView\src\InfiniteListView.h
+2012-08-16 18:56:21 ....A         2042               common\WindowsAPI\InputBox\src\InputBox.h
+2013-04-24 09:27:12 ....A         1311               common\LowPassFilter.h
+2015-07-05 20:22:16 ....A        48571               common\MipsOpcode.h
+2015-06-18 02:30:50 ....A         7091               hps2x64\src\ipu\src\mpeg2lib\Mpeg.h
+2012-08-16 18:53:10 ....A         2216               common\WindowsAPI\GUIHandler\src\MultiThread.h
+2012-08-16 18:53:17 ....A         3493               common\WindowsAPI\GUIHandler\src\MultithreadComm.h
+2013-10-27 19:56:18 ....A        21560               hps1x64\src\cd\src\old\PS1_CD.h
+2015-10-11 12:15:30 ....A        22404               hps1x64\src\cd\src\PS1_CD.h
+2016-07-01 00:20:52 ....A        22167               hps1x64\src\dma\src\PS1_Dma.h
+2016-06-29 04:48:22 ....A        22456               hps1x64\src\dma\src\not using\PS1_Dma.h
+2016-02-22 00:42:08 ....A       224252               hps1x64\src\gpu\src\PS1_Gpu.h
+2015-10-11 12:34:56 ....A         7239               hps1x64\src\intc\src\PS1_Intc.h
+2015-12-14 05:04:23 ....A        12099               hps1x64\src\mdec\src\PS1_MDEC.h
+2015-10-11 12:41:07 ....A         4209               hps1x64\src\pio\src\PS1_PIO.h
+2016-04-27 01:27:00 ....A        19780               hps1x64\src\sio\src\PS1_SIO.h
+2015-12-14 01:17:51 ....A        41305               hps1x64\src\spu\src\PS1_SPU.h
+2015-12-04 03:52:46 ....A        66815               hps1x64\src\spu\src\spu2\PS1_SPU2.h
+2016-03-24 01:30:33 ....A         5961               hps1x64\src\system\src\ps1_system.h
+2016-01-17 18:44:06 ....A        52843               hps1x64\src\timer\src\PS1_Timer.h
+2015-10-11 13:16:17 ....A         4279               hps1x64\src\usb\src\PS1_USB.h
+2015-10-11 12:25:31 ....A        15833               hps1x64\src\databus\src\PS1DataBus.h
+2016-04-02 16:52:10 ....A        25029               hps2x64\src\dma\src\PS2_Dma.h
+2016-06-27 00:58:23 ....A       128702               hps2x64\src\gpu\src\PS2_Gpu.h
+2014-03-15 20:53:59 ....A         5849               hps2x64\src\intc\src\PS2_Intc.h
+2016-05-20 04:32:41 ....A        13006               hps2x64\src\ipu\src\PS2_IPU.h
+2013-11-05 21:10:56 ....A         8086               hps2x64\src\mdec\src\PS2_MDEC.h
+2015-03-25 04:23:19 ....A         8444               hps2x64\src\sif\src\PS2_SIF.h
+2014-03-01 04:49:07 ....A         4225               hps2x64\src\sio\src\PS2_SIO.h
+2016-03-26 15:47:57 ....A         5847               hps2x64\src\system\src\ps2_system.h
+2016-06-26 19:06:27 ....A        71904               hps2x64\src\timer\src\PS2_Timer.h
+2013-11-05 19:04:36 ....A        11220               hps2x64\src\timer\src\old\PS2_Timer_old.h
+2015-09-26 01:16:37 ....A        26661               hps2x64\src\databus\src\PS2DataBus.h
+2016-01-10 20:33:48 ....A        18649               common\PS2Float.h
+2016-04-17 22:29:17 ....A        49959               hps1x64\src\r3000a\src\R3000A.h
+2013-10-12 00:15:48 ....A        24011               hps1x64\src\r3000a\src\COP2\R3000A_COP2.h
+2014-01-10 22:46:37 ....A         8368               hps1x64\src\r3000a\src\execute\R3000A_Execute.h
+2016-04-17 22:58:05 ....A         4682               hps1x64\src\r3000a\src\cache\R3000A_ICache.h
+2013-05-10 01:50:14 ....A         4319               hps2x64\src\r5900\src\cache\R3000A_ICache.h
+2012-08-16 18:25:29 ....A         2368               hps1x64\src\r3000a\src\execute\R3000A_Instruction.h
+2014-05-26 03:18:34 ....A         3685               hps1x64\src\r3000a\src\lookup\R3000A_Lookup.h
+2016-04-25 01:56:15 ....A        13290               hps1x64\src\r3000a\src\recompile\R3000A_Recompiler.h
+2013-11-09 14:37:08 ....A        19792               hps1x64\src\r3000a\src\print\R3000ADebugPrint.h
+2016-03-27 15:32:51 ....A        39146               hps2x64\src\r5900\src\R5900.h
+2014-01-13 20:33:29 ....A        17940               hps2x64\src\r5900\src\old\R5900.h
+2013-11-08 22:42:19 ....A        17903               hps2x64\src\r5900\src\old\old\R5900.h
+2014-04-05 17:39:22 ....A        31623               hps2x64\src\r5900\src\assemble\src\R5900_assembler.h
+2014-02-08 20:22:59 ....A        20170               hps2x64\src\r5900\src\encode\R5900_Encoder.h
+2014-04-23 14:28:01 ....A        26098               hps2x64\src\r5900\src\execute\R5900_Execute.h
+2015-05-15 01:43:08 ....A         2652               hps2x64\src\r5900\src\lookup\R5900_Instruction.h
+2014-05-26 02:17:38 ....A         8318               hps2x64\src\r5900\src\lookup\R5900_Lookup.h
+2014-04-23 14:24:01 ....A        37189               hps2x64\src\r5900\src\print\R5900_Print.h
+2016-04-05 01:38:44 ....A        26624               hps2x64\src\r5900\src\recompile\R5900_Recompile.h
+2012-08-16 18:31:22 ....A        14309               hps2x64\src\r5900\src\assemble\src\old\R5900Assembler.h
+2012-08-16 18:31:33 ....A       109377               hps2x64\src\r5900\src\old\DebugPrint\R5900DebugPrint.h
+2011-09-24 22:56:55 ....A        17754               hps2x64\src\r5900\src\old\old\R5900Encoder.h
+2013-12-25 02:46:22 ....A          798               common\Reciprocal.h
+2013-11-29 20:50:02 ....A         2893               common\StringUtilities\StringUtils.h
+2012-08-16 18:23:26 ....A         1172               hps2x64\src\r5900\src\assemble\src\TokenCollection.h
+2015-10-03 18:28:09 ....A         3616               common\types.h
+2012-08-16 18:53:26 ....A         1019               common\WindowsAPI\GUIHandler\src\old\types.h
+2015-05-27 14:30:41 ....A        26234               hps2x64\src\ipu\src\mpeg2lib\Vlc.h
+2016-01-25 04:04:11 ....A        38811               hps2x64\src\vu\src\VU.h
+2016-01-09 15:48:24 ....A        57396               hps2x64\src\vu\src\execute\VU_Execute.h
+2014-06-07 17:43:09 ....A         1925               hps2x64\src\vu\src\lookup\VU_Instruction.h
+2014-06-02 03:37:36 ....A         5760               hps2x64\src\vu\src\lookup\VU_Lookup.h
+2014-06-02 03:38:42 ....A        16981               hps2x64\src\vu\src\print\VU_Print.h
+2012-08-16 18:32:14 ....A          880               hps2x64\src\vu\src\vu assembler\src\VuAssembler.h
+2013-11-08 18:48:07 ....A        14863               hps2x64\src\vu\src\DebugPrint\VuDebugPrint.h
+2011-09-11 10:17:30 ....A         7398               hps2x64\src\vu\src\old\VuEncoder.h
+2014-03-22 18:05:06 ....A         3063               hps2x64\src\vu\src\old\VuUnit.h
+2013-11-24 22:53:59 ....A        38217               common\WindowsAPI\GUIHandler\src\WinApiHandler.h
+2013-10-11 16:46:41 ....A         2485               common\WindowsAPI\WinFile\src\WinFile.h
+2014-03-02 20:35:20 ....A          336               common\WindowsAPI\Joystick\src\WinJoy.h
+2016-04-17 00:00:55 ....A        69349               common\x64Encoder\src\x64Encoder.h
+2016-04-26 02:32:31 ....A        46152               common\x64Encoder\src\x64Instructions.h
+2016-04-10 12:29:16 ....A          145               hps2x64\src\r5900\src\assemble\addu_test.mips
+2014-04-05 17:45:34 ....A          501               hps2x64\src\r5900\src\assemble\Load128Test.mips
+2014-02-12 03:47:13 ....A          357               hps2x64\src\r5900\src\assemble\Load64Test.mips
+2012-05-01 05:50:15 ....A          939               hps2x64\src\r5900\src\assemble\lwllwrtest.mips
+2012-02-19 00:04:17 ....A          361               hps2x64\src\r5900\src\assemble\SimpleXorTest.mips
+2014-02-14 02:28:31 ....A          945               hps2x64\src\r5900\src\assemble\swlswrtest.mips
+2014-02-14 03:50:36 ....A         1575               hps2x64\src\r5900\src\assemble\swlswrtest64.mips
+2014-08-02 02:34:07 ....A          734               hps2x64\src\r5900\src\assemble\unionloadtest.mips
+2012-05-01 05:51:07 ....A          152               hps2x64\src\r5900\src\assemble\lwllwrtest.ps1
+2012-10-27 03:33:18 ....A          124               hps2x64\src\r5900\src\assemble\swlswrtest.ps1
+2016-04-10 12:29:56 ....A           16               hps2x64\src\r5900\src\assemble\addu_test.ps2
+2014-04-05 17:47:01 ....A           80               hps2x64\src\r5900\src\assemble\Load128Test.ps2
+2014-02-12 04:00:11 ....A           52               hps2x64\src\r5900\src\assemble\Load64Test.ps2
+2014-02-09 19:08:19 ....A           52               hps2x64\src\r5900\src\assemble\SimpleXorTest.ps2
+2014-02-14 02:38:32 ....A          124               hps2x64\src\r5900\src\assemble\swlswrtest.ps2
+2014-02-14 03:30:13 ....A          152               hps2x64\src\r5900\src\assemble\swlswrtest64.ps2
+2014-08-02 02:36:15 ....A           72               hps2x64\src\r5900\src\assemble\unionloadtest.ps2
+2016-04-26 02:41:26 ....A         3934               hps1x64\src\hps1x64\DebugOnlyMakefile.txt
+2016-04-26 02:53:44 ....A         6865               hps2x64\src\hps2x64\DebugOnlyMakefile.txt
+2014-02-23 23:04:53 ....A         4733               hps2x64\src\timer\DebugOnlyMakefile_Timer.txt
+2014-02-08 20:04:57 ....A          560               hps2x64\src\r5900\src\assemble\Makefile_assemble.txt
+2014-02-01 16:47:36 ....A          405               hps2x64\src\databus\Makefile_databus.txt
+2014-02-08 04:08:03 ....A          304               hps2x64\src\r5900\Makefile_encode.txt
+2014-02-01 18:25:22 ....A          478               hps2x64\src\r5900\Makefile_execute.txt
+2014-02-08 16:34:50 ....A          383               hps2x64\src\r5900\Makefile_lookup.txt
+2014-01-13 05:49:17 ....A          339               hps2x64\src\r5900\Makefile_print.txt
+2014-01-25 00:47:39 ....A          461               hps2x64\src\r5900\Makefile_R5900.txt
+2014-01-25 15:23:54 ....A          563               hps2x64\src\system\Makefile_system.txt
+2014-02-22 21:25:30 ....A         1768               hps2x64\src\gpu\Makefile_TestGPU.txt
+2014-02-22 21:23:33 ....A         1724               hps2x64\src\timer\Makefile_TestTimer.txt
+2016-04-26 02:25:52 ....A         3942               MakefilePS1.txt
+2016-04-26 02:21:52 ....A         6826               MakefilePS2.txt
+2013-09-09 05:33:55 ....A         3504               hps1x64\src\timer\testTimerMakefile.txt
+2012-08-16 17:18:15 ....A        35147               COPYING
+2016-05-23 02:52:49 ....A         6404               README
+2016-11-05 04:06:08 ....A            0            0  hps2x64\src\r5900\src\old\DebugPrint\R5900DebugPrint.cpp
+2016-11-05 04:06:09 ....A            0            0  hps2x64\src\timer\R5900Log.txt
+2016-11-05 04:06:09 ....A            0            0  hps2x64\src\timer\PS2_DataBus_Log.txt
+2016-11-05 04:06:09 ....A            0            0  hps2x64\src\timer\Timers_Log.txt
+2016-11-05 04:06:09 ....A            0            0  hps2x64\src\timer\R5900_Execute_Log.txt
+2016-11-05 04:06:08 ....A            0            0  common\WindowsAPI\DebugValueList\src\DebugValueList.cpp
+2016-11-05 04:06:09 ....A            0            0  hps2x64\src\timer\System_Log.txt
+2016-11-05 04:06:09 ....A            0            0  hps2x64\src\timer\GPU_Log.txt
+2016-11-05 04:06:09 ....A            0            0  hps2x64\src\timer\BiosCallsLog.txt
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\cdvd
+2016-11-05 04:06:09 D....            0            0  common
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\cd
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\hps2x64
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\sio
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\gpu\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\sio\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\dma\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\databus\src
+2016-11-05 04:06:09 D....            0            0  hps1x64
+2016-11-05 04:06:09 D....            0            0  hps2x64\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\system
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\assemble\src
+2016-11-05 04:06:09 D....            0            0  common\x64Encoder\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\usb\src
+2016-11-05 04:06:09 D....            0            0  common\x64Encoder
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\timer\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\system\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\system\src
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\WinFile\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\spu\src\spu2
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\WinFile
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\spu
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\Joystick\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\sio
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\timer
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src\print
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\intc\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src\lookup
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\Joystick
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src\execute
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\InputBox\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\execute
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\assemble
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src\assemble
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\InputBox
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\InfiniteListView\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\pio\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\old\DebugPrint
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\ipu
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\pio
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\ipu\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\mdec\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\timer\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\intc\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\timer\src\old
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\hps1x64\src
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\InfiniteListView
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\hps1x64
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\GUIHandler\src\old
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\gpu
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\GUIHandler\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\recompile
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\GUIHandler
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\dma
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\ipu\src\mpeg2lib
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\databus
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\DisassemblyViewer\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\intc
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\mdec
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\sif
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\cd\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\gpu
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\assemble
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\databus
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\DebugPrint
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\assemble\src\old
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\DisassemblyViewer
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\timer
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\mdec\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\spu\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\encode
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src\recompile
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\execute
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\encode
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\DebugValueList\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src\cache
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\DebugValueList
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\lookup
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\hps2x64\src
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\DebugMemoryViewer\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\mdec
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\DebugMemoryViewer
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\print
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\BreakpointWindow\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\dma\src\not using
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\old
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\databus\src
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI\BreakpointWindow
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\cd\src\old
+2016-11-05 04:06:09 D....            0            0  common\WindowsAPI
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\gpu\src\old
+2016-11-05 04:06:09 D....            0            0  common\StringUtilities
+2016-11-05 04:06:09 D....            0            0  hps2x64
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\print
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\system
+2016-11-05 04:06:09 D....            0            0  common\DiskImage\dvd\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\cache
+2016-11-05 04:06:09 D....            0            0  common\DiskImage\dvd
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\lookup
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\vu assembler
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\old\old
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\vu\src\vu assembler\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\gpu\src
+2016-11-05 04:06:09 D....            0            0  common\DiskImage\cd\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\cdvd\src
+2016-11-05 04:06:09 D....            0            0  common\DiskImage\cd
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\dma
+2016-11-05 04:06:09 D....            0            0  common\DiskImage
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\sio\src
+2016-11-05 04:06:09 D....            0            0  common\debug\src
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\r5900\src\old
+2016-11-05 04:06:09 D....            0            0  common\debug
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\dma\src
+2016-11-05 04:06:09 D....            0            0  common\config\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\intc
+2016-11-05 04:06:09 D....            0            0  hps2x64\src\sif\src
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\r3000a\src\COP2
+2016-11-05 04:06:09 D....            0            0  common\config
+2016-11-05 04:06:09 D....            0            0  common\breakpoint\src
+2016-11-05 04:06:09 D....            0            0  common\breakpoint
+2016-11-05 04:06:09 D....            0            0  hps1x64\src\usb
+------------------- ----- ------------ ------------  ------------------------
+2016-11-05 04:06:09           18163121      1977606  286 files, 129 folders

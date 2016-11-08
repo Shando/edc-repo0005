@@ -1,0 +1,37 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-06-03 02:26:41 ....A        10752      6974071  mini18n.dll
+2015-06-29 11:35:38 ....A        28160               platforms\qminimal.dll
+2015-06-29 11:35:47 ....A        78848               platforms\qminimald.dll
+2015-06-29 11:35:56 ....A       538112               platforms\qoffscreen.dll
+2015-06-29 11:36:04 ....A       985600               platforms\qoffscreend.dll
+2015-06-29 00:05:26 ....A      4617728               Qt5Core.dll
+2015-06-29 00:05:26 ....A      4862976               Qt5Gui.dll
+2015-06-29 11:58:54 ....A       562688               Qt5Multimedia.dll
+2015-06-29 11:22:53 ....A       842752               Qt5Network.dll
+2015-06-29 00:05:27 ....A       272896               Qt5OpenGL.dll
+2015-06-29 00:05:28 ....A      4418560               Qt5Widgets.dll
+2015-06-29 11:36:19 ....A       991232               platforms\qwindows.dll
+2015-06-29 11:36:42 ....A      1981440               platforms\qwindowsd.dll
+2014-03-15 19:33:24 ....A      1007104               SDL2.dll
+2016-04-09 10:15:44 ....A      2895872               Yabause-Devmiyax 09.04.2016.exe
+2016-04-09 10:59:03 ....A          402               Lisez moi.txt
+2016-04-09 10:58:44 ....A          155               Read Me.txt
+2015-06-03 02:00:01 ....A        11168               trans\yabause_ar.yts
+2015-06-03 02:00:01 ....A        11931               trans\yabause_de.yts
+2015-06-03 02:00:01 ....A        12747               trans\yabause_es.yts
+2016-04-09 11:28:18 ....A        12913               trans\yabause_fr.yts
+2015-06-03 02:00:01 ....A        11474               trans\yabause_it.yts
+2015-06-03 02:00:01 ....A        12253               trans\yabause_ja.yts
+2015-06-03 02:00:01 ....A        11382               trans\yabause_lt.yts
+2015-06-03 02:00:01 ....A        11281               trans\yabause_nl.yts
+2015-06-03 02:00:01 ....A        12204               trans\yabause_pt.yts
+2015-06-03 02:00:01 ....A        12673               trans\yabause_pt_BR.yts
+2015-06-03 02:00:01 ....A        16588               trans\yabause_ru.yts
+2015-06-03 02:00:01 ....A        11044               trans\yabause_sv.yts
+2015-06-03 02:00:01 ....A        11128               trans\yabause_zh_CN.yts
+2015-06-03 02:00:01 ....A        11175               trans\yabause_zh_TW.yts
+2015-06-03 02:00:01 D....            0            0  platforms
+2015-06-03 02:00:01 D....            0            0  trans
+------------------- ----- ------------ ------------  ------------------------
+2016-04-09 11:28:18           24265238      6974071  31 files, 2 folders

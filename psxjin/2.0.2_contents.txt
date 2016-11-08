@@ -1,0 +1,23 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-03-13 09:12:30 ....A       331776       515575  lua51.dll
+2011-05-17 11:31:08 ....A      1269760               psxjin.exe
+2011-03-18 11:06:40 .R..A         1413               docs\.svn\text-base\ChangeLog.txt.svn-base
+2011-03-13 09:12:32 .R..A        18011               docs\.svn\text-base\License.txt.svn-base
+2011-03-13 09:12:32 .R..A         4812               docs\.svn\text-base\Readme.txt.svn-base
+2011-04-05 16:22:14 .R..A          406               docs\.svn\all-wcprops
+2011-04-28 10:24:46 .R..A          695               docs\.svn\entries
+2011-05-17 11:35:10 ....A         1465               docs\ChangeLog.txt
+2011-03-13 09:12:32 ....A        18011               docs\License.txt
+2011-03-13 09:12:32 ....A         4812               docs\Readme.txt
+2011-03-13 09:12:32 D....            0            0  docs
+2011-03-13 09:12:32 D....            0            0  docs\.svn\tmp\props
+2011-03-13 09:12:32 D....            0            0  docs\.svn\tmp\prop-base
+2011-03-13 09:12:32 D....            0            0  docs\.svn\tmp\text-base
+2011-03-13 09:12:32 D....            0            0  docs\.svn\tmp
+2011-03-13 09:12:32 D....            0            0  docs\.svn\prop-base
+2011-03-13 09:12:32 D....            0            0  docs\.svn\text-base
+2011-03-13 09:12:32 D.H..            0            0  docs\.svn
+2011-03-13 09:12:32 D....            0            0  docs\.svn\props
+------------------- ----- ------------ ------------  ------------------------
+2011-05-17 11:35:10            1651161       515575  10 files, 9 folders

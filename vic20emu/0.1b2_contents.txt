@@ -1,0 +1,43 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-07-30 04:26:06 ....A          173      1209535  runemu.bat
+2009-04-10 18:00:40 ....A         4096               data\characters.901460-03.bin
+2003-02-03 18:00:00 ....A        16384               data\PAL.BIN
+2010-08-03 02:01:10 ....A         1254               images\load_symbols.bmp
+2011-07-30 04:29:50 ....A       587620               vic20emu.exe
+2010-08-03 02:01:10 ....A          131               images\Eject24.gif
+2010-08-03 02:01:10 ....A          279               images\FastForward24.gif
+2010-08-03 02:01:10 ....A          247               images\Play24.gif
+2010-08-03 02:01:10 ....A          279               images\Rewind24.gif
+2010-08-03 02:01:10 ....A          694               images\Stop24.gif
+2010-08-03 02:01:24 ....A          912               data\keymap.ini
+2011-07-30 04:29:08 ....A       544612               emulator.jar
+2010-08-03 02:01:14 ....A        92948               lib\l2fprod-common-shared.jar
+2011-07-28 14:53:26 ....A       761427               Manual.pdf
+2010-08-03 02:01:10 ....A         1306               images\copy_icon.png
+2010-08-03 02:01:10 ....A         1306               images\cut_icon.png
+2010-08-03 02:01:10 ....A         1306               images\file_load.png
+2010-08-03 02:01:10 ....A         1306               images\file_save.png
+2010-08-03 02:01:10 ....A          784               images\green-off-16.png
+2010-08-03 02:01:10 ....A          919               images\green-on-16.png
+2010-08-03 02:01:10 ....A         1327               images\load_symbols.png
+2010-08-03 02:01:10 ....A         1306               images\menu_selected_icon.png
+2010-08-03 02:01:10 ....A         1306               images\menu_unselected_icon.png
+2010-08-03 02:01:10 ....A         1306               images\paste_icon.png
+2010-08-03 02:01:10 ....A          764               images\red-off-16.png
+2010-08-03 02:01:10 ....A          869               images\red-on-16.png
+2010-08-03 02:01:10 ....A         1327               images\run_icon.png
+2010-08-03 02:01:10 ....A         1327               images\search_icon.png
+2011-01-23 06:57:30 ....A          202               images\statistics.png
+2010-08-03 02:01:10 ....A         1327               images\step_into.png
+2010-08-03 02:01:10 ....A         1327               images\step_out.png
+2010-08-03 02:01:10 ....A         1327               images\step_over.png
+2011-01-23 06:56:24 ....A         1327               images\stop_icon.png
+2010-08-03 02:01:10 ....A          933               images\vc20icon.png
+2010-08-03 02:01:24 ....A        19854               data\vicrom.sym
+2011-07-30 04:18:52 ....A          514               README.txt
+2011-07-30 04:18:52 D....            0            0  lib
+2011-07-30 04:18:52 D....            0            0  images
+2011-07-30 04:18:52 D....            0            0  data
+------------------- ----- ------------ ------------  ------------------------
+2011-07-30 04:29:50            2054326      1209535  36 files, 3 folders
