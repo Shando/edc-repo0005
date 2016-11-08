@@ -1,0 +1,26 @@
+Changes - 5th October 2016
+--------------------------
+# CEMU 1.6.2c
+
+CPU: Fixed a bug in recompiler PSQ_STU instruction
+
+# CEMU 1.6.2 + 1.6.2b
+
+CPU: Fixed a rare crash bug that could occur when the recompiler attempted to analyze certain functions
+CPU: Improved detection of function entry points for recompiler
+CPU: Added instructions LBZUX, SRW., PSQ_LU, PSQ_STU and PS_DIV to recompiler
+CPU: Adjusted recompiler PS_MERGE10 instruction to generate faster code
+
+FS: Various optimizations to FSA thread, resulting in quicker processing of file operations
+FS: If available, AES-NI is now used for filesystem decryption
+
+AX: Added API AXAcquireMultiVoice()
+
+NFP: Deactivate event will now be correctly signaled
+
+GX2: Added support for Streamout emulation via OpenGL's Transform Feedback
+GX2: Slightly reduced the number of shaders that need to be compiled (by optimizing away render states that previously affected the generated shader code)
+GX2: Improved handling of bottom of pipe event
+GX2: Added API GX2DrawIndexedImmediateEx()
+GX2: Fixed a bug in the buffer cache that could cause out-of-bounds allocations which would result in CEMU crashing
+GX2: Fixed a bug where textures would be immediately reloaded from RAM after being updated by a GPU-side operation

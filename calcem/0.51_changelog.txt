@@ -1,0 +1,7 @@
+Changes - 24th May 1998
+-----------------------
+
+Added possibility to select and send more than one file at a time
+Added toolbar with file send progress
+Fixed so that the disassembly view close when the emulator stops
+Fixed disabled keyboard when sending files to 83 ROMs

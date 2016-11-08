@@ -1,0 +1,15 @@
+Changes - 10th October 2016
+---------------------------
+
+-TI Artist remapping extended to handle 'TIAM' to '_M' files
+-handle truncated sectors when reading FIAD by sector
+-fix debug key handling - only active when debug window open. NO MORE SCROLL LOCK.
+-tuning of CPU speed
+-turn off F18A DPM when reading status register
+-more debug on GPU start/stop
+-stop GPU when go bit is cleared
+-condense palette to F18A palette (now implemented for tiles)
+-fix buffer overflow in debug function
+-added fbForth 2.09
+-alphabetized RXB in the cartridge list
+-version 390

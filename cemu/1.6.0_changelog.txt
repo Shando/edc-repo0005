@@ -1,0 +1,40 @@
+Changes - 22nd September 2016
+-----------------------------
+
+CPU: Added instructions ADDCO, DIVWUO DIVWO, CRAND and CRANDC to interpreter
+CPU: Added instructions LFDU, STFDU, BLRL and SLW. to recompiler
+CPU: Fixed rounding error in FCTIWZ and PSQ_ST recompiler instruction
+CPU: Improved detection of function end address for recompiler. Added special handling for shared function bodies
+CPU: Fixed recompiler generating invalid code for conditional branch instructions with link flag set
+CPU: New option 'emulateSinglePrecision' for game profiles. If enabled, recompiler will round results to single-precision after single-precision instructions. 
+
+SAVE: Added API SAVEGetStatOtherNormalApplicationVariationAsync()
+
+coreinit: New API FSSetPosFileAsync(), FSGetPosFileAsync(), FSIsEof(), FSIsEofAsync(), OSGetAvailPhysAddrRange(), OSAllocVirtAddr(), OSMapMemory(), OSUnmapMemory(), MEMAdjustExpHeap(), MEMFreeToBlockHeap()
+coreinit: Implemented MPQueue API
+coreinit: Improved implementation of OSGetMemBound()
+coreinit: Fixed OSSleepTicks using wrong timer source
+coreinit: Fixed return value of OSWaitSemaphore() when thread does not return immediately
+coreinit: Improved handling of thread joining and detached state
+
+VPAD: Improved implementation of VPADGetTPCalibratedPointEx()
+
+AX: New API AXSetVoiceLoopOffset(), AXSetVoiceEndOffset(), AXSetVoiceSamplesAddr()
+AX: Fixed handling of upsample stage when used before final mix callback
+
+DMAE: New API DMAESemaphore()
+
+GX2: New texture cache implementation
+GX2: Improved coalescing of textures of different formats with overlapping memory ranges
+GX2: Fixed a bug that caused the wrong texture to be used in a draw call right after a new texture was created
+GX2: Fixed a bug where any stencil clear operation would be ignored
+GX2: Added handling for SRGB when the surface is also accessed as non-SRGB
+GX2: Fixed a special case in vertex/geometry shader where imports would be optimized away if the only way to access them was via indexed gpr access
+GX2: Added support for tilemode 32 in GX2CalcSurfaceSizeAndAlignment()
+GX2: Added support for compressed texture formats to tiling aperature
+GX2: GX2CopySurface() can now properly handle mip levels
+GX2: Implemented GX2CopySurfaceEx(), GX2ResolveAAColorBuffer() and GX2RDestroySurfaceEx()
+GX2: Implemented MIN_INT and SETNE shader instructions
+GX2: Fixed a bug in R16_UNORM texture format decoder
+GX2: Added proper support for mip levels to tiling aperature
+GX2: Corrected handling of 8 bit formats in tiling aperature

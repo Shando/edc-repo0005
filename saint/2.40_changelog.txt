@@ -1,0 +1,12 @@
+Changes - 12th December 2015
+----------------------------
+
+2.40
+* color writing using blitter is now working
+* accurate "writing data" sync to the electron beam (even with STE blitter)
+* Experimental frame interpolation option (should produce smooth scroller at 50Hz)
+* Experimental support of Light-Boost if your screen support 100Hz and more
+* Support med resolution change in middle of line ( DNT Screen 1 in Snork Demo )
+* minor bug fix in memshot preview 
+* Clean up option screen
+* ste linewidth saved in memoryshot
