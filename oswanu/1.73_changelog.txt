@@ -1,0 +1,4 @@
+Changes - 23rd January 2007
+---------------------------
+
+Fixed petit noise of Super Robot Taisen COMPACT 3

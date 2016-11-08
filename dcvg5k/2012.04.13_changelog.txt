@@ -1,0 +1,7 @@
+Changes - 13th April 2012
+-------------------------
+
+Improved presentation of the Recorder tool.
+Fixed malfunction breakpoint in the debugging tool.
+
+*** Translated from French using Google Translate ***

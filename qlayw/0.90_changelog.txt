@@ -1,0 +1,6 @@
+Changes - 30th January 1999
+---------------------------
+
+090	Win95: F12 suppresses double mouse pointer
+	Free source code available
+	Italian keyboard: Alt Gr+ supports # and @.

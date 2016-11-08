@@ -1,0 +1,15 @@
+Changes - 16th September 1998
+-----------------------------
+
+0.2.0 ALPHA  (FINAL VERSION)  September 16th 
+------------------------
+
+- Major speed boost to the R3000 dynarec.
+- Implemented XA Audio.
+- Some changes/optimizations to the GTE.
+- A few more things I can't remember now =)
+
+Note: * THIS IS THE LAST BETA OF PSYKE RELEASED ONLY TO THE BETA-TESTERS BEFORE 
+        IT WAS OFFICIALLY DISCONTINUED. DON'T E-MAIL THE AUTHORS ABOUT THIS BETA 
+        SINCE IT IS NOT SUPPORTED IN ANY WAY. THERE COULD BE BUGS AND ON SOME 
+        COMPUTERS (VERY FEW) IT IS REPORTED TO BE SLOWER THAN V0.15 *

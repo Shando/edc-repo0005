@@ -1,0 +1,10 @@
+Changes - 12th October 2015
+---------------------------
+
+Commodore 64 emulation! Complete with sprites, drive and SID of course
+some CPU fixes ported over from Yape for Windows
+sound replay improvements
+P00, T64 format support
+fast line based plus/4 emulation mode added for lower end platforms (toggle with Alt+E)
+able to select among physical drives (Windows only of course)
+many bugfixes

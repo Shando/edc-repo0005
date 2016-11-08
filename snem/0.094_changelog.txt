@@ -1,0 +1,4 @@
+Changes - 28th September 2004
+-----------------------------
+
+Fixed issues with Windows port.

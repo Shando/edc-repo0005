@@ -1,0 +1,7 @@
+Changes - 13th October 2002
+---------------------------
+
+Ver0.21
+    Added internal EEPROM control.(thanks wai)
+    It copes with the  1Mbit 2Mbit SRAM cartridge.
+    The initial value of the VBlank timer control is changed.

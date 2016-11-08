@@ -1,0 +1,8 @@
+Changes - 6th November 2016
+---------------------------
+
+-Patch for XB256 'DELAY' call
+-Fix for disk CLOSE causing type mismatch
+-Fix for VDP memory overrun in disk systems (for data that ended exactly at >4000)
+-Make inverted carts respond to '9' instead of '3' for extension ('3' still supported)
+-Make VDP screen redraw when breakpointed

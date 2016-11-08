@@ -1,0 +1,7 @@
+Changes - 9th August 2009
+-------------------------
+
+v0.1.2
+-Eliminated the major cause of desyncs that could occur when rerecording.
+-Added a few hotkeys for Ram Search.
+-Fixed the dialog title for WIN32_LuaRunScript().

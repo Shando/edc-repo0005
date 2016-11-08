@@ -1,0 +1,7 @@
+Changes - 31st October 2012
+---------------------------
+
+0.2:
+- Added MultiCart Memory Pack support (now RPG Maker 2 and others can load a Memory Pack!)
+- Fixed Download Freeze.
+- Changed the Memory Pack saved file to "<filename>.save.bs".
