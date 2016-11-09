@@ -1,0 +1,60 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-05-28 09:48:26 ....A         2358      1163399  Plugins\_Inspector\template.asm
+2003-05-30 01:55:12 ....A        15020               Plugins\_Inspector\tinyFire.asm
+2003-05-09 07:05:36 ....A         1288               Lang\english.lng.bak
+2001-03-23 17:52:06 ....A          768               Plugins\_Inspector\ps2lib\scrprntf.bin
+2003-06-27 08:27:50 ....A          332               nSX2.cfg
+2003-06-11 10:28:30 ....A           37               Plugins\sifplugin.cfg
+2003-06-27 09:56:56 ....A        52217               Docs\nSX2 User Manual.chm
+2003-05-26 05:34:26 ....A        53248               Plugins\CDVDbin.dll
+2003-04-06 19:06:26 ....A        86016               Plugins\CDVDiso.dll
+2002-12-02 15:45:02 ....A        49152               Plugins\CDVDNULL.DLL
+2003-02-19 07:24:00 ....A        61440               Plugins\cdvdXeven.dll
+2003-06-02 09:47:24 ....A      1203712               Plugins\DBGinspector.dll
+2003-05-30 06:03:38 ....A       148992               Plugins\DBGnull.dll
+2003-05-30 06:23:56 ....A       633344               Plugins\DBGrdebug.dll
+2003-05-09 13:31:56 ....A       212992               Plugins\debugview.dll
+2003-01-26 21:35:00 ....A       233472               Plugins\GSmaxGL.dll
+2003-04-20 11:51:00 ....A       122880               Plugins\GSSOFTDX.DLL
+2003-01-08 07:04:24 ....A       135168               Plugins\GStaris.dll
+2003-01-24 19:12:32 ....A        90112               libbz2.dll
+2002-09-23 10:53:02 ....A        49152               Plugins\padwinkeyb.dll
+2003-06-10 04:03:16 ....A       110592               Plugins\SifPlugin.dll
+2002-05-19 18:50:00 ....A        36864               Plugins\SPU2NULL.DLL
+2003-02-04 22:24:48 ....A       192512               Plugins\_Inspector\asm5900.exe
+2003-06-28 08:42:24 ....A       780726               nSX2.exe
+2002-11-03 11:35:06 ....A         4475               Plugins\_Inspector\ps2lib\dma.inc
+2002-11-03 11:31:10 ....A         7481               Plugins\_Inspector\ps2lib\elfhead.inc
+2002-11-03 11:33:42 ....A          106               Plugins\_Inspector\ps2lib\equates.inc
+2002-11-03 11:38:22 ....A         4215               Plugins\_Inspector\ps2lib\gif.inc
+2002-11-03 12:08:28 ....A        16782               Plugins\_Inspector\ps2lib\gs.inc
+2002-11-03 11:42:00 ....A          934               Plugins\_Inspector\ps2lib\macros.inc
+2002-09-26 06:29:06 ....A         8077               Plugins\_Inspector\ps2lib\scrprntf.inc
+2002-11-02 17:12:10 ....A         2748               Plugins\_Inspector\ps2lib\syscalls.inc
+2003-06-27 09:19:52 ....A         1100               debugview.ini
+2003-05-09 02:42:12 ....A         1068               Lang\dutch.lng
+2003-06-27 06:59:34 ....A         1289               Lang\english.lng
+2003-05-09 02:42:16 ....A         1013               Lang\french.lng
+2003-06-28 09:05:44 ....A         1229               Lang\german.lng
+2003-06-27 16:55:02 ....A          603               Lang\Greek.lng
+2003-06-12 08:34:02 ....A          302               nsx2.lng
+2003-05-09 02:42:16 ....A         1000               Lang\Portuguese.lng
+2003-05-09 02:42:16 ....A          977               Lang\russian.lng
+2003-05-20 08:58:30 ....A         1377               Lang\spanish.lng
+2002-01-06 02:30:32 ....A        18997               LICENCE.TXT
+2003-06-27 08:27:30 ....A         6200               README-NSX2.txt
+2003-05-30 06:43:00 ....A          892               Sentences.txt
+2003-05-30 06:43:00 D....            0            0  Bios
+2003-05-30 06:43:00 D....            0            0  Logs
+2003-05-30 06:43:00 D....            0            0  Plugins\_Inspector\ps2lib
+2003-05-30 06:43:00 D....            0            0  Lang
+2003-05-30 06:43:00 D....            0            0  mc0
+2003-05-30 06:43:00 D....            0            0  Plugins\_Inspector
+2003-05-30 06:43:00 D....            0            0  mc1
+2003-05-30 06:43:00 D....            0            0  host
+2003-05-30 06:43:00 D....            0            0  Docs
+2003-05-30 06:43:00 D....            0            0  rom0
+2003-05-30 06:43:00 D....            0            0  Plugins
+------------------- ----- ------------ ------------  ------------------------
+2003-06-28 09:05:44            4353259      1163399  45 files, 11 folders

@@ -1,0 +1,361 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-06-24 04:15:22 ....A         6857      1160993  Radio\net_test.asm
+2001-04-10 10:48:20 ....A         4352               Agat\MARS.B
+2001-04-10 10:12:30 ....A        13056               Agat\PACMAN.B
+2001-04-10 10:12:30 ....A         7936               Agat\ROCKER.B
+2001-04-10 10:12:30 ....A         8960               Agat\TARAKAN.B
+2008-10-17 02:45:26 ....A        16384               Vector06c\6128.bin
+2001-08-17 18:31:22 ....A          256               Agat\7\AGATB140.BIN
+2000-01-26 08:39:48 ....A          256               Agat\7\AGATB800.BIN
+1994-01-20 02:49:18 ....A        65536               Aleste\AL512.BIN
+2011-02-25 17:24:46 ....A         2048               Argo\ARGO.BIN
+2012-07-26 09:11:24 ....A         2048               Lvov\CHAM77.BIN
+2011-01-14 09:57:34 ....A         8192               Okean240\CPM80.BIN
+2010-12-27 14:44:08 ....A         8192               Okean240\cpm80fdd.bin
+2010-12-05 10:29:04 ....A         8192               Irisha\IRISHA20.BIN
+2011-10-02 10:41:18 ....A         8192               Irisha\KNGMD_2764.BIN
+2016-04-04 13:41:54 ....A         2048               Kroha\kroha_font.bin
+2013-03-21 02:48:46 ....A         4096               dvk\KSM.BIN
+2011-08-22 16:36:44 ....A         2048               dvk\KSMFONT.BIN
+2006-12-02 07:38:00 ....A         2048               Orion\M35zrkd.bin
+2008-07-13 06:00:36 ....A         2048               Orion\M35ZRKH.BIN
+2010-03-06 13:23:48 ....A         2048               Orion\M35ZRKS.BIN
+2016-04-02 14:03:44 ....A         6144               Calc\MC2721.bin
+2011-01-14 12:11:00 ....A         8192               Okean240\MONITOR.BIN
+2010-12-27 14:43:52 ....A         8192               Okean240\monitorfdd.bin
+2012-04-21 06:41:24 ....A          512               Vector06c\palette.bin
+2009-10-17 09:49:26 ....A         8192               PK8000\pk8000_ngmd.bin
+2008-06-26 08:55:58 ....A         2048               Radio\ordos\R86-1.BIN
+2008-06-26 08:55:56 ....A         2048               Radio\ordos\R86-2.BIN
+2002-01-25 18:01:52 ....A        16384               Lvov\rom01.bin
+2008-02-15 15:15:42 ....A         8192               Orion\Pro\ROM1-100.BIN
+2000-04-18 08:00:00 ....A         8192               Orion\Pro\ROM1-210.BIN
+1992-10-07 14:02:28 ....A         4096               Galaxy\ROM1.BIN
+1998-03-06 19:40:56 ....A        32768               Orion\Pro\ROM2-100.BIN
+1999-11-28 21:30:00 ....A        65536               Orion\Pro\ROM2-210.BIN
+1992-10-16 13:35:54 ....A         4096               Galaxy\ROM2.BIN
+1998-01-11 12:53:14 ....A        65536               Orion\Pro\ROMD1.BIN
+2005-12-04 12:37:12 ....A        65536               Specialist\ROMDISK.BIN
+2008-06-26 08:53:46 ....A        65536               Radio\ordos\ROMDISK.BIN
+2008-04-30 12:31:42 ....A        56736               Orion\ROMDISK.BIN
+1996-12-24 16:32:00 ....A         2048               Robotron\s502.bin
+1996-12-24 16:32:00 ....A         2048               Robotron\s619.bin
+2010-09-26 12:57:14 ....A         2048               Robotron\s643.bin
+2011-10-21 03:22:26 ....A        65536               Specialist\specsvga.bin
+2000-03-06 15:45:14 ....A        12288               SYMGEN.BIN
+2008-09-08 03:00:58 ....A         8192               Vector06c\vec1200.bin
+2012-03-14 08:42:40 ....A         1462               Calc\calc.bmp
+2012-03-02 12:16:24 ....A        37182               Nairi\pultm.bmp
+2010-01-23 13:59:06 ....A        37878               UT88\UT88.bmp
+2010-01-23 14:00:08 ....A       110454               UT88\UT88a.bmp
+2010-01-23 13:55:52 ....A       110454               UT88\UT88b.bmp
+2011-10-22 07:21:36 ....A         1406               config\Agat-7.cfg
+2013-03-21 12:38:02 ....A         1673               config\Aleste520EX.cfg
+2011-11-27 08:03:24 ....A         1508               config\Apogee color.cfg
+2011-11-27 08:03:28 ....A         1683               config\Apogee R2.cfg
+2011-11-27 08:03:16 ....A         1501               config\Apogee.cfg
+2014-10-18 13:20:32 ....A         3013               config\Argo.cfg
+2016-02-20 16:18:52 ....A         1800               config\Bashkiria ARM-SHK.cfg
+2013-12-17 03:11:34 ....A         2587               config\Bashkiria-2M disk.cfg
+2015-10-11 06:50:42 ....A         2401               config\Bashkiria-2M rom.cfg
+2013-03-30 13:33:28 ....A         1912               config\BK-0010.cfg
+2013-03-30 13:33:32 ....A         2015               config\BK-0010_01.cfg
+2013-03-30 13:33:36 ....A         2167               config\BK-0010fdd.cfg
+2013-03-30 13:33:38 ....A         3805               config\BK-0011m.cfg
+2012-03-14 09:28:08 ....A          939               config\Calc.cfg
+2013-04-14 05:31:46 ....A         1859               config\DVK-2.cfg
+2013-04-13 07:28:08 ....A         1978               config\DVK-KSM.cfg
+2013-04-14 05:31:14 ....A         1745               config\DVK.cfg
+2010-08-26 02:10:10 ....A          899               config\Galaxy.cfg
+2011-08-22 07:46:54 ....A         1412               config\Irisha gmd70.cfg
+2011-10-04 12:56:34 ....A         3052               config\Irisha kngmd.cfg
+2011-11-15 10:55:32 ....A         3223               config\Irisha.cfg
+2015-11-24 13:04:26 ....A         2199               config\Iskra1080.cfg
+2013-04-03 12:04:12 ....A         6015               config\Korvet-RMP.cfg
+2013-04-03 12:04:22 ....A         6025               config\Korvet-RMU.cfg
+2012-09-12 13:58:40 ....A         6201               config\Korvet.cfg
+2012-04-22 14:17:44 ....A         1845               config\Krista-2.cfg
+2012-04-27 12:43:52 ....A          730               config\Kristall-2.cfg
+2016-04-05 14:49:24 ....A          805               config\Kroha.cfg
+2011-03-14 12:46:26 ....A          717               config\Lik.cfg
+2011-03-14 12:46:32 ....A          731               config\Lik2.cfg
+2012-07-29 03:46:06 ....A         1614               config\Lvov cham.cfg
+2012-07-29 03:46:12 ....A         2219               config\Lvov PK-02 cham.cfg
+2011-04-01 13:12:04 ....A         1730               config\Lvov PK-02.cfg
+2011-03-12 06:38:08 ....A         1111               config\Lvov.cfg
+2016-04-02 16:12:36 ....A         1354               config\MC2721.cfg
+2008-09-21 07:09:40 ....A          664               config\Mikro-80.cfg
+2008-09-17 11:18:04 ....A         1323               config\Mikrosha.cfg
+2011-05-04 07:13:48 ....A          935               config\MSX.cfg
+2011-06-04 04:20:20 ....A         2065               config\MSX2 fdd.cfg
+2011-06-04 04:21:44 ....A         2176               config\MSX2 fdd2.cfg
+2011-06-24 04:35:14 ....A         2467               config\MSX2 ObsoNET.cfg
+2011-05-04 08:10:06 ....A         1439               config\MSX2.cfg
+2012-03-04 16:26:18 ....A         1048               config\Nairi.cfg
+2013-01-13 08:46:24 ....A         2029               config\Okean-240 fdd.cfg
+2013-01-13 08:46:18 ....A         1730               config\Okean-240.cfg
+2011-06-24 04:59:20 ....A         2723               config\Orion-128 Z80 HDD.cfg
+2011-06-24 04:59:14 ....A         2601               config\Orion-128 Z80-Card-II.cfg
+2013-10-08 04:00:02 ....A         1756               config\Orion-128.cfg
+2013-10-05 03:15:12 ....A         4371               config\Orion-Pro 2 PushkovAY.cfg
+2015-12-18 10:33:28 ....A         4787               config\Orion-Pro 2.cfg
+2015-12-19 03:49:18 ....A         4526               config\Orion-Pro.cfg
+2010-10-15 03:17:50 ....A         2688               config\Orion-SD.cfg
+2016-02-09 09:57:36 ....A         5966               config\Partner.cfg
+2011-05-10 14:07:10 ....A         2000               config\PK-6128c.cfg
+2010-10-05 04:24:06 ....A         2707               config\PK8000 disk.cfg
+2010-09-17 05:50:42 ....A         3529               config\PK8000 KDOS.cfg
+2010-09-17 05:50:48 ....A         2144               config\PK8000 Sura and Xobbi.cfg
+2010-09-17 05:50:54 ....A         2221               config\PK8000 Vesta.cfg
+2011-07-09 13:50:48 ....A         3447               config\PK8002.cfg
+2013-11-28 06:08:08 ....A         2594               config\Poisk HDD.cfg
+2013-11-28 06:08:02 ....A         2316               config\Poisk.cfg
+2011-11-25 14:36:18 ....A          909               config\Radio-86RK 4K.cfg
+2011-03-14 12:47:38 ....A          957               config\Radio-86RK color.cfg
+2011-06-24 04:20:14 ....A         1178               config\Radio-86RK net.cfg
+2011-03-14 12:47:50 ....A         1609               config\Radio-86RK ordos.cfg
+2011-03-14 12:47:54 ....A         1224               config\Radio-86RK romdisk.cfg
+2011-03-14 12:47:30 ....A         1101               config\Radio-86RK.cfg
+2010-09-29 11:18:48 ....A         1391               config\Robotron 1715.cfg
+2013-09-04 07:30:24 ....A         1207               config\SM1800.cfg
+2011-03-14 12:48:08 ....A          729               config\Specialist.cfg
+2011-08-24 08:07:44 ....A          776               config\Specialist4color.cfg
+2011-08-24 08:08:00 ....A          800               config\Specialist8color.cfg
+2012-09-12 13:53:34 ....A         1833               config\SpecialistMX (Commander).cfg
+2012-09-12 13:53:02 ....A         1734               config\SpecialistMX.cfg
+2013-11-22 08:23:18 ....A         3267               config\SpecialistMX2.cfg
+2011-03-14 12:48:32 ....A          952               config\Spektr-001.cfg
+2010-10-25 02:38:20 ....A         1286               config\TIA-MC.cfg
+2011-11-25 14:43:46 ....A         1680               config\Unior.cfg
+2016-02-08 12:01:34 ....A         2013               config\UT88 mini.cfg
+2016-02-09 09:31:04 ....A         1047               config\UT88.cfg
+2009-03-26 08:01:50 ....A         1707               config\Vector-1200.cfg
+2011-10-20 11:06:38 ....A         3418               config\Vector06c-coman.cfg
+2011-10-20 11:06:44 ....A         3536               config\Vector06c-romdisk.cfg
+2011-10-20 11:06:52 ....A         3844               config\Vector06c-smp.cfg
+2011-10-21 10:56:24 ....A         3507               config\Vector06c-wm1.cfg
+2011-10-20 11:07:34 ....A         4071               config\Vector06c-Z80.cfg
+2011-10-20 11:02:52 ....A         3500               config\Vector06c.cfg
+2013-03-07 14:34:42 ....A         2904               config\ZX Spectrum 128 tr-dos.cfg
+2011-04-13 09:22:24 ....A         1208               config\ZX Spectrum 128.cfg
+2011-04-13 08:44:36 ....A          957               config\ZX Spectrum 48.cfg
+2011-08-11 03:08:26 ....A       737280               Irisha\disk.cpm
+2009-05-26 01:27:52 ....A         8192               dvk\000.dat
+2009-05-26 01:27:52 ....A         8192               dvk\013.dat
+2010-05-25 06:48:46 ....A         8192               dvk\054.dat
+2007-03-09 04:18:52 ....A         2048               Mikrosha\MONMIKR.DAT
+2007-03-12 10:17:58 ....A         2048               Mikro80\MONRK80.DAT
+2016-04-05 14:20:50 ....A        40960               Plugins\Indicator.dll
+2016-04-05 14:20:50 ....A        49152               Plugins\MC6502.dll
+2012-04-10 03:28:24 ....A        40960               Plugins\Nairi.dll
+2016-04-05 14:20:50 ....A        69632               Plugins\PDP11.dll
+2016-04-05 14:20:52 ....A       204800               Plugins\Rus8bit.dll
+2013-12-19 05:24:30 ....A        49152               Plugins\x86.dll
+2016-04-05 14:20:52 ....A       344064               Plugins\Z80.dll
+2012-03-10 02:52:20 ....A        10240               Nairi\2048.dzu
+2012-02-27 14:56:46 ....A        10240               Nairi\4096.dzu
+2012-03-02 09:31:34 ....A        10240               Nairi\mc36.dzu
+2012-03-04 12:55:22 ....A        10240               Nairi\mc72.dzu
+2011-04-23 03:37:00 ....A       786432               Vector06c\ERAM768.EDD
+2011-04-27 12:51:20 ....A       262144               Vector06c\romdisk.edd
+2007-09-24 02:25:08 ....A       262144               Vector06c\VECTOR.EDD
+1999-04-10 19:38:52 ....A        16384               Vector06c\VECTOR.EMR
+2012-03-04 11:49:40 ....A         1458               Nairi\mcnames.en
+1999-04-09 13:05:30 ....A         2048               Vector06c\COMAN.EPR
+2012-04-18 16:05:48 ....A          512               Vector06c\krista2.epr
+1999-04-27 23:19:28 ....A        32768               Vector06c\vector.epr
+2011-04-03 14:09:38 ....A        32768               Vector06c\vectorz80.epr
+2016-04-05 14:20:54 ....A       286720               EMU.exe
+2012-04-27 13:26:32 ....A         4288               EMU.ext
+2013-04-08 06:38:20 ....A         2048               dvk\15ie.fnt
+2007-12-03 02:47:22 ....A         2048               Agat\Agat.fnt
+2010-08-26 02:27:20 ....A         3072               Galaxy\chrgen.fnt
+2000-06-23 09:16:20 ....A         8192               Korvet\korvet2.fnt
+2012-04-27 11:35:22 ....A         2048               Mikro80\kristall-2.fnt
+2007-11-18 12:12:02 ....A         2048               Mikro80\Mikro80.fnt
+2009-04-06 06:16:52 ....A         2048               Unior\unior.fnt
+2005-06-28 13:00:18 ....A         2048               UT88\UT88.FNT
+2007-03-24 15:46:40 ....A         4726               BK0010\BYK.FOC
+1998-11-10 22:30:06 ....A        16154               Radio\SPITON.GAM
+2012-03-14 09:11:52 ....A         1527               Calc\calc.gif
+2016-04-02 15:39:26 ....A         1527               Calc\MC2721-0.gif
+2012-03-14 10:11:52 ....A         1527               Calc\MC2721-1.gif
+2012-03-05 12:52:40 ....A        13792               Nairi\pult0.gif
+2012-03-02 12:31:52 ....A        11146               Nairi\pult1.gif
+2011-08-22 09:34:26 ....A       256256               Irisha\disk.gmd
+2013-09-04 07:29:32 ....A         3584               SM1800\spo.gmd
+2011-02-01 11:00:42 ....A      2638592               Specialist\SD.IMG
+2012-03-14 09:18:58 ....A           55               Calc\calc.kbd
+2013-04-08 14:40:44 ....A          367               dvk\dvk.kbd
+2012-04-25 19:22:40 ....A          178               Mikro80\kristall-2.kbd
+2012-04-09 13:29:58 ....A          257               Iskra1080\layout.kbd
+2010-09-26 11:24:14 ....A          355               Robotron\layout.kbd
+2005-04-11 09:06:36 ....A          285               B2M\LAYOUT.KBD
+2011-08-19 02:51:00 ....A          325               BK0010\layout.kbd
+2011-08-19 01:43:58 ....A          255               Vector06c\layout.kbd
+2012-07-29 08:47:26 ....A          242               Lvov\layout.kbd
+2011-10-22 06:44:42 ....A          291               Agat\layout.kbd
+2013-11-07 06:17:10 ....A          385               Poisk\layout.kbd
+2011-08-18 14:09:46 ....A          284               Korvet\layout.kbd
+2011-08-19 05:06:30 ....A          306               Unior\layout.kbd
+2009-11-11 08:52:22 ....A          171               Galaxy\layout.kbd
+2010-10-25 03:38:36 ....A           44               TIA-MC\layout.kbd
+2011-08-19 07:42:18 ....A          181               UT88\LAYOUT.KBD
+2011-02-23 05:37:26 ....A          264               ZX\layout.kbd
+2013-03-19 12:25:46 ....A          302               Mikrosha\LAYOUT.KBD
+2013-02-13 14:01:16 ....A          295               Aleste\layout.kbd
+2011-08-19 02:37:32 ....A          318               Lik\LAYOUT.KBD
+2013-03-19 12:58:08 ....A          259               Apogee\LAYOUT.KBD
+2010-02-05 10:44:36 ....A          256               MSX\layout.kbd
+2016-04-04 14:54:38 ....A           35               Kroha\layout.kbd
+2013-03-19 12:57:58 ....A          294               Radio\LAYOUT.KBD
+2014-10-18 07:54:18 ....A          295               Argo\layout.kbd
+2013-04-03 14:22:02 ....A          427               dvk\layout.kbd
+2013-03-19 12:58:50 ....A          198               Orion\LAYOUT.KBD
+2011-08-18 14:19:40 ....A          320               Specialist\LAYOUT.KBD
+2010-12-28 06:49:06 ....A          306               Okean240\layout.kbd
+2013-03-19 12:58:56 ....A          198               Partner\LAYOUT.KBD
+2011-08-19 01:52:52 ....A          320               Specialist\LAYOUTMX.KBD
+2016-04-02 16:13:34 ....A           63               Calc\MC2721.kbd
+2011-08-19 08:27:50 ....A          331               PK8000\pk8000.kbd
+2010-01-23 14:42:34 ....A           38               UT88\UT88.kbd
+2013-04-07 04:05:48 ....A          512               dvk\dvk.map
+2011-04-22 07:31:40 ....A          512               Vector06c\eram.map
+2011-04-27 14:39:46 ....A          512               Vector06c\ERAMROM.MAP
+2009-09-19 14:10:38 ....A         2581               Vector06c\PTxPlay.obj
+2001-02-20 15:04:22 ....A         5182               Vector06c\rmp.obj
+2009-09-22 03:54:42 ....A         1358               Vector06c\sqt.obj
+2009-09-17 07:28:14 ....A         1920               Vector06c\STMVIEW.OBJ
+2009-09-19 16:46:54 ....A         1897               Vector06c\stp.obj
+2012-04-18 16:06:14 ....A          512               Vector06c\krista2.pal
+2107-12-31 15:16:46 ....A         2048               Poisk\B_HD_V11.RF2
+2107-12-31 15:07:06 ....A         2048               Poisk\B_NGMD_N.RF2
+2011-02-20 08:14:06 ....A          793               Radio\net_test.rk
+1997-09-01 12:52:20 ....A         1995               Radio\XONIX.RK
+1999-05-10 16:45:16 ....A        17786               Apogee\BASMSX.RKA
+2007-04-08 07:39:14 ....A         8198               Mikrosha\BASMICRON13.RKM
+2004-10-22 15:10:14 ....A         5126               Mikrosha\GRAFED.RKM
+2004-10-22 15:26:04 ....A        13142               Mikrosha\KLAD.RKM
+1998-08-24 07:21:18 ....A        17552               Partner\ALIAZ1.RKP
+1999-07-23 05:13:28 ....A         3195               Partner\EDCOLOR.RKP
+2011-10-21 08:34:20 ....A         6240               Specialist\dos.rks
+2011-10-22 05:48:06 ....A        18176               Specialist\001.rom
+2013-02-17 09:59:38 ....A         4096               dvk\15ie.rom
+2006-08-06 14:21:20 ....A        16384               ZX\2006.ROM
+2004-10-30 11:38:28 ....A         2048               Agat\Agat7.rom
+1998-02-13 15:11:02 ....A         4096               Apogee\Apogee.rom
+1996-04-27 13:52:10 ....A         8192               BK0010\B11M_BOS.ROM
+1996-04-28 09:31:52 ....A         8192               BK0010\B11M_EXT.ROM
+2016-02-20 11:46:44 ....A         8192               B2M\b1basic.rom
+2016-02-20 11:45:22 ....A         8192               B2M\b1bios.rom
+2016-02-18 15:07:44 ....A         2048               B2M\b1font.rom
+1996-04-30 06:39:10 ....A        16384               BK0010\BAS11M_0.ROM
+1996-04-30 06:39:52 ....A         8192               BK0010\BAS11M_1.ROM
+1998-01-15 12:40:02 ....A         8192               Partner\BASIC.ROM
+2002-01-20 11:00:06 ....A         8192               BK0010\Basic10first.rom
+2002-01-19 11:01:50 ....A         8192               BK0010\Basic10second.rom
+2002-01-19 11:01:50 ....A         8064               BK0010\Basic10third.rom
+1999-12-23 12:50:48 ....A         2048               UT88\BIOS.ROM
+1999-05-05 13:21:30 ....A         2048               Orion\BIOS.ROM
+1998-02-20 15:13:26 ....A         2048               Radio\BIOS.ROM
+1999-02-21 14:24:14 ....A         4096               Specialist\BIOS.ROM
+1999-04-08 15:04:02 ....A         8192               Partner\BIOS.ROM
+2011-05-08 07:02:02 ....A        16384               MSX\ObsoNET\bios.rom
+2007-09-23 10:58:06 ....A         8192               B2M\BIOS1.ROM
+2007-09-04 02:16:50 ....A         8192               B2M\BIOS2.ROM
+1999-02-24 13:40:26 ....A         4096               Radio\bios4k.rom
+2012-03-14 09:33:36 ....A         2048               Calc\calc.rom
+2000-12-31 17:00:00 ....A        16384               MSX\DISK.ROM
+2003-01-10 11:58:30 .R..A         4096               BK0010\DISK_327.ROM
+2005-06-22 10:26:22 ....A        16384               ZX\DOS6_10E.ROM
+2011-10-19 04:13:26 ....A          256               Korvet\extern.rom
+2011-08-30 03:02:04 ....A        65536               Irisha\extra.rom
+2007-04-22 13:55:36 ....A         2048               Partner\FDD.ROM
+2002-12-16 11:01:38 ....A         8192               BK0010\Focal.rom
+1999-03-17 08:56:52 ....A         8192               Partner\FONT.ROM
+2012-11-06 03:14:04 ....A         8192               Kroha\GAME1.ROM
+2007-12-12 17:51:24 ....A        16384               ZX\GLUKPEN.ROM
+2012-04-08 10:02:30 ....A        20480               Iskra1080\i1080.rom
+2008-08-15 09:45:18 ....A        16384               Irisha\irisha.rom
+2011-10-22 07:41:40 ....A        52736               Specialist\IvagorTim0xaGam8c.rom
+1990-09-18 08:44:30 ....A        24576               Korvet\korvet11.rom
+2000-06-23 10:15:16 ....A        24578               Korvet\korvet20.rom
+2012-04-20 12:58:42 ....A         2048               Mikro80\kristall-2.rom
+2007-04-24 09:08:40 ....A         2048               Partner\MCPG.ROM
+2002-12-03 13:55:06 ....A         2048               SM1800\MONID.ROM
+2002-12-04 07:37:40 ....A         8192               BK0010\MONIT10.ROM
+2010-01-21 06:48:28 ....A         1024               UT88\monitor0.rom
+1996-04-27 21:03:50 ....A        32768               MSX\MSX.ROM
+1996-04-27 21:03:50 ....A        32768               MSX\MSX2.ROM
+1996-04-27 21:03:50 ....A        16384               MSX\MSX2EXT.ROM
+1997-09-05 13:05:44 ....A        65536               MSX\MSXDOS22.ROM
+2009-04-02 15:32:00 ....A           64               Unior\palette.rom
+2010-03-14 07:54:12 ....A        16384               PK8002\pk8002.rom
+2013-04-22 11:05:28 ....A         8192               Poisk\POISK.ROM
+2005-09-20 02:49:38 ....A        16384               ZX\QC_3_05.rom
+2008-06-23 07:10:22 ....A         2048               Radio\radiorom.rom
+2008-04-03 12:30:30 ....A        12288               Specialist\RAMFOS.ROM
+2008-06-24 06:04:28 ....A        32768               Radio\romdisk.rom
+2007-05-03 17:00:00 ....A        12288               Lik\ROMLIK-2.ROM
+1999-04-08 15:20:48 ....A        12288               Lik\ROMLIK.ROM
+2007-11-22 06:05:32 ....A         2048               Radio\spektr001.rom
+2000-04-10 21:00:00 ....A        47104               Specialist\spmx.rom
+2002-12-16 11:03:34 ....A         8064               BK0010\Tests.rom
+2009-02-21 11:04:26 ....A         2048               Unior\UNIOR.ROM
+2008-08-11 03:34:04 ....A        16384               PK8000\vesta.rom
+2008-08-19 11:45:22 ....A        16384               PK8000\xobbi.rom
+2001-09-04 09:27:26 ....A        32768               ZX\ZXSpectrum128.rom
+1994-12-11 14:01:56 ....A        16384               ZX\ZXSpectrum48.rom
+2013-12-25 07:14:08 ....A        24576               B2M\RAMDOS.SYS
+2008-10-11 01:18:50 ....A        40960               PK8000\ramdos.sys
+2011-06-20 12:58:30 ....A          552               codepage.txt
+2012-03-29 13:26:42 ....A         2601               FAQ.txt
+2008-11-04 05:42:32 ....A           72               Agat\games.txt
+2015-12-21 06:35:12 ....A         8644               history.txt
+2012-02-19 14:07:06 ....A         1620               Nairi\mcnames.txt
+2012-02-19 16:48:12 ....A          514               Nairi\opnames.txt
+2008-02-18 05:01:14 ....A            8               Orion\Pro\DIP
+2016-11-06 06:22:06 ....A            0            0  Vector06c\noramdisk.edd
+2016-11-06 06:22:06 D....            0            0  Mikro80
+2016-11-06 06:22:06 D....            0            0  Agat
+2016-11-06 06:22:06 D....            0            0  Specialist
+2016-11-06 06:22:06 D....            0            0  Iskra1080
+2016-11-06 06:22:06 D....            0            0  PK8000
+2016-11-06 06:22:06 D....            0            0  Irisha
+2016-11-06 06:22:06 D....            0            0  UT88
+2016-11-06 06:22:06 D....            0            0  Radio
+2016-11-06 06:22:06 D....            0            0  Orion
+2016-11-06 06:22:06 D....            0            0  Galaxy
+2016-11-06 06:22:06 D....            0            0  PK8002
+2016-11-06 06:22:06 D....            0            0  TIA-MC
+2016-11-06 06:22:06 D....            0            0  Vector06c
+2016-11-06 06:22:06 D....            0            0  dvk
+2016-11-06 06:22:06 D....            0            0  MSX\ObsoNET
+2016-11-06 06:22:06 D....            0            0  config
+2016-11-06 06:22:06 D....            0            0  Mikrosha
+2016-11-06 06:22:06 D....            0            0  Radio\ordos
+2016-11-06 06:22:06 D....            0            0  Lvov
+2016-11-06 06:22:06 D....            0            0  Calc
+2016-11-06 06:22:06 D....            0            0  Kroha
+2016-11-06 06:22:06 D....            0            0  BK0010
+2016-11-06 06:22:06 D....            0            0  Korvet
+2016-11-06 06:22:06 D....            0            0  Robotron
+2016-11-06 06:22:06 D....            0            0  Orion\Pro
+2016-11-06 06:22:06 D....            0            0  ZX
+2016-11-06 06:22:06 D....            0            0  Plugins
+2016-11-06 06:22:06 D....            0            0  B2M
+2016-11-06 06:22:06 D....            0            0  MSX
+2016-11-06 06:22:06 D....            0            0  Argo
+2016-11-06 06:22:06 D....            0            0  Lik
+2016-11-06 06:22:06 D....            0            0  Apogee
+2016-11-06 06:22:06 D....            0            0  Nairi
+2016-11-06 06:22:06 D....            0            0  Poisk
+2016-11-06 06:22:06 D....            0            0  Unior
+2016-11-06 06:22:06 D....            0            0  Okean240
+2016-11-06 06:22:06 D....            0            0  Aleste
+2016-11-06 06:22:06 D....            0            0  SM1800
+2016-11-06 06:22:06 D....            0            0  Agat\7
+2016-11-06 06:22:06 D....            0            0  Partner
+------------------- ----- ------------ ------------  ------------------------
+2107-12-31 15:16:46            8530925      1160993  317 files, 40 folders
