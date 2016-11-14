@@ -1,0 +1,31 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-04-28 09:38:28 ....A        13880        72913  logo\logo7.jpg
+2003-02-12 12:01:50 ....A        16012               logo\logo70.jpg
+2003-06-24 17:59:36 ....A        21161               logo\logo7hikari.jpg
+2003-06-24 19:01:56 ....A        23189               logo\logo7_.jpg
+2005-04-28 09:21:34 ....A         6241               ReadmeorDie.txt
+2005-04-28 09:55:52 ....A       131072               memcards\memcard1.mcd
+2005-04-28 09:55:54 ....A       131072               memcards\memcard2.mcd
+2005-04-29 02:44:12 ....A       733184       377751  PSXeven_v0.19.exe
+2003-05-11 10:26:44 ....A        57344               plugins\cdrXeven.dll
+2004-03-13 12:58:14 ....A       536576               plugins\gpuPeopsSoft.dll
+2003-06-08 23:36:48 ....A       479232               plugins\gpuPeopsSoft114.dll
+1999-10-11 15:03:00 ....A        32768               plugins\padSeguDIKey.dll
+2003-02-16 10:35:58 ....A        24576               plugins\spuNull7.dll
+2004-09-19 12:29:30 ....A        77824               plugins\spuPeopsDSound.dll
+2003-02-18 02:47:56 ....A            0            0  bios\dummy.txt
+2005-04-28 22:48:56 ....A            0            0  logs\ps7main.log
+2003-02-18 02:48:30 ....A            0            0  plugins\dummy.txt
+2003-02-18 02:48:46 ....A            0            0  snap\dummy.txt
+2003-02-18 01:19:28 ....A            0            0  states\dummy.txt
+2016-11-14 20:54:53 D...A            0            0  states
+2016-11-14 20:54:53 D...A            0            0  snap
+2016-11-14 20:54:53 D....            0            0  regs
+2016-11-14 20:54:53 D...A            0            0  plugins
+2016-11-14 20:54:53 D...A            0            0  memcards
+2016-11-14 20:54:53 D...A            0            0  logs
+2016-11-14 20:54:53 D...A            0            0  logo
+2016-11-14 20:54:53 D...A            0            0  bios
+------------------- ----- ------------ ------------  ------------------------
+2016-11-14 20:54:53            2284131       450664  19 files, 8 folders

@@ -1,0 +1,40 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-08-05 13:16:48 ....A         1374        56913  docs\authors.txt
+2010-08-05 13:16:20 ....A          581               docs\keys.txt
+2009-02-06 10:18:48 ....A        19082               docs\license.txt
+2010-08-05 13:16:26 ....A          824               docs\tweaks.txt
+2010-08-04 03:28:37 ....A       131072               memcards\Mcd001.mcr
+2010-08-04 03:28:37 ....A       131072               memcards\Mcd002.mcr
+2010-07-29 05:07:01 ....A        38731               langs\pt_BR\LC_MESSAGES\pcsx.mo
+2010-07-29 05:07:01 ....A        43245               langs\zh_TW\LC_MESSAGES\pcsx.mo
+2010-07-29 05:07:01 ....A        43913               langs\it\LC_MESSAGES\pcsx.mo
+2010-07-29 05:07:01 ....A        45315               langs\zh_CN\LC_MESSAGES\pcsx.mo
+2010-07-29 05:07:01 ....A        47921               langs\ru_RU\LC_MESSAGES\pcsx.mo
+2010-08-05 13:13:40 ....A       864768       591460  pcsx.exe
+2010-08-04 03:28:07 ....A        61440               plugins\cdrsapu.dll
+2010-08-04 03:28:05 ....A       421888               plugins\gpuPeopsOpenGL.dll
+2010-08-04 03:28:06 ....A       655360               plugins\gpuPeopsSoft.dll
+2010-08-04 03:28:05 ....A        57344               plugins\netSock.dll
+2010-08-04 03:28:06 ....A        49152               plugins\PadSSSPSX.dll
+2010-08-04 03:28:07 ....A        77824               plugins\spuPeopsDSound.dll
+2016-11-14 20:52:12 D....            0            0  sstates
+2016-11-14 20:52:12 D....            0            0  snap
+2016-11-14 20:52:11 D....            0            0  plugins
+2016-11-14 20:52:12 D....            0            0  patches
+2016-11-14 20:52:11 D....            0            0  memcards
+2016-11-14 20:52:11 D....            0            0  langs\zh_TW\LC_MESSAGES
+2016-11-14 20:52:11 D....            0            0  langs\zh_TW
+2016-11-14 20:52:11 D....            0            0  langs\zh_CN\LC_MESSAGES
+2016-11-14 20:52:11 D....            0            0  langs\zh_CN
+2016-11-14 20:52:11 D....            0            0  langs\ru_RU\LC_MESSAGES
+2016-11-14 20:52:11 D....            0            0  langs\ru_RU
+2016-11-14 20:52:11 D....            0            0  langs\pt_BR\LC_MESSAGES
+2016-11-14 20:52:11 D....            0            0  langs\pt_BR
+2016-11-14 20:52:11 D....            0            0  langs\it\LC_MESSAGES
+2016-11-14 20:52:11 D....            0            0  langs\it
+2016-11-14 20:52:11 D....            0            0  langs
+2016-11-14 20:52:11 D....            0            0  docs
+2016-11-14 20:52:11 D....            0            0  bios
+------------------- ----- ------------ ------------  ------------------------
+2016-11-14 20:52:12            2690906       648373  18 files, 18 folders
