@@ -1,0 +1,13 @@
+15 June 2015
+
+-safer and more correct triggering of the LOAD interrupt
+-Fix Day of Week from clock to be 0-6 - CorComp manual lied ;)
+-FIAD disks search entire index sector to work around one form of copy protection (Still technically not the same as TICC, and may fail in particular cases)
+-TICC now supports DSK.DISKNAME.FILENAME (not tested on disks other than DSK1)
+-removed old bigfilehack filenames and implemented address register read and write (Read untested)
+-Allow high ascii as a terminator in filenames
+-Fix directory listings that return errors
+-Write the Disk DSR buffer header to VRAM. This makes P-Code work with the Classic99 DSR.
+-Fix VDP disk buffer header for Corrupt DSK RAM option
+-fix EOF flag
+-fix off-by-one in header of variable length FIAD files for bytes in last sector

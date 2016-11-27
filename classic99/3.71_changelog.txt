@@ -1,0 +1,18 @@
+7 June 2014
+
+-TurboForth label updated to 1.2 (binary was already correct)
+-Rasmus' ECM sprite support added
+-Fix padding when making 379 carts
+-add EEPROM test code to ubergrom
+-GPU can write to VDP registers
+-weak VDP overrun warning
+-fix to F18A DPM disable handling
+-Fix F18A SIT bit pattern handling
+-Fixes to F18A enhanced sprite mode handling thanks to RasmusM 
+-Debug fix in disk image handler
+-updated rendering interface to 32-bit (all filters updated)
+-removed unused code from 2xSAI - no need for NASM anymore
+-removed DDRAW.LIB dependency (still uses DirectDraw though)
+-(checkin only) adding DSK.DISKNAME support to DSR and TurboForth2
+-Added new debug hook system (memory only implemented, disabled by default)
+-improve timing thread

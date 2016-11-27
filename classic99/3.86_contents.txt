@@ -1,0 +1,568 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-06-29 16:18:20 ....A          896      4727164  Harry_Wilhelm\TML2.0\132SPRITES
+2015-06-14 02:05:40 ....A         6528               Harry_Wilhelm\XB256D\XB256D\256DEMO
+2015-06-14 13:38:00 ....A         6528               Harry_Wilhelm\Compiler256D\256DEMO
+2014-12-21 04:33:10 ....A         8832               Harry_Wilhelm\XB256D\XB256D\256DEMO2
+2015-06-29 16:18:20 ....A         1920               Harry_Wilhelm\TML2.0\46FONT
+2015-06-29 16:18:20 ....A         1920               Harry_Wilhelm\TML2.0\48FONT
+2015-06-29 16:18:20 ....A         1920               Harry_Wilhelm\TML2.0\57FONT
+2015-06-29 16:18:20 ....A         1920               Harry_Wilhelm\TML2.0\68FONT
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\68NCH10
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\68NCH9
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH10
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH13
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH14
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH15
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH17
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH19
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH2
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH20
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH21
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH22
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH3
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH4
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH5
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\69HCH9
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH1
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH11
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH12
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH14
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH15
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH16
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH17
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH18
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH19
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH20
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH21
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH22
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH23
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH24
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH25
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH32
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH34
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH4
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH7
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\78NCH8
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH1
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH12
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH18
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH23
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH24
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH26
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH27
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH29
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH30
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH6
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH7
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79HCH8
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79NCH26
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79NCH27
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79NCH28
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\79NCH29
+2015-06-29 16:18:20 ....A         1920               Harry_Wilhelm\TML2.0\88FONT
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88HCH16
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH13
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH2
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH3
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH30
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH31
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH33
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH5
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88NCH6
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH1
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH10
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH11
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH12
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH2
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH3
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH4
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH5
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH6
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH7
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH8
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\88VCH9
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\89HCH11
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\89HCH25
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\89HCH28
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\89HCH31
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\89HCH32
+2007-08-09 10:46:28 ....A         4992               DSK1\ABOOT
+2000-02-16 16:08:22 ....A         3968               DSK1\AEMSRES1
+2000-02-16 16:08:22 ....A         6528               DSK1\AEMSRES2
+2007-11-20 03:21:44 ....A          221               DSK1\AEMSSYS
+2011-10-07 21:29:20 ....A          896               Rich_Gilbertson\RXB AMS DEMO\AMSLDRDEMO
+2011-10-07 21:29:24 ....A         4224               Rich_Gilbertson\RXB AMS DEMO\AMSTEST
+2007-09-13 00:31:22 ....A         3456               DSK1\AMSTEST4
+2000-01-15 06:15:46 ....A         8320               DSK1\ARC303G
+2015-06-14 13:38:00 ....A         8320               Harry_Wilhelm\Compiler256D\AS
+2000-02-16 16:08:20 ....A          384               DSK1\ASHOE
+2015-06-14 13:38:00 ....A         5760               Harry_Wilhelm\Compiler256D\AT
+2011-09-30 06:19:06 ....A        20352               Rich_Gilbertson\RXB BATCH\BATCH
+2011-09-30 06:15:02 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\BIAS
+2011-10-07 21:29:26 ....A          384               Rich_Gilbertson\RXB AMS DEMO\BLOADDEMO
+2011-09-28 18:33:50 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\BLOADSCRN
+2015-10-07 14:06:52 ....A        82048               DSK1\BLOCKS
+2011-10-08 18:31:58 ....A          640               Rich_Gilbertson\RXB XB PPROGRAMS\BOOTTRACKN
+2011-09-28 18:32:40 ....A         2176               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\BSAVESCRN
+2005-07-04 05:14:30 ....A         4992               DSK1\CARDEMO
+2015-06-29 16:23:06 ....A         1920               Harry_Wilhelm\TML2.0\TMLFONTS\CAT
+2011-10-08 19:56:34 ....A          384               Rich_Gilbertson\RXB XB PPROGRAMS\CATALL
+2011-09-28 18:41:36 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\CHARALL
+2015-06-29 16:18:20 ....A         3456               Harry_Wilhelm\TML2.0\CHARDEF
+2011-09-28 18:31:16 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\CHARSETALL
+2011-10-08 07:49:58 ....A          640               Rich_Gilbertson\RXB XB PPROGRAMS\CLOADER
+2015-06-14 13:38:00 ....A         2176               Harry_Wilhelm\Compiler256D\CLOADER
+2011-09-28 18:31:04 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\CLSALL
+2011-10-08 07:01:56 ....A          896               Rich_Gilbertson\RXB XB PPROGRAMS\COINC
+2011-09-28 18:42:22 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\COLORALL
+2014-12-16 14:30:26 ....A         4992               Harry_Wilhelm\XB256D\XB256D\COMPRESS
+2015-06-29 16:18:20 ....A         2176               Harry_Wilhelm\TML2.0\CONFIG
+2015-06-29 16:18:20 ....A          640               Harry_Wilhelm\TML2.0\CONVERT
+2011-10-08 20:15:30 ....A         1152               Rich_Gilbertson\RXB XB PPROGRAMS\CRASH
+1995-09-29 20:24:36 ....A         8320               DSK1\DEMO
+2014-02-24 15:34:00 ....A         2944               Harry_Wilhelm\Playground\DEMO
+2015-06-29 16:23:06 ....A         2176               Harry_Wilhelm\TML2.0\TMLFONTS\DEMO
+1995-09-29 20:24:36 ....A         7552               DSK1\DEMP
+1995-09-29 20:24:36 ....A         2176               DSK1\DEMQ
+2011-10-08 07:01:04 ....A          896               Rich_Gilbertson\RXB XB PPROGRAMS\DISTANCE
+2011-10-10 18:13:44 ....A        12928               Rich_Gilbertson\RXB XB PPROGRAMS\DM
+2011-10-10 18:13:46 ....A         1408               Rich_Gilbertson\RXB XB PPROGRAMS\DSKBACKUP
+2011-09-28 18:44:16 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\DUP
+2015-06-14 13:38:00 ....A         2176               Harry_Wilhelm\Compiler256D\EA5MAKER
+1994-12-16 13:05:54 ....A         6528               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\EDITA1
+1994-12-16 13:06:34 ....A         8320               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\EDITA2
+2011-09-28 18:55:40 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\END-DEMO
+2011-09-28 18:53:38 ....A          896               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\EXECUTE
+2011-10-04 10:03:42 ....A          384               Rich_Gilbertson\RXB XB PPROGRAMS\FCOPY
+2015-06-29 16:23:06 ....A         4224               Harry_Wilhelm\TML2.0\TMLFONTS\FONTMAKER
+2011-02-22 15:22:06 ....A         2688               DSK1\FRED
+2015-06-14 13:38:00 ....A         8064               Harry_Wilhelm\Compiler256D\FW
+2011-03-02 16:37:56 ....A         8576               Rich_Gilbertson\RXB GENEVE ROMs\GENEVE
+2011-03-02 16:37:56 ....A         8576               Rich_Gilbertson\RXB GENEVE ROMs\GENEVE1
+2011-09-28 18:48:30 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\G~MOTION
+2011-10-08 20:16:28 ....A          896               Rich_Gilbertson\RXB XB PPROGRAMS\HEX
+2011-09-28 18:43:44 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\HEX~DEC
+2015-06-29 16:18:20 ....A         2432               Harry_Wilhelm\TML2.0\HMLOADER
+2013-07-20 12:12:18 ....A         9600               Rich_Gilbertson\INTHEDARK\DSK1\INTHEDARK
+2011-09-28 18:46:08 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\INVERSEALL
+2011-09-28 18:52:46 ....A         1152               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\IO~CHIMES
+2013-06-19 08:32:00 ....A         1408               Rich_Gilbertson\INTHEDARK\DSK1\ITDSAVE
+2013-06-19 08:32:00 ....A         1152               Rich_Gilbertson\INTHEDARK\DSK1\ITDSHOW
+2013-06-16 22:36:26 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT0
+2013-06-16 22:36:26 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT1
+2013-06-16 22:36:40 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT10
+2013-06-16 22:36:40 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT11
+2013-06-16 22:36:42 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT12
+2013-06-16 22:36:44 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT13
+2013-06-16 22:36:44 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT14
+2013-06-16 22:36:46 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT15
+2013-06-16 22:36:48 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT16
+2013-06-16 22:36:50 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT17
+2013-06-16 22:36:50 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT18
+2013-06-16 22:36:52 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT19
+2013-06-16 22:36:28 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT2
+2013-06-16 22:36:54 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT20
+2013-06-16 22:36:54 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT21
+2013-06-16 13:14:02 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT22
+2013-06-16 13:14:02 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT23
+2013-06-16 13:14:04 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT24
+2013-06-16 13:14:06 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT25
+2013-06-16 13:14:06 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT26
+2013-06-16 13:14:08 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT27
+2013-06-16 13:14:10 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT28
+2013-06-16 13:14:10 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT29
+2013-06-16 22:36:30 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT3
+2013-06-16 13:14:12 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT30
+2013-06-16 13:14:14 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT31
+2013-06-16 13:14:16 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT32
+2013-06-16 13:14:16 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT33
+2013-06-16 13:14:18 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT34
+2013-06-16 13:14:20 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT35
+2013-06-16 13:14:20 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT36
+2013-06-16 13:14:22 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT37
+2013-06-16 13:14:24 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT38
+2013-06-16 13:14:24 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT39
+2013-06-16 22:36:30 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT4
+2013-06-16 13:14:26 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT40
+2013-06-16 13:14:28 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT41
+2013-06-16 13:14:28 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT42
+2013-06-16 13:14:30 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT43
+2013-06-16 22:36:32 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT5
+2013-06-16 22:36:34 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT6
+2013-06-16 22:36:36 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT7
+2013-06-16 22:36:36 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT8
+2013-06-16 22:36:38 ....A         8320               Rich_Gilbertson\INTHEDARK\DSK1\ITDT9
+2014-02-26 17:08:00 ....A         1664               Harry_Wilhelm\Playground\LIFE
+2011-07-09 07:28:34 ....A          896               Rich_Gilbertson\INTHEDARK\DSK1\LINESAVE
+2011-10-08 07:48:28 ....A         1152               Rich_Gilbertson\RXB XB PPROGRAMS\LINESHOW
+2011-10-10 18:52:48 ....A         2688               Rich_Gilbertson\RXB XB PPROGRAMS\LOAD
+2015-08-02 15:11:54 ....A         9344               Harry_Wilhelm\Compiler256D\LOAD
+2011-10-10 18:50:42 ....A         6784               Rich_Gilbertson\RXB XB PPROGRAMS\LOADER
+2015-06-29 16:18:20 ....A         2432               Harry_Wilhelm\TML2.0\LOADER
+2013-06-22 12:56:36 ....A          384               Rich_Gilbertson\INTHEDARK\DSK1\LOADSCORE
+2015-06-29 16:18:20 ....A         6272               Harry_Wilhelm\TML2.0\LOGO_C
+2015-06-29 16:18:20 ....A         6272               Harry_Wilhelm\TML2.0\LOGO_P
+2011-09-28 18:27:24 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\LONGLINE
+2015-06-07 16:10:12 ....A       325760               Rich_Gilbertson\RXB SOURCE\LRXB3
+2015-05-13 13:39:46 ....A       336512               Rich_Gilbertson\RXB SOURCE\LRXB4
+2015-05-13 13:33:26 ....A       365184               Rich_Gilbertson\RXB SOURCE\LRXB5
+2015-05-14 16:33:54 ....A       303744               Rich_Gilbertson\RXB SOURCE\LRXB6
+2015-05-24 16:05:02 ....A       163200               Rich_Gilbertson\RXB SOURCE\LRXB7
+2013-06-26 08:21:28 ....A          896               Rich_Gilbertson\INTHEDARK\DSK1\LS
+2014-02-27 17:39:00 ....A         1408               Harry_Wilhelm\Playground\MAKE6K1-O
+2014-02-27 17:18:00 ....A          384               Harry_Wilhelm\Playground\MAKE6K2-O
+2014-02-27 16:22:00 ....A         2176               Harry_Wilhelm\Playground\MAKEBX-O
+2014-02-22 14:07:00 ....A         1152               Harry_Wilhelm\Playground\MAKEEA1-O
+2014-02-22 14:07:00 ....A          384               Harry_Wilhelm\Playground\MAKEEA2-O
+2011-09-28 18:49:32 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\MOTION
+2011-09-28 18:42:48 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\MOTIONALL
+2011-09-28 18:39:52 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\MOTIONGO
+2011-09-28 18:40:42 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\MOTIONSTOP
+2011-09-28 18:51:36 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\MOVES
+2011-09-28 18:37:24 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\MOVESDSR
+2011-09-28 18:30:44 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\NEW
+2011-10-08 19:17:22 ....A          640               Rich_Gilbertson\RXB XB PPROGRAMS\NOPOWERUP
+2011-10-08 07:20:12 ....A          384               Rich_Gilbertson\RXB XB PPROGRAMS\ONKEY
+2015-06-07 16:10:12 ....A        14976               Rich_Gilbertson\RXB OBJECT\ORXB3
+2015-05-13 13:39:46 ....A        15488               Rich_Gilbertson\RXB OBJECT\ORXB4
+2015-05-13 13:33:26 ....A        15488               Rich_Gilbertson\RXB OBJECT\ORXB5
+2015-05-14 16:33:54 ....A        14720               Rich_Gilbertson\RXB OBJECT\ORXB6
+2015-05-24 16:05:02 ....A        15232               Rich_Gilbertson\RXB OBJECT\ORXB7
+2011-10-08 21:59:28 ....A          384               Rich_Gilbertson\RXB XB PPROGRAMS\PGMONLY
+2011-09-28 18:38:28 ....A         1408               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\POKER
+2015-06-29 16:18:20 ....A         6272               Harry_Wilhelm\TML2.0\POTATOHEAD
+2011-10-08 19:17:16 ....A          640               Rich_Gilbertson\RXB XB PPROGRAMS\POWERUP
+2015-03-23 18:18:34 ....A         2688               Rich_Gilbertson\RXB XB PPROGRAMS\PRGM2IV254
+2015-06-29 16:18:20 ....A         9088               Harry_Wilhelm\TML2.0\PS
+2015-06-29 16:18:20 ....A         6272               Harry_Wilhelm\TML2.0\PSSCRN_C
+2015-06-29 16:18:20 ....A         6272               Harry_Wilhelm\TML2.0\PSSCRN_P
+2015-06-14 13:38:00 ....A         2944               Harry_Wilhelm\Compiler256D\QD
+2015-06-14 13:38:00 ....A         2688               Harry_Wilhelm\Compiler256D\QF
+2015-06-14 12:22:22 ....A        20352               Harry_Wilhelm\Compiler256D\RUNTIME1
+2015-06-14 12:22:48 ....A        10880               Harry_Wilhelm\Compiler256D\RUNTIME2
+2015-06-14 12:23:14 ....A        22144               Harry_Wilhelm\Compiler256D\RUNTIME3
+2015-06-14 12:23:38 ....A        10368               Harry_Wilhelm\Compiler256D\RUNTIME4
+2015-06-14 12:23:54 ....A         2688               Harry_Wilhelm\Compiler256D\RUNTIME5
+2015-06-14 12:24:10 ....A         1664               Harry_Wilhelm\Compiler256D\RUNTIME6
+2015-06-14 12:24:28 ....A         8320               Harry_Wilhelm\Compiler256D\RUNTIME7
+2015-06-07 17:04:40 ....A         8576               Rich_Gilbertson\RXB GRAM\RXB
+2015-06-07 17:04:40 ....A         8576               Rich_Gilbertson\RXB GRAM\RXB1
+2015-06-07 17:04:40 ....A         8576               Rich_Gilbertson\RXB GRAM\RXB2
+2015-06-07 17:04:42 ....A         8576               Rich_Gilbertson\RXB GRAM\RXB3
+2015-06-07 17:04:42 ....A         8576               Rich_Gilbertson\RXB GRAM\RXB4
+2015-06-07 17:04:42 ....A         8576               Rich_Gilbertson\RXB GRAM\RXB5
+2015-06-07 17:04:44 ....A         8576               Rich_Gilbertson\RXB GRAM\RXB6
+2014-02-27 17:28:00 ....A         3712               Harry_Wilhelm\Playground\SCOLORS6K
+2014-02-27 16:27:00 ....A         3712               Harry_Wilhelm\Playground\SCOLORSBX
+2014-02-27 16:38:00 ....A         3712               Harry_Wilhelm\Playground\SCOLORSEA
+2013-07-20 09:54:36 ....A          384               Rich_Gilbertson\INTHEDARK\DSK1\SCORE
+2011-09-28 18:33:12 ....A         8320               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\SCREEN
+2011-10-05 16:11:48 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN1
+2011-10-05 17:06:52 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN10
+2011-10-05 17:07:12 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN11
+2011-10-05 17:07:32 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN12
+2011-10-05 17:07:52 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN13
+2011-10-05 17:13:24 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN14
+2011-10-05 17:18:50 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN15
+2011-10-05 17:32:42 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN16
+2011-10-05 17:34:46 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN17
+2011-10-05 17:43:10 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN18
+2011-10-05 17:53:12 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN19
+2011-10-05 16:17:38 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN2
+2011-10-05 17:58:22 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN20
+2011-10-05 16:24:40 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN3
+2011-10-05 16:30:00 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN4
+2011-10-05 16:33:18 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN5
+2011-10-05 16:37:14 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN6
+2011-10-05 16:46:04 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN7
+2011-10-05 16:51:10 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN8
+2011-10-05 16:56:12 ....A         8320               Rich_Gilbertson\RXB AMS DEMO\SCRN9
+2011-09-28 18:54:00 ....A          384               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\SECTOR
+2015-06-14 13:38:00 ....A          384               Harry_Wilhelm\Compiler256D\SINE255
+2014-11-09 09:51:44 ....A         3968               Harry_Wilhelm\XB256D\XB256D\SLCOMPILER
+2014-11-10 14:16:20 ....A         2944               Harry_Wilhelm\XB256D\XB256D\SLCONVERT
+2014-11-29 02:35:34 ....A          384               Harry_Wilhelm\XB256D\XB256D\SOUNDLIB-D
+2014-11-29 07:25:02 ....A         1152               Harry_Wilhelm\XB256D\XB256D\SOUNDLIB-S
+2002-03-05 01:56:52 ....A         7296               DSK1\SPACEFIGHT
+2013-07-17 09:22:26 ....A         2688               Rich_Gilbertson\INTHEDARK\Assemby Speedup\SPEED
+2013-07-17 09:23:04 ....A         4224               Rich_Gilbertson\INTHEDARK\Assemby Speedup\SPEEDUP
+2011-09-28 18:46:28 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\SPRITESWAP
+2015-06-07 15:23:56 ....A       170881               Rich_Gilbertson\RXB SOURCE\SRXB3
+2015-05-13 13:20:40 ....A       182913               Rich_Gilbertson\RXB SOURCE\SRXB4
+2015-05-13 13:20:44 ....A       193921               Rich_Gilbertson\RXB SOURCE\SRXB5
+2015-05-14 16:29:02 ....A       148609               Rich_Gilbertson\RXB SOURCE\SRXB6
+2015-05-24 16:03:22 ....A        63617               Rich_Gilbertson\RXB SOURCE\SRXB7
+2002-03-05 01:57:00 ....A        12160               DSK1\STRANGER
+2011-09-28 18:35:40 ....A          896               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\SUBPGMFNDR
+2011-09-28 18:45:10 ....A          640               Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES\SWAP
+2015-09-24 15:29:56 ....A        82048               DSK1\TFTOOLS
+2008-11-12 23:28:48 ....A         6144               MODS\mm2\TIMM2PIC_C
+2011-07-20 14:16:20 ....A         6144               src\roms\mm2\TIMM2PIC_C
+2008-11-12 23:28:48 ....A         6144               MODS\mm2\TIMM2PIC_P
+2011-07-20 14:16:20 ....A         6144               src\roms\mm2\TIMM2PIC_P
+2008-12-22 23:52:00 ....A        40960               MODS\mm2\timusic
+2011-07-20 14:16:20 ....A        40960               src\roms\mm2\timusic
+2008-11-12 04:17:04 ....A        40960               MODS\mm2\timusid
+2011-07-20 14:16:20 ....A        40960               src\roms\mm2\timusid
+2008-11-12 04:17:04 ....A        40960               MODS\mm2\timusie
+2011-07-20 14:16:20 ....A        40960               src\roms\mm2\timusie
+2008-11-12 04:17:04 ....A        23184               MODS\mm2\timusif
+2011-07-20 14:16:20 ....A        23184               src\roms\mm2\timusif
+2007-11-17 10:52:02 ....A         6784               DSK1\TIN_A
+2007-11-17 10:52:18 ....A         8576               DSK1\TIN_B
+2007-11-17 10:53:56 ....A         8064               DSK1\TIN_C
+2007-11-17 10:53:56 ....A         4992               DSK1\TIN_D
+2007-11-17 10:53:56 ....A         3200               DSK1\TIN_E
+2007-11-17 10:53:56 ....A         4224               DSK1\TIN_F
+2007-11-17 10:53:56 ....A         6272               DSK1\TIN_G
+2007-11-17 10:53:56 ....A         3968               DSK1\TIN_H
+2007-11-17 10:53:56 ....A         2944               DSK1\TIN_I
+2007-11-17 10:53:56 ....A         3200               DSK1\TIN_J
+2007-11-17 10:53:56 ....A         3200               DSK1\TIN_K
+2007-11-17 10:53:56 ....A         2688               DSK1\TIN_L
+2007-11-17 10:53:56 ....A         3200               DSK1\TIN_M
+2008-12-06 19:20:02 ....A         8192               MODS\mmshared\TIPlayerC
+2015-06-29 16:18:20 ....A         9344               Harry_Wilhelm\TML2.0\TML
+2015-06-29 16:18:20 ....A        24704               Harry_Wilhelm\TML2.0\TMLDEMO
+2015-06-29 16:18:20 ....A         2176               Harry_Wilhelm\TML2.0\TMLEXTRASO
+2015-06-29 16:18:20 ....A         6528               Harry_Wilhelm\TML2.0\TMLEXTRASS
+2015-06-29 16:18:20 ....A          896               Harry_Wilhelm\TML2.0\TMLEXTRAXB
+2011-10-08 18:10:12 ....A          640               Rich_Gilbertson\RXB XB PPROGRAMS\UNPROTECT
+2014-12-23 15:24:58 ....A         6784               Harry_Wilhelm\XB256D\XB256D\XB256
+2015-06-14 13:16:12 ....A        24192               Harry_Wilhelm\XB256D\XB256D@
+2002-06-22 03:10:52 ....A         2688               DSK1\XBDEMO
+2013-07-20 14:38:46 ....A       108146               Rich_Gilbertson\INTHEDARK\Assemby Speedup\INTHEDARK.zip
+2015-03-09 12:46:28 ....A        19508               Tony Knerr\xb27\XBv27SuiteLabel.JPG
+2015-04-12 13:10:14 ....A        53895               src\graphics\ti_keyboard_map.png
+2011-07-20 22:16:19 ....A       214554               src\graphics\ti_keyboard_map.bmp
+2011-07-20 22:16:19 ....A         2998               src\graphics\icon1.ico
+2008-11-13 00:25:48 ....A           64               MODS\mmshared\DummyG.bin
+2011-07-20 14:16:20 ....A           64               src\roms\mm2\DummyG.bin
+2008-03-10 02:03:18 ....A        24776               MODS\EPSGMODG.BIN
+2008-06-29 11:54:00 ....A         8192               Rich_Gilbertson\RXB CLASSIC99\RXBC.Bin
+2008-06-29 11:54:00 ....A         8192               Rich_Gilbertson\RXB CLASSIC99\RXBD.Bin
+2015-06-15 16:09:22 ....A        40960               Rich_Gilbertson\RXB CLASSIC99\RXBG.Bin
+2015-05-17 02:48:28 ....A       131072               Tony Knerr\xb27\Programming files\XB27 Suite 128k Flash 060315.bin
+2014-09-02 11:32:06 ....A       524288               Tony Knerr\xb27\Programming files\XB27 Suite 512k Rom 060315.bin
+2015-05-07 00:39:38 ....A         4096               Tony Knerr\xb27\Programming files\XB27 Suite EEprom 060315.bin
+2015-06-13 16:30:56 ....A       184320               Tony Knerr\xb27\Disk\060715XB27.dsk
+2009-06-15 03:37:26 ....A        92160               UCSD_pCode\ASM-LNK.DSK
+2009-06-15 03:32:28 ....A        92160               UCSD_pCode\COMPILER.DSK
+2015-03-05 16:27:12 ....A        92160               UCSD_pCode\EDT-FIL.DSK
+2014-02-28 19:16:28 .R..A         2215               src\2xSaI\2xSaI.h
+2011-07-20 22:16:17 .R..A          830               src\SpeechDll\5220intf.h
+2011-07-20 22:16:18 ....A         2496               src\addons\ams.h
+2011-07-20 22:16:18 ....A         1620               src\debugger\bug99.h
+2013-06-05 09:16:25 .R..A         3875               src\disk\ClipboardDisk.h
+2013-06-05 09:16:24 .R..A         3805               src\disk\ClockDisk.h
+2013-10-22 05:14:31 .R..A         9248               src\console\cpu9900.h
+2014-05-28 03:17:50 .R..A         1651               src\debugger\dbghook.h
+2015-10-07 12:41:08 .R..A        13817               src\disk\diskclass.h
+2015-10-07 12:41:07 .R..A         4709               src\disk\FiadDisk.h
+2011-07-20 22:16:19 ....A         3654               src\hq4xDLL\Image.h
+2013-06-20 05:50:00 .R..A         4893               src\disk\ImageDisk.h
+2011-07-20 22:16:19 ....A         1928               src\keyboard\kb.h
+2012-05-01 07:29:26 ....A          307               src\addons\loadsave_brk.h
+2011-07-20 22:16:18 ....A         2375               src\addons\makecart.h
+2011-07-20 22:16:18 ....A         3097               src\addons\mpd.h
+2015-10-07 14:00:27 .R..A        21130               src\resource.h
+2011-07-20 22:16:18 ....A         2776               src\addons\rs232_pio.h
+2011-07-20 22:16:19 ....A        27901               src\keyboard\Scancodes.h
+2014-03-03 17:09:50 .R..A         7348               src\FilterDLL\sms_ntsc.h
+2015-02-01 18:09:14 .R..A         2906               src\console\sound.h
+2011-07-20 22:16:17 ....A          185               src\SpeechDll\spchroms.h
+2011-07-20 22:16:17 ....A          771               src\SpeechDll\StdAfx.h
+2011-07-20 22:16:20 ....A         1694               src\keyboard\ti.h
+2015-03-15 11:54:22 .R..A         2699               src\disk\TICCDisk.h
+2015-10-07 14:11:52 .R..A        15229               src\console\tiemul.h
+2014-10-09 04:30:33 .R..A         3682               src\SpeechDll\tms5220.h
+2015-08-29 17:01:10 .R..A         1774               src\addons\ubergrom.h
+2014-03-03 16:48:26 .R..A       110865               src\hq4xDLL\hq4x.c
+2014-03-01 04:10:34 .R..A          938               src\hq4xDLL\my_filter.c
+2014-03-04 03:47:30 .R..A         4515               src\FilterDLL\my_smsntsc.c
+2011-07-20 22:16:17 ....A        14109               src\FilterDLL\sms_ntsc.c
+2014-02-28 20:01:50 .R..A        16209               src\2xSaI\2xsaiwin.cpp
+2015-03-18 16:06:29 .R..A        11442               src\debugger\9900dism.cpp
+2013-01-12 11:02:29 .R..A         8047               src\addons\ams.cpp
+2014-03-04 04:27:38 .R..A        10925               src\addons\avi.cpp
+2012-07-01 22:47:26 ....A         4636               src\debugger\bug99.cpp
+2011-11-27 10:20:55 ....A        14981               src\disk\ClipboardDisk.cpp
+2015-04-19 15:56:16 .R..A         9736               src\disk\ClockDisk.cpp
+2015-08-17 03:55:12 ....A        81217               src\console\cpu9900.cpp
+2015-07-11 09:39:55 .R..A         7630               src\debugger\dbghook.cpp
+2015-06-28 00:26:54 .R..A        46163               src\disk\disk.cpp
+2015-07-18 13:46:51 ....A        24751               src\disk\diskclass.cpp
+2015-10-07 12:41:09 .R..A        74284               src\disk\FiadDisk.cpp
+2011-07-20 22:16:19 ....A        25130               src\hq4xDLL\Image.cpp
+2015-06-28 00:28:29 .R..A        44729               src\disk\ImageDisk.cpp
+2013-09-09 11:07:05 .R..A        14996               src\keyboard\kb.cpp
+2011-07-20 22:16:20 ....A        32621               src\keyboard\keyboard.cpp
+2012-05-01 07:29:26 ....A         4363               src\addons\loadsave_brk.cpp
+2015-03-19 15:28:48 .R..A        84285               src\addons\makecart.cpp
+2011-07-20 22:16:18 ....A         9199               src\addons\mpd.cpp
+2011-07-20 22:16:18 ....A         5053               src\addons\rs232_pio.cpp
+2015-03-24 13:40:42 .R..A        27924               src\console\sound.cpp
+2011-07-20 22:16:17 ....A         3569               src\SpeechDll\spchroms.cpp
+2011-07-20 22:16:17 ....A         1572               src\SpeechDll\SpeechDll.cpp
+2011-07-20 22:16:17 ....A          282               src\SpeechDll\StdAfx.cpp
+2011-07-20 22:16:20 ....A         4007               src\keyboard\ti.cpp
+2015-05-10 14:52:50 .R..A        11237               src\disk\TICCDisk.cpp
+2015-10-07 14:00:04 .R..A       169635               src\console\Tiemul.cpp
+2015-09-17 12:52:11 ....A        61633               src\console\tivdp.cpp
+2011-07-20 22:16:17 ....A        30041               src\SpeechDll\tms5220.cpp
+2011-07-20 22:16:17 ....A         4245               src\SpeechDll\tms5220r.cpp
+2013-04-14 09:10:37 .R..A        38783               src\ubercombined.cpp
+2015-08-29 17:00:38 .R..A        12258               src\addons\ubergrom.cpp
+2015-10-07 12:41:08 .R..A       127828               src\addons\WindowProc.cpp
+2015-10-07 14:00:27 .R..A        35845               src\Script2.rc
+2011-07-20 22:16:17 ....A           72               src\FilterDLL\filterdll.def
+2011-07-20 22:16:19 ....A           43               src\hq4xDLL\hq4xdll.def
+2011-07-20 22:16:17 ....A           94               src\SpeechDll\speechdll.def
+2011-07-20 22:16:17 .R..A         6262               src\FilterDLL\FilterDLL.vcproj
+2011-07-20 22:16:19 .R..A         4575               src\hq4xDLL\hq4xdll.vcproj
+2011-07-20 22:16:17 .R..A         7038               src\SpeechDll\SpeechDll.vcproj
+2013-01-12 11:02:26 .R..A         2276               src\classic99.sln
+2011-07-20 14:16:20 .R..A         9323               src\tests\99test2.txt
+2015-03-12 23:11:54 ....A         5963               Rich_Gilbertson\RXB DOCUMENTS\AMS DOC.txt
+2011-07-20 22:16:17 ....A         2034               src\FilterDLL\changes.txt
+2014-02-24 15:32:00 ....A        10569               Harry_Wilhelm\Playground\TextFileSource\DEMO-S.txt
+2015-03-16 09:43:32 ....A          160               Rich_Gilbertson\YOUTUBE LINKS\IN THE DARK.txt
+2015-06-13 16:31:52 ....A         1984               Tony Knerr\xb27\Disk\Instructions for disk.txt
+2013-07-20 12:14:52 ....A         9357               Rich_Gilbertson\INTHEDARK\Assemby Speedup\INTHEDARK.txt
+2013-07-20 12:15:40 ....A         1162               Rich_Gilbertson\INTHEDARK\Assemby Speedup\ITDSAVE.txt
+2013-07-20 12:15:50 ....A         1104               Rich_Gilbertson\INTHEDARK\Assemby Speedup\ITDSHOW.txt
+2011-07-20 22:16:17 ....A        26430               src\FilterDLL\LGPL.txt
+2011-07-20 22:16:19 ....A        25931               src\hq4xDLL\LGPL.txt
+2014-02-23 17:42:00 ....A        11057               Harry_Wilhelm\Playground\TextFileSource\LIFE-S.txt
+2013-07-20 12:16:04 ....A          227               Rich_Gilbertson\INTHEDARK\Assemby Speedup\LOADSCORE.txt
+2015-06-07 16:46:32 ....A       292559               Rich_Gilbertson\RXB TEXT\lrxb3.txt
+2015-05-24 14:26:16 ....A       300278               Rich_Gilbertson\RXB TEXT\lrxb4.txt
+2015-05-24 14:26:42 ....A       328106               Rich_Gilbertson\RXB TEXT\lrxb5.txt
+2015-05-24 14:26:52 ....A       275645               Rich_Gilbertson\RXB TEXT\lrxb6.txt
+2015-05-24 16:08:50 ....A       152482               Rich_Gilbertson\RXB TEXT\lrxb7.txt
+2013-07-17 08:57:52 ....A        16197               Rich_Gilbertson\INTHEDARK\Assemby Speedup\LSPEEDUP.txt
+2014-02-27 17:38:00 ....A         4496               Harry_Wilhelm\Playground\TextFileSource\MAKE6K1-S.TXT
+2014-02-27 17:34:00 ....A           80               Harry_Wilhelm\Playground\TextFileSource\MAKE6K2-S.TXT
+2014-02-27 16:22:00 ....A         5022               Harry_Wilhelm\Playground\TextFileSource\MAKEBX-S.TXT
+2014-02-27 16:35:00 ....A         3132               Harry_Wilhelm\Playground\TextFileSource\MAKEEA1-S.TXT
+2014-02-08 02:52:00 ....A           79               Harry_Wilhelm\Playground\TextFileSource\MAKEEA2-S.TXT
+2008-11-13 01:32:10 ....A        13309               MODS\mods.txt
+2007-09-29 00:53:34 ....A         8310               src\keyboard\readme.txt
+2011-07-20 22:16:17 ....A         2769               src\FilterDLL\readme.txt
+2014-10-08 20:35:46 ....A          251               src\roms\readme.txt
+2015-05-25 07:59:10 ....A        11894               Rich_Gilbertson\RXB DOCUMENTS\READOC.txt
+2015-05-14 15:40:00 ....A        19553               Harry_Wilhelm\Compiler256D\Runtime with TXT extension\RUNTIME1.TXT
+2015-06-14 02:25:00 ....A        10632               Harry_Wilhelm\Compiler256D\Runtime with TXT extension\RUNTIME2.TXT
+2014-11-27 04:32:00 ....A        21399               Harry_Wilhelm\Compiler256D\Runtime with TXT extension\RUNTIME3.TXT
+2014-12-17 16:20:00 ....A         9917               Harry_Wilhelm\Compiler256D\Runtime with TXT extension\RUNTIME4.TXT
+2014-11-07 15:46:00 ....A         2443               Harry_Wilhelm\Compiler256D\Runtime with TXT extension\RUNTIME5.TXT
+2014-12-16 16:36:00 ....A         1321               Harry_Wilhelm\Compiler256D\Runtime with TXT extension\RUNTIME6.txt
+2015-06-05 13:21:00 ....A         7715               Harry_Wilhelm\Compiler256D\Runtime with TXT extension\RUNTIME7.txt
+2015-06-07 16:48:58 ....A         1055               Rich_Gilbertson\YOUTUBE LINKS\RXB 2012 or RXB 2015.txt
+2015-05-25 19:53:20 ....A       195372               Rich_Gilbertson\RXB DOCUMENTS\RXBDOC.txt
+2014-02-22 06:28:00 ....A        23764               Harry_Wilhelm\Playground\TextFileSource\SCOLOR-S.TXT
+2013-07-16 12:55:46 ....A         2172               Rich_Gilbertson\INTHEDARK\Assemby Speedup\SFEEL.txt
+2011-07-20 22:16:17 ....A         5798               src\FilterDLL\sms_ntsc.txt
+2015-06-07 15:26:24 ....A       158667               Rich_Gilbertson\RXB TEXT\srxb3.txt
+2015-05-24 14:27:34 ....A       168590               Rich_Gilbertson\RXB TEXT\srxb4.txt
+2015-05-24 14:27:40 ....A       179558               Rich_Gilbertson\RXB TEXT\srxb5.txt
+2015-05-24 14:27:44 ....A       138445               Rich_Gilbertson\RXB TEXT\srxb6.txt
+2015-05-24 16:03:14 ....A        60945               Rich_Gilbertson\RXB TEXT\srxb7.txt
+2013-07-16 21:08:46 ....A         6054               Rich_Gilbertson\INTHEDARK\Assemby Speedup\SSPEEDUP.txt
+2002-06-18 22:14:14 ....A        82755               src\tests\TI9900_CPU_Test.txt
+2014-02-15 15:49:00 ....A        10464               Harry_Wilhelm\Playground\TextFileSource\USEFULSUBS.TXT
+2015-10-07 14:23:02 ....A        93897               whatsnew.txt
+2015-06-14 13:17:48 ....A         2485               Harry_Wilhelm\XB256D\!README.rtf
+2015-06-14 13:53:00 ....A         3455               Harry_Wilhelm\Compiler256D\!Readme.rtf
+2012-10-09 16:04:32 ....A        53192               Harry_Wilhelm\TML2.0\!Readme.pdf
+2014-02-23 14:58:00 ....A        46224               Harry_Wilhelm\Playground\!README.pdf
+2015-03-12 23:12:40 ....A        22486               Rich_Gilbertson\RXB DOCUMENTS\AMSDOC.pdf
+2015-08-29 17:30:51 ....A      1000287               Classic99 Manual.pdf
+2015-06-14 13:26:34 ....A        75612               Harry_Wilhelm\Game Developers Package.pdf
+2015-06-14 14:26:00 ....A        75612               Harry_Wilhelm\Compiler256D\Game Developers Package.pdf
+2012-09-10 17:57:08 ....A        85971               Harry_Wilhelm\TML2.0\PaperSaver Docs.pdf
+2014-02-27 17:53:00 ....A       136580               Harry_Wilhelm\Playground\Playground docs.pdf
+2012-09-10 17:54:38 ....A       113026               Harry_Wilhelm\TML2.0\Potatohead TML Tutorial.pdf
+2015-05-25 14:54:40 ....A        27505               Rich_Gilbertson\RXB DOCUMENTS\READOC.pdf
+2015-05-25 19:52:18 ....A       188450               Rich_Gilbertson\RXB DOCUMENTS\RXBDOC.pdf
+2012-09-24 14:54:52 ....A       263829               Harry_Wilhelm\TML2.0\The Missing Link 2.0 Manual.pdf
+2012-09-15 15:38:46 ....A        62517               Harry_Wilhelm\TML2.0\TML Cross Reference.pdf
+2015-05-17 04:20:30 ....A       385940               Tony Knerr\xb27\Docs\XB v2.7 Suite.pdf
+2015-06-14 13:20:06 ....A       299244               Harry_Wilhelm\XB256D\XB256D Manual.pdf
+2015-06-03 15:01:50 ....A       140316               Tony Knerr\xb27\Docs\XB27S Upgrade.pdf
+2015-06-14 13:57:00 ....A       214763               Harry_Wilhelm\Compiler256D\XBCompiler256D Docs.pdf
+2011-03-17 02:44:08 ....A        10623               DSK1\MM_LBLA.OBJ
+2011-03-17 02:44:18 ....A        10623               DSK1\MM_LINES.OBJ
+2011-07-20 22:16:17 ....A         4249               src\addons\BASIC_ROM_header.a99
+2011-07-20 22:16:19 ....A          326               src\graphics\cursor1.cur
+2015-10-07 13:55:14 .R..A        15162               src\classic99.vcxproj.filters
+2011-07-20 22:16:17 ....A         1649               src\FilterDLL\FilterDLL.vcxproj.filters
+2011-07-20 22:16:19 ....A         1531               src\hq4xDLL\hq4xdll.vcxproj.filters
+2011-07-20 22:16:17 ....A         1443               src\SpeechDll\SpeechDll.vcxproj.filters
+2008-12-06 19:19:36 ....A         5805               MODS\mmshared\TIPlayer.S
+2015-06-14 13:11:22 ....A       184320               Harry_Wilhelm\XB256D\XB256D.TIDisk
+2011-07-23 05:12:44 ....A          143               src\FilterDLL\FilterDLL.vcxproj.user
+2011-07-23 05:12:44 ....A          143               src\hq4xDLL\hq4xdll.vcxproj.user
+2011-07-23 05:12:44 ....A          143               src\SpeechDll\SpeechDll.vcxproj.user
+2015-10-07 13:55:14 .R..A        23639               src\classic99.vcxproj
+2014-03-04 03:34:24 .R..A         9965               src\FilterDLL\FilterDLL.vcxproj
+2013-01-12 10:34:50 .R..A         6754               src\hq4xDLL\hq4xdll.vcxproj
+2013-01-12 10:34:50 .R..A        11073               src\SpeechDll\SpeechDll.vcxproj
+2015-10-07 14:12:22 ....A      1224192      1233467  classic99.exe
+2014-06-08 00:08:52 ....A        88576               FilterDLL.dll
+2014-06-08 00:08:48 ....A        81408               hq4xdll.dll
+2014-06-08 00:08:44 ....A        52736               SpeechDll.dll
+2016-11-27 22:29:59 D....            0            0  UCSD_pCode
+2016-11-27 22:30:01 D....            0            0  Tony Knerr\xb27\Programming files
+2016-11-27 22:30:00 D....            0            0  Tony Knerr\xb27\Docs
+2016-11-27 22:30:00 D....            0            0  Tony Knerr\xb27\Disk
+2016-11-27 22:30:01 D....            0            0  Tony Knerr\xb27
+2016-11-27 22:30:00 D...A            0            0  Tony Knerr
+2016-11-27 22:29:58 D....            0            0  src\tests
+2016-11-27 22:29:58 D....            0            0  src\SpeechDll
+2016-11-27 22:29:58 D....            0            0  src\roms\mm2
+2016-11-27 22:29:58 D....            0            0  src\roms
+2016-11-27 22:29:58 D....            0            0  src\keyboard
+2016-11-27 22:29:58 D....            0            0  src\hq4xDLL
+2016-11-27 22:29:59 D....            0            0  src\graphics
+2016-11-27 22:29:58 D....            0            0  src\FilterDLL
+2016-11-27 22:29:58 D....            0            0  src\disk
+2016-11-27 22:29:58 D....            0            0  src\debugger
+2016-11-27 22:29:58 D....            0            0  src\console
+2016-11-27 22:29:58 D....            0            0  src\addons
+2016-11-27 22:29:58 D....            0            0  src\2xSaI
+2016-11-27 22:29:58 D....            0            0  src
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\YOUTUBE LINKS
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB XB PPROGRAMS
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB TEXT
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB SOURCE
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB OBJECT
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB GRAM
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB GENEVE ROMs
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB DOCUMENTS
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB CLASSIC99
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB BATCH\BATCH CREATED FILES
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB BATCH
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\RXB AMS DEMO
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\INTHEDARK\DSK1
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\INTHEDARK\Assemby Speedup
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson\INTHEDARK
+2016-11-27 22:29:59 D....            0            0  Rich_Gilbertson
+2016-11-27 22:29:57 D....            0            0  MODS\mmshared
+2016-11-27 22:29:57 D....            0            0  MODS\mm2
+2016-11-27 22:29:57 D....            0            0  MODS
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\XB256D\XB256D
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\XB256D
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\TML2.0\TMLFONTS
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\TML2.0
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\Playground\TextFileSource
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\Playground
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\Compiler256D\Runtime with TXT extension
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm\Compiler256D
+2016-11-27 22:30:00 D....            0            0  Harry_Wilhelm
+2016-11-27 22:29:57 D....            0            0  DSK3
+2016-11-27 22:29:57 D....            0            0  DSK2
+2016-11-27 22:30:00 D....            0            0  DSK1
+------------------- ----- ------------ ------------  ------------------------
+2016-11-27 22:30:01           14773200      5960631  513 files, 51 folders

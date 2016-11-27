@@ -1,0 +1,4 @@
+29 Sep 2013
+-Don't corrupt >83D0->83D3 in disk emulation
+-Make DSK RAM corruption an option
+-Add disable for F18A

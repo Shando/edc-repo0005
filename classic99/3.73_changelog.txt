@@ -1,0 +1,11 @@
+7 February 2015
+-EEPROM lock support for UberGROM
+-Miscellaneous Audio fixes 
+-new DAC system added (works for cassette gate bit and high frequency square waves)
+-audio mute fixes for menu interactions
+-tweak system timing code for more responsiveness
+-change debug screen to say 'mask' instead of 'size' on color and pattern tables in bitmap mode
+
+(376)
+-Don't blindly unmute audio on window size events
+-Don't unpause breakpoints when opening the debug window

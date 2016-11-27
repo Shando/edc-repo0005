@@ -1,0 +1,6 @@
+24 March 2015
+
+-Undo previous disk hack unhacking - it wasn't a hack ;)
+-disable jitter buffer debug (haven't worked on that for years)
+-fix record counting - fixed vs variable, rather than relative vs sequential.
+-clock can now be opened in INPUT mode (oversight ;) )

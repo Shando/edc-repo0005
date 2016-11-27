@@ -1,0 +1,5 @@
+21 Jan 2013
+
+-Fix loading of Extended BASIC programs in I/V254 mode from disk image files
+-Fix starting in full screen mode not to hang
+-Clear VDP registers 0 and 1 on reset per the 9918 datasheet

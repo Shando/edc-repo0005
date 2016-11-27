@@ -1,0 +1,7 @@
+14 November 2015
+
+-Redid 5 sprite on a line handling
+-Ensure PC and WP are always even
+-leave OBJ and COB files as fixed text files, while TXT is variable (fixes loading Asm99 files, broken last version)
+-fix attribute debug lines
+-updated Turboforth to 1.2.1:5
