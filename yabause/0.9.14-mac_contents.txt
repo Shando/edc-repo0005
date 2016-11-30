@@ -1,0 +1,23 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-11-22 16:48:34 ....A          675       576590  AUTHORS
+2014-11-22 16:48:34 ....A        37844               ChangeLog
+2014-11-22 16:48:34 ....A        18000               COPYING
+2014-11-22 16:48:34 ....A          455               GOALS
+2014-11-22 16:49:10 ....A            8               Yabause.app\Contents\PkgInfo
+2014-11-22 16:48:34 ....A         3183               README
+2014-11-22 16:48:34 ....A           42               TODO
+2014-11-22 16:49:10 ....A      1514176               Yabause.app\Contents\MacOS\Yabause
+2014-11-22 16:49:10 ....A        96999               Yabause.app\Contents\Resources\controller.png
+2014-11-22 16:49:10 ....A       175924               Yabause.app\Contents\Resources\Yabause.icns
+2014-11-22 16:49:32 ....A         3751               README.MAC
+2014-11-22 16:49:10 ....A        39464               Yabause.app\Contents\Resources\English.lproj\MainMenu.nib
+2014-11-22 16:49:10 ....A         1462               Yabause.app\Contents\Info.plist
+2014-11-22 16:49:10 ....A           90               Yabause.app\Contents\Resources\English.lproj\InfoPlist.strings
+2016-11-07 14:26:30 D....            0            0  Yabause.app\Contents\Resources\English.lproj
+2016-11-07 14:26:30 D....            0            0  Yabause.app\Contents\Resources
+2016-11-07 14:26:30 D....            0            0  Yabause.app\Contents\MacOS
+2016-11-07 14:26:30 D....            0            0  Yabause.app\Contents
+2016-11-07 14:26:30 D....            0            0  Yabause.app
+------------------- ----- ------------ ------------  ------------------------
+2016-11-07 14:26:30            1892073       576590  14 files, 5 folders
