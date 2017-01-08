@@ -1,0 +1,3 @@
+19 September 2015
+
+-allowed loading ROMs from the command line (same scheme as "user->open"), pass command line "-rom <filename>"

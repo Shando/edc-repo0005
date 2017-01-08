@@ -1,0 +1,6 @@
+22 December 2015
+
+-new debugger command for the command window: "DISASM=<start>,<end>" will write a disassembly of the specified range
+-new breakpoint option: Lxxxx=# - logs all writes to address 'xxxx' to disk file # (1-9). 
+-F18A palette fix (Thanks to Rasmus!)
+-VDP timing tweak

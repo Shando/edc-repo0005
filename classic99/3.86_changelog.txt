@@ -1,0 +1,6 @@
+7 October 2015
+
+-Updated TurboForth to 1.2.1:4
+-Added XB2.7 suite 060315
+-make Windows text files read only as DV (fixes assembling with EA from TXT files)
+-Enable disabling 32k by loading ROM overtop of it

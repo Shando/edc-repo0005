@@ -1,0 +1,30 @@
+3 March 2016
+
+-fix two bugs in 379 cartridge make code - one would not detect the size of carts that bumped right up against an 8k boundary, and the other wrote the wrong jump address to the startup code (file that under 'how did it ever work?').
+-add menu option to erase UberGROM contents (for testing)
+-add a hack for programs that require the 5th sprite number to count up during frames when 5S and F are reset (Miner2049er - may have been in previous release)
+-fix a "Paste XB" bug that would incorrectly collapse spaces used as PRINT separators
+
+
+-TODO: implement a warning about reading the VDP status bit when interrupt is not set (racy, can lose frame and sprite bits)
+-TODO: add ability to mount a CF7 compact flash card (including the VDP addresses for changing mount??)
+-TODO: Rewrite AMS code to bring it into the mainline memory system for improved debugging (ie: always run a 1MB memory space)
+-TODO: rewrite Speech Synth core to match original documentation
+-TODO: Clean up the project so it's buildable - package the internal ROMs so they can be included again
+-TODO: Fix international keyboard support
+-TODO: Add user cartridge manager (started)
+-TODO: Implement support for the MESS "RPK" format (extend to support all Classic99 memory types?)
+-TODO: Allow File->Open to load a TI BASIC, XB, EA#5 or EA#3 program (might be tricky to get BASIC vs XB)
+-TODO: Redo VDP to be scanline based (review http://bifi.msxnet.org/msxnet/tech/tms9918a.txt and email folder)
+       Note: can simplify first pass by doing 8 scanlines at a time, or make it configurable!
+-TODO: Redo timing around VDP scanlines (or cycle counter)
+-TODO: remove AVI recording - there are better external packages these days
+-TODO: Add support for PIO (LPT) and RS232 (COM) access, possibly including low level
+-TODO: Fix multiple scanning of joysticks (scan on timer tick?)
+-TODO: Implement cassette ports on sound card? (would require precise timing!)
+-TODO: Implement cassette load from WAV files? (trace WAV file against CPU time)
+-TODO: Implement cassette load from audio CD? (some people are saving stuff there!)
+-TODO: Allow debugger to display in hex or decimal
+-TODO: Implement psuedo-CS1 support that calls through the FIAD system from CS1 and CS2
+-TODO: F18A support (to some extent at least - CPU support partially in place)
+-TODO: support relative paths including '.' (part of a file system update I am documenting)

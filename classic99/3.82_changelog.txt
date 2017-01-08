@@ -1,0 +1,19 @@
+18 July 2015
+-Updated RXB to RXB2015E and added support folder
+-Added Harry Wilhelm's Playground, XB256, XB256 Compiler and Missing Link 2.0, and documentation
+-Added USCD Pascal disks for pCode emulation
+-Reworked Clipboard support for Unicode - no longer need 'enhanced' hack
+-Fixed debugger VDP memory view to properly work with F18A extra RAM
+-Improved disk directory sizes (thanks to Lee!)
+-Directory listings now REQUIRE trailing period (like TI disk controller)
+-Fix debugger run-away that would break a run if the program breakpointed on an interrupt handler before LIMI 0
+-tweak LOAD interrupt processing
+-Cycle counting overhaul - all opcodes reverified and documented
+-Cycle counting on memory accesses revised.
+-possible hang on reset during speech fixed
+-Changed name of 'X' flag to 'XOP' flag (it was confusing me)
+-made reset use the general interrupt trigger function
+-StopIdle properly place in interrupt handler (not used yet)
+-changed DIV to use a likely algorithm that produces timing results in the correct range - need to test on hardware.
+-removed hack in LDCR and STCR that was setting /no/ flags for word operations - the datasheets all say only parity is unchanged for word. Need to test on hardware.
+-added Read-before-write to the only four opcodes that have an unnecessary one: MOV, MOVB, CLR and SETO.

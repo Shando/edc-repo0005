@@ -1,0 +1,13 @@
+Version 1.00, 6th May 2002
+------------------------------------
+ChangeLog:
+
+1.00
+  * New manual and new SourceForge page. Other documentation deprecated. 
+  * Added project files for MS VC++, and fix warnings provoked by it. 
+  * Further split of windowing/non-windowing functionality to aid division of architecture-independent files. 
+  * Windows version made independent from Cygwin. 
+  * Windows support imported from eQRD version. Features brought inline with other versions, including icon change, and same format for choices file. 
+  * Entirety of build warnings fixed under GCC, including those that appeared from turning on harsh warning flags. 
+  * General tidying. 
+  * Makefile rearranged so that default Unix builds are more sensible. 
