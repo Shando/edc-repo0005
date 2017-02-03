@@ -1,0 +1,26 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-01-05 15:54:56 ....A         3304       798633  DriveSound\drive_click_Epson.wav
+2014-01-05 15:52:22 ....A       111224               DriveSound\drive_seek_Epson.wav
+2014-01-05 16:01:00 ....A       166196               DriveSound\drive_spin_Epson.wav
+2014-01-05 15:52:30 ....A        12052               DriveSound\drive_startup_Epson.wav
+2012-07-15 09:35:42 ....A         4096               HD6301V1ST.img
+2004-10-22 15:04:04 ....A         8789               faq.txt
+2014-02-28 08:18:24 ....A          935               KnownBugs.txt
+2004-10-22 14:37:04 ....A        53990               readme.txt
+2014-02-28 13:52:00 ....A         3910               SpecificHints.txt
+2014-02-28 08:23:24 ....A        27394               Steem SSE 3.6.0.txt
+2014-02-27 21:56:58 ....A        11227               Steem SSE FAQ.txt
+2014-02-05 15:30:10 ....A        11528               steem.new
+2014-02-25 21:53:50 ....A       829440               SSE36.st
+2014-02-07 19:14:56 ....A          250               patches\BIG Demo.stp
+2012-08-17 20:26:20 ....A          594               patches\Cool STE.stp
+2014-02-25 11:51:46 ....A          202               patches\Dynabusters+.stp
+2012-08-17 20:24:48 ....A          365               patches\Enchanted Land STE.stp
+2012-06-09 20:30:36 ....A          429               patches\Final Conflict.stp
+2012-03-22 19:45:42 ....A          259               patches\MP_GolfDepr.stp
+2014-02-28 09:55:02 ....A      1306624       334571  Steem SSE 3.6.0.exe
+2017-02-28 09:26:38 D....            0            0  patches
+2017-02-28 09:26:38 D....            0            0  DriveSound
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 09:26:38            2552808      1133204  20 files, 2 folders

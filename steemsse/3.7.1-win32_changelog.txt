@@ -1,0 +1,28 @@
+v3.7.1 Features
+_________________
+
+- Support for SCP disk images
+  
+  This is the logical step after STW format, but we had to debug and improve
+  WD1772 emulation. At least the structure was OK.
+  Some code vaguely inspired by MESS and SPS projects for low level emulation
+  of the DPLL (inspection window) and sync timing ($A1 and $C2 marks). 
+
+  All correctly imaged games loading!
+  Normally one rev is enough but some games may require 2 revs.
+  Weak bits (Dungeon Master) handled only if SSE option 'Hacks' checked.
+
+- CPU exception stack frame legit fix for Aladin instead of previous hacks
+  (he he)
+
+- Bugfix RAM 14MB no display
+- Bugfix sound volume sliders start at 0
+- Bugfix PSG noise delays with 'Sampled YM-2149' option (Dungeon Master)
+- Bugfix PSG quantize for low periods (Union Demo text screens)
+- Bugfix RAR5-compatible version of unrar.dll not recognised. 
+- Bugfix Microwire read data (Sleepwalker STE)
+- Bugfix floppy disk gaps on READ TRACK (ProCopy on ST, MSA images)
+
+- New patch: Gunship STX protection
+
+- Links updated in general info; don't forget to copy steem.new

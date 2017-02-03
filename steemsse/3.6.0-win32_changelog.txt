@@ -1,0 +1,40 @@
+Improvements of v3.6.0
+------------------------
+
+- Option 'Drive sound'
+- Improved P.S.G. sample playing emulation
+- More practical sound volume sliders (logarithmic scale).
+- Disk manager icon options 'Single side' and 'Stop motor'
+- Shifter registers emulation improvements: UMD 8730 STF, The World is my Oyster STF, Ventura/Board and Sphere, XMas 2004, Panic...
+- 6301 (IKBD) improvements: Crazy Cars 2, Jumping Jackson
+  Notice that as of v3.6, all ACIA and IKBD improvements of the SSE version
+  depend on option '6301 true emu'
+- Other fixes (too numerous to mention!)
+
+
+Bugfixes of v3.6.0
+--------------------   
+- bugfix no sound live when recording sound
+- bugfix DirectX rebuild "surface" when lost (eg after long delay)
+- (*) CPU: remove "intercept OS" on RTE: ReDMCSB Megamax C project
+- (*) CPU fix STOP condition in trace mode: Hackabounds Demo
+- CPU fix timing MOVEM M->R .L: Hackabounds Demo
+- CPU bugfix rounding in <EA> = -(An), now more specific in
+ADD.L and ADDA.L: Fullparts, Ishar3 cracktro
+- CPU exception bugfix: Crazy Cars 2 STX (first fixed v3.4, broken v3.5)
+- CPU prefetch timing bugfix CMPI.L: Japtro disk 2
+- MFP bugfix patch timer D: Second Reality 2013
+- MFP bugfix: Sinfull Sinuses (just the crash)
+- Bugfix shifter trick line+20 on large display, Hacks on: Riverside, pcsv62im
+- Shifter tricks bugfix: Pete Mega Four #1
+- bugfix threshold for 508cycle lines according to WU
+- ACIA fix: Grumbler
+- (*) Bugfix: bogus value in PSG emulation when no DMA sound
+- bugfix FDC bogus "lost data" flag: Super Monaco Grand Prix
+- bugfix FDC IRQ staid on with command $D8: Super Monaco Grand Prix
+- floppy drive bugfix Jumping Jackson MCA (broken v3.5.3)
+- HBL "jitter": 3615GEN4 HMD Giga (first fixed v3.5.1, broken v3.5.3)
+- (*) hard drive: correct date & time (from Petari)
+(*): bugs already in Steem 3.2, other bugs were mine
+
+

@@ -1,0 +1,10 @@
+V1.5.1
+------
+
+- VCR remote control can be switched off
+- Improve some CPU fault
+- Minor repairs disassembler
+- Accurate timer interrupt tape when reading
+- Bug fixes (PTP crash, crash Primo C mode)
+
+*** Translated from Hungarian using Google Translate ***

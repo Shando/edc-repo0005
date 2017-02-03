@@ -1,0 +1,47 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-07-03 20:51:16 ....A      1022835      1302302  demo\Union Demo STW.zip
+2014-01-05 15:54:56 ....A         3304               DriveSound\drive_click_Epson.wav
+2014-01-05 15:52:22 ....A       111224               DriveSound\drive_seek_Epson.wav
+2014-01-05 16:01:00 ....A       166196               DriveSound\drive_spin_Epson.wav
+2014-01-05 15:52:30 ....A        12052               DriveSound\drive_startup_Epson.wav
+2014-10-29 21:33:38 ....A         8192               ym2149_fixed_vol.bin
+2012-07-15 08:35:42 ....A         4096               HD6301V1ST.img
+2015-02-28 10:16:18 ....A         3073               Bugs.txt
+2015-02-27 22:50:30 ....A         5524               Hints.txt
+2015-02-28 10:17:40 ....A         4338               Hit List.txt
+2015-02-27 00:04:54 ....A          327               demo\info.txt
+2014-09-28 09:00:22 ....A          494               PRG\note.txt
+2015-02-28 11:44:52 ....A        13313               Steem SSE 3.7.0.txt
+2015-02-28 09:39:12 ....A        11456               Steem SSE FAQ.txt
+2015-02-28 09:45:34 ....A        69050               Steem SSE manual.txt
+2014-08-04 08:02:40 ....A          480               PRG\DESKTOP.INF
+2015-02-25 21:00:10 ....A        11785               steem.new
+2015-02-08 21:50:00 ....A          144               patches\Audio Artistic Demo.stp
+2014-02-07 19:14:56 ....A          250               patches\BIG Demo.stp
+2015-02-21 13:32:50 ....A          138               patches\Carrier Command STX.stp
+2012-08-17 20:26:20 ....A          594               patches\Cool STE.stp
+2015-01-11 20:02:18 ....A          167               patches\Cuddly Demo STE.stp
+2014-02-25 11:51:46 ....A          202               patches\Dynabusters+.stp
+2015-02-08 21:47:46 ....A          144               patches\Elite STX.stp
+2012-08-17 20:24:48 ....A          365               patches\Enchanted Land STE.stp
+2012-06-09 20:30:36 ....A          429               patches\Final Conflict.stp
+2014-04-19 21:39:56 ....A          255               patches\Great Courts STX.stp
+2014-04-03 14:02:12 ....A          447               patches\Jupiter's Masterdrive STX.stp
+2014-07-20 10:06:06 ....A          184               patches\Leviathan STX.stp
+2012-03-22 19:45:42 ....A          259               patches\MP_GolfDepr.stp
+2014-10-27 17:26:08 ....A          183               patches\Prohibition STX 1.stp
+2014-10-27 17:26:08 ....A          182               patches\Prohibition STX 2.stp
+2014-10-27 17:26:10 ....A          406               patches\Prohibition STX 3.stp
+2015-02-21 11:29:10 ....A          138               patches\RVF Honda STX.stp
+2015-02-21 13:19:56 ....A          138               patches\Starglider 2 STX.stp
+2014-03-09 08:59:18 ....A          165               patches\Yogi's Great Escape.stp
+2015-01-31 13:26:36 ....A          789               demo\TEST10D.TOS
+2015-02-28 10:00:20 ....A      1392640       372850  Steem SSE 3.7.0.exe
+2017-02-28 09:19:28 D....            0            0  PRG\AUTO
+2017-02-28 09:19:28 D....            0            0  PRG
+2017-02-28 09:19:28 D....            0            0  patches
+2017-02-28 09:19:28 D....            0            0  DriveSound
+2017-02-28 09:19:28 D....            0            0  demo
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 09:19:28            2845958      1675152  38 files, 5 folders

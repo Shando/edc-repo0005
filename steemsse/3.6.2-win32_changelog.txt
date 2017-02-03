@@ -1,0 +1,4 @@
+Bugfixes of v3.6.2
+--------------------   
+
+-Crash at startup on some configs

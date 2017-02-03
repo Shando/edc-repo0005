@@ -1,0 +1,3 @@
+2.30
+* NEW SC-1425 Atari CRT emulator! Enjoy OldSkool image feeling of your loved SC-1425 monitor! (infos here: http://leonard.oxg.free.fr/SC1425/SC1425.html )
+* Now SainT display is gamma correct

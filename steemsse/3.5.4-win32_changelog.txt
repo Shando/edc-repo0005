@@ -1,0 +1,144 @@
+
+Improvements of v3.5.4
+------------------------
+
+- Bugfix crash in very large display size on some systems.
+
+- Bugfix option 'Pasti only for STX' could make Steem treat pasti images as 
+  native on loading a snapshot.
+
+- Bugfix drive internal variable "motor on" (European Demos OVR V).
+
+- Bugfix (useless) feature STE HIRES HSCROLL wasn't available (oops).
+
+- Bugfix VBL jitter (Japtro).
+
+- 'Cold reset & run': reset IKBD buffer (Transbeauce 2).
+
+- Bugfix drive complete command on empty drive (European Demos "insert B").
+
+- Bugfix ACIA timing when not using true 6301 emu (Sapiens).
+
+- Bugfix display 400x278 interpolated scanlines shift.
+
+- Safer behaviour for some options (6301, VSync...)
+
+- New status info in the tool bar, giving:
+  ST model, TOS version, available memory, plus whether 6301 and pasti
+  or Caps, or accurate drive emulation (ADAT).
+  Also option for the name of current disk.
+
+- New option "VSync".
+  This gives you the best display provided your monitor has the correct 
+  refresh rate (50hz/100hz for most programs).
+  Combined with 'Interpolated Scanlines' this should give you the best
+  experience of the great game Goldrunner in window mode on LCD screen.
+  This should work in window mode as well as in fullscreen mode.
+  This consumes some CPU power (but not as much as Triple Buffering).
+
+  This could interfere with "Compositing" (Desktop Window Manager) in Windows
+  Vista and 7 in window mode. In Windows 8 you can't disable Compositing!
+
+- New option "Triple Buffering".
+  This may be useful to eliminate "tearing" or "ghosting", at the price 
+  of high CPU use.
+  This should work in window mode as well as in fullscreen mode (stretch
+  mode only).
+
+  "Compositing" (Desktop Window Manager) in Windows Vista and above makes 
+  this option useful only in fullscreen mode, in window mode there's already
+  no tearing. 
+  This illustrates that those display problems may also be handled at driver 
+  or OS level.
+
+- New display size options. 
+  384 x 270 normal
+  400 x 278 max in fullscreen 800x600 mode
+  413 x 280 max overscan
+  416 x 286 max plasma
+  Depending on the program, one or the other size will be better.
+  Generally the smallest is sufficient.
+  The sizes count only for border effects in colour mode.
+  Steem displays what's inside the video RAM even at the extremities of the
+  borders, regardless of blanking or plane shifs introduced by shifter tricks
+  on a true ST. That's why 413 x 280 may be actually more faithful than the
+  max size. If option 'Hacks' is checked, the image will show 52 left
+  border pixels in 413 x 280 and 416 x 286 modes. If not, only 48.
+  I believe 52 is the right number, but am not sure. In order to avoid 
+  rewriting the rendering system we also use tricks to obtain those 4 more 
+  pixels. It may break in some yet unknown cases.
+  Note that internally 400 x 278 is emulated as 416 x 286, and a trick is used
+  to change resolution at rendering time (blit). 
+  This trick will work in fullscreen mode with option 'straight blit'.
+  'Screen flip' will only work with 384 x 270.
+  This may cause the display to go black or be shifted or another kind of 
+  bizarre when the emulator isn't running. 
+  400 x 278 allows one to read the full text of Best Part of The Creation.
+  416 x 286 has recently been modified, so this mode and derived modes
+  400 x 278 and 413 x 280 could still be a bit buggy!
+  In short, all bigger than normal (384 x 270) display sizes use various
+  tricks, and may be trouble in fullscreen mode.
+
+- Wake-up state:
+  Normally you'll use this option only if the display of some demo isn't 
+  correct without. You don't need to understand all technical aspects
+  to use the option, of course.
+
+  The option has become much more complicated, with 4 states instead of 2.
+  It is that complicated on the ST.
+
+  +------------------------------------------------------------+
+  | Steem  option    |              Wake-up concepts           |
+  |    variable      |                                         |
+  +------------------+---------------+------------+------------+
+  |  WAKE_UP_STATE   |   DL Latency  |     WU     |      WS    |
+  |                  |     (Dio)     |    (ijor)  |    (LJBK)  |
+  +------------------+---------------+------------+------------+
+  |   0 (ignore)     |      -        |     -      |      -     |
+  |        1         |      3        |   2 (warm) |      2     |
+  |        2         |      4        |   2 (warm) |      4     |
+  |        3         |      5        |   1 (cold) |      3     |
+  |        4         |      6        |   1 (cold) |      1     |
+  +------------------+---------------+------------+------------+
+
+  WAKE_UP_STATE is just the Steem option.
+  DL is a latency electronically measured by Dio (atari-forum) between two
+  signals, 'DE' and 'LOAD', in cycles.
+  WU are the two wake-up states first found by ijor.
+  WS are the more detailed "wake states" found by LJBK.
+  They're in a strange order for "historical" reasons.
+
+  The "Bee" demos by LJBK will recognise WS1-4, and the demos will behave as
+  expected in all WS.
+
+  The option may help for some flickering screens.
+
+  Emulation of those states is still not complete.
+
+  Needless to say, Steem is leading the way for this issue.
+
+- Save WU state with snapshot; reset on switch STE/STF.
+
+- Line +2 in STE mode: yet a new way.
+
+- 'Shifter panic': swap good/bad bands to be more like screenshot of
+  Omega Full Overscan.
+  Shifter panic is only WU2, by choice, to limit options.
+  Omega works in WS2, Death of the Left Border in WU1 (at least, in
+  Steem).
+
+- Rearrange some options, "drive track info" in SSE page, when it's
+  checked the drive led of 'OSD' page is suppressed.
+
+- Disk manager: right click on name to read full name, useful for very
+  long names.
+
+- MegaST4 option: preselect monochrome.
+
+- Internal:
+  Reordering of shifter tricks analysis, refactoring.
+  Some tests for shifter tricks now handled in a state machine-like 
+  manner, not looking for specific switches anymore => better emulation, 
+  more performing tests.
+  Debugging and removing some hacks related to "wake-up" and "wake-state".
+  

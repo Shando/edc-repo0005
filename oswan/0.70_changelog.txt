@@ -1,0 +1,7 @@
+Here  is what's new:
+
+ - Better CPU timing
+ - Sound support
+ - Fixed mono games states saves bug
+ - Fixed green color scheme bug
+ - Joystick support
