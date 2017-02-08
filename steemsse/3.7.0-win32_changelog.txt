@@ -1,0 +1,130 @@
+v3.7.0 Features
+_________________
+
+- Some options have been shuffled about (again), so look around:
+
+  STF/STE switch -> Machine page
+  Wake-up state -> Machine page
+  Display size -> Display page
+  Pasti only for STX -> Disk manager
+  Slow disk -> only in Disk manager now (lamer alert!)
+  PSG Filter; Drive sound; Keyboard click -> Sound page
+
+- Optional Direct 3D video rendering for fullscreen, probably the most
+  important new feature.
+  For this you must check the 'D3D' option on the 'Fullscreen mode' page.
+  This option should be more compatible with Windows 7 and 8.
+  You can choose the resolution among all the 32bit modes proposed by
+  your video card (don't clamour for 16bit, if your system can handle DX9,
+  it can handle 32bit).
+
+  There's also a new option to emulate the Atari ST's distorted aspect
+  ratio in this fullscreen mode. The screen is higher than it should be,
+  so that squares and circles ain't.
+
+  DirectDraw modes are still available (if the option isn't checked).
+
+  If you don't need D3D and don't want to upgrade your system just for that,
+  a separate build is available, without the option. It's built with Visual 
+  Studio 6 and is less optimised than the main VS2008 build, a tad smaller
+  too.
+
+- Display
+  New options "Lock window size" and "Lock aspect ratio".
+
+- Disk manager
+  Double click on nothing goes up one level in the path, like in some 
+  file managers.
+  Right click on the HD icon to toggle on/off the "Gemdos" hard drive emu.
+  "Improved" auto-insert disk B.
+
+- "STW" disk images support
+  This format was devised for Steem and holds "clock" bits as well as
+  all data and format bytes on the floppy disk, in MFM encoding.
+  The goal is to be able to fully emulate the WD1772 floppy drive controller
+  also for write commands (write sector, write track = format).
+  Notice that it doesn't record timings and so doesn't compete with Pasti,
+  Kryoflux, SCP, etc. It is compatible with the Hxc floppy emulator though.
+  Support for: Dragonflight; Realm of the Trolls; Union Demo etc.
+  A STW version of the Union Demo is included in the download.
+  Specification: http://ataristeven.t15.org/txt/STW%20specification.txt
+
+- "STG" ghost disks
+  Those are used to harmlessly save high scores, and more, when using
+  CTR/IPF/STX disk images, if the option in disk manager is checked. 
+  It's a hack, but quite effective.
+  Specification: http://ataristeven.t15.org/txt/STG%20specification.txt
+
+- Support for launching standalone PRG and TOS files (see /PRG/note.txt;
+  option in disk manager).
+
+- Some emulation improvements
+  6301:    More precise mouse speed (we still don't claim perfection)
+  68000:   Many prefetch and rounding corrections using the "Yacht" doc
+           Some instructions logic fixes:
+             ABCD,SBCD, copied from Hatari (Espana 92 -ICS)
+             DIV (Speed-Packer II, thx Maartau)
+           ILLEGAL assertion conform to real ST for all 16bit opcodes (thx
+           Petari)
+           Some stack frame improvements in case of bus error (The Teller STX,
+           Blood Money -SUP)
+           Stop emulation on HALT, indicate in status bar, no more annoying 
+           'crash and burn'
+  68901:   IACK latency more generally handled (Anomaly Demo)
+           Spurious interrupt emulated
+           GPIP-IRQ and timeout-IRQ delays (V8 Music System, Overscan Demos 
+           STE)
+           Write on register delay (Audio Artistic Demo)
+           Cycle-accurate timers
+  For performance and risk reasons, those MFP improvements are activated by
+  the new 'C2' option.
+  Advanced: on the SSE page there's a new option that allows you to set
+  the CPU clock in relation to the MFP's. It's an interesting variable in
+  emulation, it can be used to "fix" some programs.
+  Blitter: Timing hack (Relapse Grafix Sound II)
+  Drive:   Fix $D8/$D0 confusion (Wipe-Out -RPL)
+           Media change for Pasti (4 Wheel Drive/Combo Racer STX)
+           Drive sound: you have the choice between two kinds of 'seek' 
+           sounds if you right click on the drive icon.
+           New hacked pasti.dll is available: 
+           http://ataristeven.t15.org/Other_downloads.htm#Pasti
+           (Jupiter Masterdrive ,4 Wheel Drive/Combo Racer)
+  GLUE:    Correct timings for STE "line +2", this was possible only after
+           many CPU/MFP timing corrections, oddly, and could still be
+           troublesome. Because of that I accepted those timings only after 
+           some tests on a real STE.
+  LMC1992: Some fixes, doc is not correct.
+  MMU:     Adapt video counter when ST is temporarily set in high res
+           (trace routine in My Socks are Weapons by Legacy)
+  PSG:     Now the table by ljbk is used for all PSG (soundchip) emulation.
+           This makes it louder and quite distorted but that's correct 
+           emulation. The ST was a screaming beast, that's why it was
+           beloved.
+           Need (provided) file ym2149_fixed_vol.bin for this option.
+           Bugfix rendering when quantizing high frequency changes 
+           (YMT player).
+           Addition of a 'Hatari' sound filter, based on... guess what.
+  Shifter: Bugfix display "line -2" (BIG Demo #2)
+           Read palette returns a value depending on dbus (hack, Awesome 
+           04 STF)
+
+- Joystick: you may define a second button for 'up' (jump), for a better 
+  arcade feeling on platform games.
+  
+- Video: nuked AVI recording feature, that wasn't satisfying. Apparently
+  some 3rd party software do a better job.
+
+- Patches
+
+  Additionally some new patches hack the password protection of the following
+  original games (STX):
+
+  Carrier Command
+  Elite
+  Great Courts
+  RVF Honda
+  Starglider II
+
+  They work on the standard STF configuration (TOS102, 1MB).
+  Those patches were easily made using the powerful Steem SSE Boiler.
+

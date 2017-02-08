@@ -1,0 +1,39 @@
+Improvements of v3.6.1
+------------------------
+
+-CPU fix: Axxept demos
+
+-Gemdos interception: ReDMCSB Megamax C project TOS1.04 100%
+
+-Internal: MFP/Acia other emulation approach for some cases
+
+-Internal: 'SSE' files compile to separate object files.
+
+Windows-only:
+
+-Support for capsimg v5.0, 5.1 and CTRaw (.CTR) files
+please download the new dll at http://www.kryoflux.com/
+
+-New expermental option STF 8.0MHZ (regular PAL ST were a tad faster)
+
+-TOS/ST type warning
+
+-Auto Tos selection when loading snaphshot from other computer/config
+('Hacks')
+
+
+Bugfixes of v3.6.1
+--------------------   
+
+-Bugfix ST CPU speed option (broken v3.5.1)
+-Big display no border shift
+-CPU exception fix: DragonFlight, broken v3.4.0
+-Gemdos Refine "rte" mod -> ReDMCSB goes halfway (precisely!) with TOS102
+-Bugfix in VBI timing: Auto168, Demoniak (both WU1), 3615 Cakeman...
+-Bugfix Microwire Treble: BTG (just disable)
+-Bugfix Microwire channel volume: Beat
+-IPF fix missing step sound drives
+-Fix image type recognition problems when inserting/ejecting STX
+-Bugfix Floppy: English for Business (broken v3.5.1)
+-Bugfix Floppy media change: Aladin (broken again v3.6.0)
+-Bugfix High density disks in slow drive mode 

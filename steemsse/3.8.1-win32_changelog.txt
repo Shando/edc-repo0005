@@ -1,0 +1,33 @@
+v3.8.1 Features
+_________________
+
+- No display if bit 0 of Sync Mode register is set...
+  YEAH!!! you've been dreaming of this!
+
+
+v3.8.1 Internal
+_________________
+
+- Blitter remove timing hack of v3.8.0 in blit mode
+- CPU trace utility uses its official 'tpend' latch
+- Video counter reckoning at last separated from rendering 
+- "Extended monitor" refactoring
+
+
+v3.8.1 Bugfixes
+_________________
+
+- Larger initial disk manager window size
+- CPU HALT: reset switch should still work
+- YM2149: argh!, disable poorly implemented "dephasing" (Kid Kong)
+- Eliminate double checking side overscan (useless CPU load)
+- Large display mode refactoring, correcting some raster effects 
+  (Backlash -TEX, etc.)
+- Fix 413x275 display mode, no stretch, in medium resolution
+- Fix 413x275 display mode, scanlines
+- Don't enable keyboard click if a program disabled it
+  (Pump ab das Bier by The Confederacy)
+- STE had STF-like wake-up state modifiers in WU2
+  So now WU2 on STE means GLUE WS1 (!) and Shifter "dots" on Spectrum 512 pics
+- Fix shifted picture with options: no border, fullscreen, D3D, interpolated
+  scanlines

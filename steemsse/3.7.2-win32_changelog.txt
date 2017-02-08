@@ -1,0 +1,41 @@
+v3.7.2 Features
+_________________
+
+Another impressive list of improvements for this release.
+
+- HFE images support
+
+  This is the file format of HxC floppy emulator.
+  Copy file HFE_boot.bin to your Steem directory for new disk image 
+  creation (though you may use already existing images converted with
+  HxC software).
+
+- Improvements in SCP images support
+
+  Ghost disks
+  ID around index pulse (I Ludicrus)
+  Simpler system for weak bit protections
+
+- Support for 7Z, BZ2, GZ, TAR, ARJ compression formats
+
+  The feature uses ArchiveAccess.dll, which you need to copy to your Steem
+  or system directory.
+  The included DLL has been fixed by you know who so that it also works
+  with BZ2 files. 
+  You still need unzipd32.dll and unrar.dll for ZIP and RAR archives.
+
+- New option for crisp Direct3D fullscreen rendering
+  
+- Links updated in general info; don't forget to copy steem.new
+  (feel free to delete the silly brags and mean-spirited Chuck Norris 
+  jokes...)
+
+
+v3.7.2 Bugfixes
+_________________
+
+- Bugfix MFP spurious interrupt on STOP after CLR int. mask (Return STE -HMD)
+- Bugfix fail to properly remove previous disk image on some insertions:
+  could explain some strange bugs, when two disks are in the same drive it 
+  can't be good...
+- Bugfix WD1772 writing data bytes with missing clock bit on Format

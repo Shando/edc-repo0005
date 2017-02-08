@@ -1,0 +1,23 @@
+Improvements of v3.6.3
+------------------------
+
+-Gemdos hard disk: interception mode depends on option 'Hacks'
+Checked: mode 6 if possible (ReDMCSB)
+Unchecked: always mode 4
+This is because we're still not sure that ReDMCSB would compile
+on a real ST.
+-STE DMA sound (option Microwire): YM+DMA only if mixer mode 1
+-Adapt Steem to current version of FreeImage (breaking changes)
+-No drive led when drive not selected
+-Defaults to WU1 for vertical overscan
+
+
+Bugfixes of v3.6.3
+--------------------   
+
+-Bugfix record sound
+-Bugfix Shifter write single byte in palette register, revert to
+Steem's original way
+-Bugfix resume snapshot without CapsImg.dll
+-Bugfix save NEO snapshot when FreeImage active
+-Bugfix command $D4 in native WD1772 emulation (broken v3.6.2)

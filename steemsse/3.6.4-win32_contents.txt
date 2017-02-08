@@ -1,0 +1,27 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-01-05 16:54:56 ....A         3304       265106  DriveSound\drive_click_Epson.wav
+2014-01-05 16:52:22 ....A       111224               DriveSound\drive_seek_Epson.wav
+2014-01-05 17:01:00 ....A       166196               DriveSound\drive_spin_Epson.wav
+2014-01-05 16:52:30 ....A        12052               DriveSound\drive_startup_Epson.wav
+2012-07-15 10:35:42 ....A         4096               HD6301V1ST.img
+2004-10-22 16:04:04 ....A         8789               faq.txt
+2014-06-15 08:53:58 ....A         4365               Hints.txt
+2014-06-15 08:56:38 ....A         1412               KnownBugs.txt
+2004-10-22 15:37:04 ....A        53990               readme.txt
+2014-06-15 09:51:08 ....A        26743               Steem SSE 3.6.4.txt
+2014-06-15 08:53:58 ....A        10850               Steem SSE FAQ.txt
+2014-02-05 16:30:10 ....A        11528               steem.new
+2014-02-07 20:14:56 ....A          250               patches\BIG Demo.stp
+2012-08-17 21:26:20 ....A          594               patches\Cool STE.stp
+2014-02-25 12:51:46 ....A          202               patches\Dynabusters+.stp
+2012-08-17 21:24:48 ....A          365               patches\Enchanted Land STE.stp
+2012-06-09 21:30:36 ....A          429               patches\Final Conflict.stp
+2014-04-03 15:02:12 ....A          447               patches\Jupiter's Masterdrive STX.stp
+2012-03-22 20:45:42 ....A          259               patches\MP_GolfDepr.stp
+2014-03-09 09:59:18 ....A          165               patches\Yogi's Great Escape.stp
+2014-06-15 08:44:38 ....A      1306624       334958  Steem SSE 3.6.4.exe
+2017-02-28 09:20:34 D....            0            0  patches
+2017-02-28 09:20:34 D....            0            0  DriveSound
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 09:20:34            1723884       600064  21 files, 2 folders

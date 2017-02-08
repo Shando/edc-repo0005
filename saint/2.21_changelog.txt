@@ -1,0 +1,4 @@
+2.21
+* upper left bad pixel fix (when the last pixel of screen is not same color as the first pixel)
+* many update when autorun mode is used (for gamebase, thanks to John Irvine for report)
+* compiler change to visual 2010

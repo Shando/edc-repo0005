@@ -1,0 +1,32 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-06-30 14:01:00 ....A        42396       649460  DocData\debug.gif
+2008-06-30 14:01:16 ....A        45482               DocData\disk.gif
+2007-11-29 23:47:46 ....A        13814               DocData\fondpageblanc.gif
+2008-06-30 14:01:40 ....A        40999               DocData\options.gif
+2008-06-30 14:00:30 ....A        48088               DocData\record.gif
+2007-11-29 23:47:46 ....A         9333               DocData\logosaint.jpg
+1987-04-22 00:04:52 ....A       196608               Tos102uk.img
+2007-11-29 23:47:46 ....A         2660               DocData\compatibility.html
+2008-06-30 14:27:20 ....A        33921               DocData\credits.html
+2008-06-30 14:11:12 ....A         7327               DocData\debugger.html
+2012-01-10 00:48:58 ....A         2134               Dir2Msa\Dir2Msa.html
+2007-11-29 23:47:46 ....A         2367               DocData\introduction.html
+2007-11-29 23:47:46 ....A         6395               DocData\keys.html
+2007-11-29 23:47:46 ....A         3507               DocData\links.html
+2011-03-21 22:34:40 ....A         3356               DocData\menu.html
+2011-03-21 22:38:18 ....A        67604               DocData\news.html
+2008-06-30 14:10:36 ....A         8129               DocData\options.html
+2008-06-30 14:12:22 ....A         5160               DocData\record.html
+2008-06-30 14:12:36 ....A         5361               DocData\running.html
+2007-11-29 23:47:46 ....A          437               SainTDoc.html
+2007-11-29 23:47:46 ....A         7279               DocData\trouble.html
+2012-11-08 23:56:44 ....A        11370               versions.txt
+2011-03-21 22:21:52 ....A          617               SainT.ini
+2008-06-30 03:02:14 ....A       341150               SainTDefault.msa
+2012-01-10 00:45:16 ....A        87552       366942  Dir2Msa\dir2msa.exe
+2012-11-08 23:47:22 ....A       327680               SainT.exe
+2017-02-28 09:35:39 D....            0            0  DocData
+2017-02-28 09:35:39 D....            0            0  Dir2Msa
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 09:35:39            1320726      1016402  26 files, 2 folders

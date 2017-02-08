@@ -1,0 +1,10 @@
+v3.6.4 features and fixes
+---------------------------
+
+- Better handling of CTR disk images: Vroom, Outrun and other games
+  using weak bits.
+  Last version of CAPSImg 5.1 necessary (may 2014)
+- Timings: correct frame cycles for 508 cycle scanlines
+- Timings: sync 68000 on E-clock for ACIA R/W, HBL, VBL interrupts if 
+  option 6301/ACIA checked
+- various bugfixes

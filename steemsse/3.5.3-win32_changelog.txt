@@ -1,0 +1,38 @@
+Improvements of v3.5.3
+------------------------
+
+- Reset button inverted: left click for reset, right click for switch off
+- On Screen Display: 'Steem SSE' in former plasma, no version number, which 
+  is in the window title. In fact 'SSE' fits in the space reserved
+  for two digits version number ('3.2'). Nice-looking, original work by Steem
+  authors.
+- Option 'Interpolated scanlines' moved to SSE option page
+- Option 'Slow disk' duplicated in SSE page
+- File associations: 
+  Can now create and remove association in options.
+  Now uses registry part HKEY_CURRENT_USER, not HKEY_CLASSES_ROOT so you
+  don't need to run as administrator.
+  Simplistic: when you associate, Steem takes the extension for itself,
+  disregarding other programss. When you remove the association, Steem deletes
+  the extension from the registry.
+  No auto-association at startup, including .PRG,.TOS,.APP,.GTP,.TTP.
+  No association with .STC (cartridge) possible, by design.
+  Removing previous Steem associations is up to you.
+  You must reassociate with subsequent versions. It's because the name of the 
+  executable changes.
+  Those changes also reduce the executable file size by 4KB.
+- 'Very large' display size increased to 412x285: The Musical Wonder 90
+- 'Large' display size: correct On Screen Display alignment
+- TOS STE faster boot (from hatari) (option 'Hacks')
+- Better video RAM check on some writes: mmuupd0, 3615 GEN4 by ULM 100%
+- Top and bottom borders depend on Wake-up state: wakeup.tos, Decade title, ...
+- Shifter destabilisation: 'Bee' demos by LJBK
+- Shifter panic: Omega Full Overscan (for fun)
+- Shifter tricks fixes for 0 byte lines, lines +2, lines -106, new line +24:
+  The LoSTE screens by Sync (STF/STE), SNYD/TCB (WU1,2)
+- Hardscroll in high resolution (please code some demos!)
+- Bugfix ACIA: Nightdawn
+- Bugfix MFP: ST Magazine STE Demo
+- FDC: 'Force Interrupt' better handled (Panzer)
+- Drive: Slow boot to GEM when no disk; Interleave in 11 sectors disks
+
