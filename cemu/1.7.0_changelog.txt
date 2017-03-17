@@ -1,0 +1,3 @@
+v1.7.0 | 2017-01-16
+Added 'Graphic packs' (graphic modding support)
+Extended shader cache, now transferable and forward compatible

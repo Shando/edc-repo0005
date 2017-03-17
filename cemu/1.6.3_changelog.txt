@@ -1,0 +1,4 @@
+v1.6.3 | 2016-11-27
+Graphic improvements
+Rewritten audio core
+Bugfixes

@@ -1,0 +1,12 @@
+2 January 2017
+
+-update palette colors (suggestion from Sometimes99er)
+-fix startup CPU timing
+-add some register support to GPU
+-implement scanline VDP processing
+-implement disk image writing (except per-sector writes)
+-re-added VDP warning (with a little more state awareness)
+-add optional FPS display
+-automatically disable disconnected joysticks (was causing slowdown in some cases)
+-fix F18A multiple palette support on ECM0 tiles
+-fix 5-sprite-on-a-line flag

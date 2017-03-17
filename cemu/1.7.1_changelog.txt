@@ -1,0 +1,5 @@
+v1.7.1 | 2017-02-09
+Recompiler optimizations (Faster CPU emulation)
+Improved compatibility
+Reduced VRAM usage
+Tons of bugs and crashes fixed

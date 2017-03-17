@@ -1,0 +1,6 @@
+v1.6.4 | 2016-12-19
+Graphic improvements & Bicubic upscale filter
+Compatibility improvements
+Minor audio improvements
+Minor optimizations
+Bugfixes & misc small changes
