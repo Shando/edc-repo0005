@@ -1,0 +1,5 @@
+v1.7.2 | 2017-02-23
+Optimizations
+Improved compatibility
+Graphic improvements
+Bugfixes & minor adjustments
